@@ -70,4 +70,6 @@ const DATES = [
  {iso:"2026-11-07",format:"sat",  kits:["basic","laptop","cubes"],        seats:6},
  {iso:"2026-11-28",format:"long", kits:["backpack"],                       seats:5},
 ];
+/* Real photos that exist in img/. Add a key here when you drop the file in: "hero", "kits", "espai", or "kits/<kit id>". */
+const PHOTOS = [];
 const CONTACT_EMAIL = "hallo@stich-zuerich.ch"; /* placeholder until domain is decided */

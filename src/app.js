@@ -81,7 +81,7 @@
       const dateHtml=d?`<div class="card__date">${ICO_CAL}<span>${fmtDate(d.iso,{weekday:"long",day:"numeric",month:"long"})} · ${t(f.timeKey).split("·")[1].trim()}</span></div>`
                       :`<div class="card__date card__date--none">${ICO_CAL}<span>${t("card_nodate")}</span></div>`;
       return `<article class="card accent-${k.accent} reveal" data-id="${k.id}">
-        <div class="card__img">${iconSvg(k)}<span class="card__lvl">${t("level"+k.level)}</span></div>
+        <div class="card__img">${PHOTOS.includes("kits/"+k.id)?`<img class="real" src="img/kits/${k.id}.jpg" alt="${k.name[lang]}">`:""}${iconSvg(k)}<span class="card__lvl">${t("level"+k.level)}</span></div>
         <div class="card__body">
           <h3 class="card__title">${k.name[lang]}</h3>
           <p class="card__sub">${t("level"+k.level+"_t")}</p>
@@ -119,9 +119,6 @@
   const sections=$$("main section[id]");
   const navObs=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)$$("#nav a").forEach(a=>a.classList.toggle("is-active",a.getAttribute("href")==="#"+e.target.id));}),{rootMargin:"-40% 0px -55% 0px"});
   sections.forEach(s=>navObs.observe(s));
-  const root=document.documentElement;
-  try{const th=localStorage.getItem("stich-theme"); if(th) root.dataset.theme=th;}catch(e){}
-  $("#theme").addEventListener("click",()=>{const dark=root.dataset.theme==="dark"; root.dataset.theme=dark?"light":"dark"; try{localStorage.setItem("stich-theme",root.dataset.theme);}catch(e){}});
 
   /* --- reveal + parallax --- */
   const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -140,6 +137,9 @@
   const sweep=()=>$$(".pre").forEach(el=>{const r=el.getBoundingClientRect(); if(r.top<innerHeight+40&&r.bottom>-40) show(el);});
   addEventListener("scroll",sweep,{passive:true}); addEventListener("resize",sweep); setTimeout(sweep,400);
   if(!reduce){const par=$$("[data-parallax] .ph"); const tick=()=>{const vh=innerHeight; par.forEach(p=>{const r=p.parentElement.getBoundingClientRect(); const c=(r.top+r.height/2-vh/2)/vh; p.style.transform=`translateY(${(-c*16).toFixed(1)}px) scale(1.08)`;});}; addEventListener("scroll",()=>requestAnimationFrame(tick),{passive:true}); tick();}
+
+  /* --- real photos over the illustrations, only when listed in PHOTOS --- */
+  $$("[data-photo]").forEach(el=>{const k=el.dataset.photo; if(PHOTOS.includes(k)){const im=document.createElement("img"); im.className="real"; im.src=`img/${k}.jpg`; im.alt=""; el.prepend(im);}});
 
   /* --- init --- */
   const sel=$("#lang"); sel.innerHTML=LANGS.map(l=>`<option value="${l}">${l.toUpperCase()}</option>`).join("");
