@@ -7,7 +7,7 @@ GitHub Pages serveix `index.html` des de la branca `main`. Per publicar canvis: 
 
 ## Fitxers
 - `index.html` — la web sencera, generada. **No l'editis a mà**: edita `src/` i executa `./build.sh`.
-- `src/styles.css` — estils (paleta i tipografia de les guidelines STICH, tema clar i fosc).
+- `src/styles.css` — estils (paleta i tipografia de les guidelines STICH). Tema clar per defecte; el fosc només amb el botó de la capçalera.
 - `src/i18n.js` — tots els textos de pàgina, `I18N[lang][clau]`.
 - `src/kits.js` — els 19 kits (nom i descripció en sis idiomes, format, nivell, color), els formats i preus, les dates i l'email.
 - `src/body.html` — el marcatge. Cap text literal: tot surt de `data-i18n`.
