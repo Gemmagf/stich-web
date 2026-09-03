@@ -85,7 +85,6 @@
         <div class="card__body">
           <h3 class="card__title">${k.name[lang]}</h3>
           <p class="card__sub">${t("level"+k.level+"_t")}</p>
-          <p class="card__desc">${k.desc[lang]}</p>
           <div class="card__meta"><span>${ICO_CLOCK}${fmtDuration(f.hours)}</span><span>${ICO_TAG}${f.price} CHF</span></div>
           ${dateHtml}
           <a class="link link--${k.accent} card__cta" href="${mailto(k,d)}"><span>${t("card_cta")}</span>${ARROW}</a>
@@ -103,7 +102,7 @@
     $("#dates-list").innerHTML=DATES.map(d=>{
       const f=FORMATS[d.format], full=d.seats<=0;
       const dots=Array.from({length:6},(_,i)=>`<i class="${i<6-d.seats?"taken":""}"></i>`).join("");
-      return `<div class="date ${full?"is-full":""}">
+      return `<div class="date date--${d.format} ${full?"is-full":""}">
         <div class="date__day">${fmtDate(d.iso,{day:"numeric",month:"short"})}<small>${fmtDate(d.iso,{weekday:"long"})} · ${fmtDate(d.iso,{year:"numeric"})}</small></div>
         <div class="date__fmt"><b>${t(f.nameKey)} · ${f.price} CHF</b><span>${t(f.timeKey)}</span></div>
         <div class="date__kits">${d.kits.map(id=>{const k=KITS.find(x=>x.id===id);return `<span>${k.name[lang]}</span>`;}).join("")}</div>

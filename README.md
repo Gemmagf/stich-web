@@ -11,7 +11,8 @@ GitHub Pages serveix `index.html` des de la branca `main`. Per publicar canvis: 
 - `src/i18n.js` — tots els textos de pàgina, `I18N[lang][clau]`.
 - `src/kits.js` — els 19 kits (nom i descripció en sis idiomes, format, nivell, color), els formats i preus, les dates i l'email.
 - `src/body.html` — el marcatge. Cap text literal: tot surt de `data-i18n`.
-- `src/app.js` — idioma, filtres, dates, menú, tema, animacions i les il·lustracions de substitució.
+- `src/app.js` — idioma, filtres, dates, menú, animacions i les il·lustracions de substitució de les targetes.
+- `src/pictos/` — els nou pictogrames line-art (SVG editables). `build.sh` els incrusta on hi ha `<!--picto:nom-->` a `body.html`; amb `|#color` hi afegeix la taca pastel al darrere.
 
 ## Què cal substituir abans de fer-la pública
 - `CONTACT_EMAIL` a `src/kits.js` (ara `hallo@stich-zuerich.ch`, marcador de posició).

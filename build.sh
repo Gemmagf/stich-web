@@ -10,7 +10,18 @@ FONTS='<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="pre
   echo "$FONTS"
   echo '<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%2716%27 fill=%27%23CF6446%27/%3E%3Ctext x=%2716%27 y=%2722%27 font-size=%2718%27 text-anchor=%27middle%27 fill=%27%23fff%27 font-family=%27serif%27%3ES%3C/text%3E%3C/svg%3E">'
   echo '<style>'; cat src/styles.css; echo '</style></head><body>'
-  cat src/body.html
+  python3 - <<'PYEOF'
+import re
+body=open("src/body.html").read()
+blob='<path d="M9 19C15 8 28 7 39 10c12 3 18 13 15 25-3 13-13 20-26 19C14 53 7 45 7 33c0-6 0-10 2-14Z" fill="%s" opacity=".95"/>'
+def sub(m):
+    name,_,color=m.group(1).partition("|")
+    svg=open(f"src/pictos/{name}.svg").read().strip()
+    svg=re.sub(r'\s(width|height)="64"',"",svg,count=2).replace('<svg ','<svg class="picto" aria-hidden="true" ',1)
+    if color: svg=svg.replace(">",">"+blob%color,1)
+    return re.sub(r"\n\s*"," ",svg)
+print(re.sub(r"<!--picto:([^>]+)-->",sub,body),end="")
+PYEOF
   echo '<script>'; cat src/i18n.js src/kits.js src/app.js; echo '</script>'
   echo '</body></html>'
 } > index.html
