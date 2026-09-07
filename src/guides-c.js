@@ -1,0 +1,306 @@
+/* ===== Workshop guides for kits 10–15: diagram-based, no photos. `src` credits the reference pattern. ===== */
+GUIDES.zippouch = {badge:"KIT 10",hours:2,imgs:[null,null,null,null,null,null,null],defaults:"ws",src:["Anielska Aniela","https://anielskaaniela.com/2026/09/how-to-sew-a-zipper-pouch-free-pattern.html"],L:{
+ca:{title:"Zip pouch · funda plana amb cremallera",materials:[["Exterior","2 peces · 18 × 24 cm"],["Folre","2 peces · 18 × 24 cm"],["Entretela","2 peces · opcional"],["Cremallera","De nylon · segons patró"],["Terminals","2 terminals de cremallera + 2 travetes laterals"],["Marge","1 cm inclòs al patró"]],steps:[
+ {e:"Tallar",t:"Talla les peces",items:["Talla 2 peces exteriors i 2 de folre de 18 × 24 cm. Talla també les peces petites per als terminals de la cremallera i les travetes laterals."]},
+ {e:"Preparar",t:"Prepara la cremallera",items:["Afegeix els terminals de tela als dos extrems de la cremallera. Planxa bé perquè quedin plans abans de continuar."]},
+ {e:"Cremallera",t:"Munta el primer costat",items:["Posa exterior i cremallera cara bonica amb cara bonica. Afegeix el folre a l’altra cara de la cremallera i cus les tres capes amb pota de cremallera."]},
+ {e:"Repetir",t:"Repeteix a l’altre costat",items:["Munta l’altre exterior i folre a l’altre costat de la cremallera. Obre les teles i fes un repunt de càrrega a prop de la cremallera."]},
+ {e:"Travetes",t:"Afegeix les travetes",items:["Doblega les petites tires per formar les travetes i fixa-les als laterals, orientades cap a l’interior."]},
+ {e:"Tancar",t:"Tanca la bossa",items:["Obre la cremallera a mitges. Encara exterior amb exterior i folre amb folre. Cus tot el contorn deixant una obertura al folre."]},
+ {e:"Girar",t:"Gira i acaba",items:["Gira la bossa per l’obertura del folre, tanca-la amb un repunt i planxa la peça."]}]},
+es:{title:"Zip pouch · funda plana con cremallera",materials:[["Exterior","2 piezas · 18 × 24 cm"],["Forro","2 piezas · 18 × 24 cm"],["Entretela","2 piezas · opcional"],["Cremallera","De nailon · según patrón"],["Terminales","2 terminales de cremallera + 2 trabillas laterales"],["Margen","1 cm incluido en el patrón"]],steps:[
+ {e:"Cortar",t:"Corta las piezas",items:["Corta 2 piezas exteriores y 2 de forro de 18 × 24 cm. Corta también las piezas pequeñas para los terminales de la cremallera y las trabillas laterales."]},
+ {e:"Preparar",t:"Prepara la cremallera",items:["Añade los terminales de tela en los dos extremos de la cremallera. Plancha bien para que queden planos antes de continuar."]},
+ {e:"Cremallera",t:"Monta el primer lado",items:["Pon exterior y cremallera derecho con derecho. Añade el forro en la otra cara de la cremallera y cose las tres capas con prensatelas de cremallera."]},
+ {e:"Repetir",t:"Repite en el otro lado",items:["Monta el otro exterior y forro en el otro lado de la cremallera. Abre las telas y haz un pespunte de carga cerca de la cremallera."]},
+ {e:"Trabillas",t:"Añade las trabillas",items:["Dobla las tiras pequeñas para formar las trabillas y fíjalas en los laterales, orientadas hacia dentro."]},
+ {e:"Cerrar",t:"Cierra la bolsa",items:["Abre la cremallera a medias. Enfrenta exterior con exterior y forro con forro. Cose todo el contorno dejando una abertura en el forro."]},
+ {e:"Girar",t:"Gira y acaba",items:["Gira la bolsa por la abertura del forro, ciérrala con un pespunte y plancha la pieza."]}]},
+en:{title:"Zip pouch · flat zipper pouch",materials:[["Outer","2 pieces · 18 × 24 cm"],["Lining","2 pieces · 18 × 24 cm"],["Interfacing","2 pieces · optional"],["Zip","Nylon coil · as per pattern"],["Tabs","2 zip end tabs + 2 side loops"],["Allowance","1 cm included in the pattern"]],steps:[
+ {e:"Cut",t:"Cut the pieces",items:["Cut 2 outer and 2 lining pieces of 18 × 24 cm. Also cut the small pieces for the zip tabs and side loops."]},
+ {e:"Prep",t:"Prepare the zip",items:["Add the fabric tabs to both ends of the zip. Press well so they lie flat before you continue."]},
+ {e:"Zip",t:"Sew the first side",items:["Place outer and zip right sides together. Add the lining to the other face of the zip and sew the three layers with the zipper foot."]},
+ {e:"Repeat",t:"Repeat on the other side",items:["Attach the other outer and lining to the other side of the zip. Open the fabrics and topstitch close to the zip."]},
+ {e:"Loops",t:"Add the loops",items:["Fold the small strips into loops and fix them to the sides, pointing inwards."]},
+ {e:"Close",t:"Close the pouch",items:["Open the zip halfway. Face outer with outer and lining with lining. Sew all around leaving a gap in the lining."]},
+ {e:"Turn",t:"Turn and finish",items:["Turn the pouch through the lining gap, close it with a line of stitching and press."]}]},
+de:{title:"Zip Pouch · flaches Reissverschluss-Täschchen",materials:[["Aussenstoff","2 Teile · 18 × 24 cm"],["Futter","2 Teile · 18 × 24 cm"],["Einlage","2 Teile · optional"],["Reissverschluss","Nylon-Spirale · nach Schnitt"],["Tabs","2 Reissverschluss-Enden + 2 seitliche Schlaufen"],["Nahtzugabe","1 cm im Schnitt enthalten"]],steps:[
+ {e:"Zuschneiden",t:"Teile zuschneiden",items:["Schneide 2 Aussen- und 2 Futterteile von 18 × 24 cm zu. Schneide auch die kleinen Teile für die Reissverschluss-Enden und die Seitenschlaufen."]},
+ {e:"Vorbereiten",t:"Reissverschluss vorbereiten",items:["Nähe die Stoff-Enden an beide Seiten des Reissverschlusses. Gut bügeln, damit sie flach liegen."]},
+ {e:"Reissverschluss",t:"Erste Seite nähen",items:["Aussenstoff und Reissverschluss rechts auf rechts legen. Futter auf die andere Seite des Reissverschlusses legen und die drei Lagen mit dem Reissverschlussfuss nähen."]},
+ {e:"Wiederholen",t:"Auf der anderen Seite wiederholen",items:["Das zweite Aussen- und Futterteil an die andere Seite des Reissverschlusses nähen. Stoffe aufklappen und nah am Reissverschluss absteppen."]},
+ {e:"Schlaufen",t:"Schlaufen anbringen",items:["Die kleinen Streifen zu Schlaufen falten und seitlich fixieren, nach innen zeigend."]},
+ {e:"Schliessen",t:"Täschchen schliessen",items:["Reissverschluss halb öffnen. Aussen auf Aussen und Futter auf Futter legen. Rundum nähen und im Futter eine Wendeöffnung lassen."]},
+ {e:"Wenden",t:"Wenden und fertigstellen",items:["Durch die Futteröffnung wenden, mit einer Naht schliessen und bügeln."]}]},
+fr:{title:"Zip pouch · pochette plate zippée",materials:[["Extérieur","2 pièces · 18 × 24 cm"],["Doublure","2 pièces · 18 × 24 cm"],["Entoilage","2 pièces · optionnel"],["Fermeture","Nylon · selon patron"],["Embouts","2 embouts de fermeture + 2 passants latéraux"],["Marge","1 cm inclus dans le patron"]],steps:[
+ {e:"Couper",t:"Coupe les pièces",items:["Coupe 2 pièces extérieures et 2 de doublure de 18 × 24 cm. Coupe aussi les petites pièces pour les embouts de fermeture et les passants."]},
+ {e:"Préparer",t:"Prépare la fermeture",items:["Ajoute les embouts en tissu aux deux extrémités de la fermeture. Repasse bien pour qu’ils soient plats."]},
+ {e:"Fermeture",t:"Monte le premier côté",items:["Place extérieur et fermeture endroit contre endroit. Ajoute la doublure sur l’autre face de la fermeture et couds les trois épaisseurs au pied fermeture."]},
+ {e:"Répéter",t:"Répète de l’autre côté",items:["Monte l’autre extérieur et la doublure de l’autre côté de la fermeture. Ouvre les tissus et surpique près de la fermeture."]},
+ {e:"Passants",t:"Ajoute les passants",items:["Plie les petites bandes pour former les passants et fixe-les sur les côtés, orientés vers l’intérieur."]},
+ {e:"Fermer",t:"Ferme la pochette",items:["Ouvre la fermeture à moitié. Superpose extérieur contre extérieur et doublure contre doublure. Couds tout le tour en laissant une ouverture dans la doublure."]},
+ {e:"Retourner",t:"Retourne et termine",items:["Retourne la pochette par l’ouverture de la doublure, referme-la d’une piqûre et repasse."]}]},
+it:{title:"Zip pouch · astuccio piatto con cerniera",materials:[["Esterno","2 pezzi · 18 × 24 cm"],["Fodera","2 pezzi · 18 × 24 cm"],["Interfodera","2 pezzi · opzionale"],["Cerniera","In nylon · secondo il cartamodello"],["Terminali","2 terminali per cerniera + 2 passanti laterali"],["Margine","1 cm incluso nel cartamodello"]],steps:[
+ {e:"Tagliare",t:"Taglia i pezzi",items:["Taglia 2 pezzi esterni e 2 di fodera da 18 × 24 cm. Taglia anche i pezzi piccoli per i terminali della cerniera e i passanti laterali."]},
+ {e:"Preparare",t:"Prepara la cerniera",items:["Aggiungi i terminali di stoffa alle due estremità della cerniera. Stira bene perché restino piatti."]},
+ {e:"Cerniera",t:"Monta il primo lato",items:["Metti esterno e cerniera dritto contro dritto. Aggiungi la fodera sull’altra faccia della cerniera e cuci i tre strati con il piedino per cerniere."]},
+ {e:"Ripetere",t:"Ripeti sull’altro lato",items:["Monta l’altro esterno e la fodera sull’altro lato della cerniera. Apri i tessuti e fai un’impuntura vicino alla cerniera."]},
+ {e:"Passanti",t:"Aggiungi i passanti",items:["Piega le strisce piccole per formare i passanti e fissali ai lati, rivolti verso l’interno."]},
+ {e:"Chiudere",t:"Chiudi l’astuccio",items:["Apri la cerniera a metà. Affronta esterno con esterno e fodera con fodera. Cuci tutto il contorno lasciando un’apertura nella fodera."]},
+ {e:"Rivoltare",t:"Rivolta e finisci",items:["Rivolta l’astuccio dall’apertura della fodera, chiudila con un’impuntura e stira."]}]}
+}};
+
+GUIDES.boxpouch = {badge:"KIT 11",hours:3,imgs:[null,null,null,null,null,null,null],defaults:"ws",src:["Heather Handmade","https://www.heatherhandmade.com/box-zipper-pouch-free-sewing-pattern/"],L:{
+ca:{title:"Box pouch · necesser 3D",materials:[["Exterior","1 fat quarter de canvas"],["Folre","1 fat quarter de cotó"],["Entretela","Mitjana o gruixuda, termoadhesiva"],["Cremallera","30,5 cm o més"],["Opcional","Entretela de volum termoadhesiva"],["Patró","PDF gratuït de la font"]],steps:[
+ {e:"Tallar",t:"Talla i estabilitza",items:["Talla exterior, folre i entretela amb el patró. Planxa l’entretela al revers de l’exterior."]},
+ {e:"Cremallera",t:"Primer costat de cremallera",items:["Alinea exterior amb la cara bona de la cremallera i folre amb la cara interior. Cus amb pota de cremallera."]},
+ {e:"Repunt",t:"Obre i repunta",items:["Planxa exterior i folre lluny de la cremallera i fes un repunt de càrrega."]},
+ {e:"Repetir",t:"Tanca l’altre costat",items:["Repeteix el mateix procés a l’altre costat de la cremallera fins formar un tub."]},
+ {e:"Extrems",t:"Tanca els extrems",items:["Centra la cremallera i cus els dos extrems curts. Retalla el sobrant de cremallera."]},
+ {e:"Cantonades",t:"Forma les quatre cantonades",items:["Obre completament la cremallera. Aplana cadascuna de les quatre obertures de cantonada, alineant costures, i cus-les."]},
+ {e:"Acabar",t:"Remata i gira",items:["Acaba els marges amb zig-zag o overlock i gira el necesser per la cremallera."]}]},
+es:{title:"Box pouch · neceser 3D",materials:[["Exterior","1 fat quarter de canvas"],["Forro","1 fat quarter de algodón"],["Entretela","Media o gruesa, termoadhesiva"],["Cremallera","30,5 cm o más"],["Opcional","Guata termoadhesiva"],["Patrón","PDF gratuito de la fuente"]],steps:[
+ {e:"Cortar",t:"Corta y estabiliza",items:["Corta exterior, forro y entretela con el patrón. Plancha la entretela en el revés del exterior."]},
+ {e:"Cremallera",t:"Primer lado de cremallera",items:["Alinea el exterior con la cara buena de la cremallera y el forro con la cara interior. Cose con prensatelas de cremallera."]},
+ {e:"Pespunte",t:"Abre y pespuntea",items:["Plancha exterior y forro alejados de la cremallera y haz un pespunte de carga."]},
+ {e:"Repetir",t:"Cierra el otro lado",items:["Repite el mismo proceso en el otro lado de la cremallera hasta formar un tubo."]},
+ {e:"Extremos",t:"Cierra los extremos",items:["Centra la cremallera y cose los dos extremos cortos. Recorta el sobrante de cremallera."]},
+ {e:"Esquinas",t:"Forma las cuatro esquinas",items:["Abre del todo la cremallera. Aplana cada una de las cuatro aberturas de esquina, alineando costuras, y cóselas."]},
+ {e:"Acabar",t:"Remata y gira",items:["Acaba los márgenes con zigzag u overlock y gira el neceser por la cremallera."]}]},
+en:{title:"Box pouch · 3D toiletry bag",materials:[["Outer","1 fat quarter of canvas"],["Lining","1 fat quarter of quilting cotton"],["Interfacing","Medium or heavy, fusible"],["Zip","30.5 cm or longer"],["Optional","Fusible fleece"],["Pattern","Free PDF from the source"]],steps:[
+ {e:"Cut",t:"Cut and stabilise",items:["Cut outer, lining and interfacing with the pattern. Fuse the interfacing to the wrong side of the outer."]},
+ {e:"Zip",t:"First zip side",items:["Align the outer with the right side of the zip and the lining with the inner side. Sew with the zipper foot."]},
+ {e:"Topstitch",t:"Open and topstitch",items:["Press outer and lining away from the zip and topstitch."]},
+ {e:"Repeat",t:"Close the other side",items:["Repeat the same on the other side of the zip until you have a tube."]},
+ {e:"Ends",t:"Close the ends",items:["Centre the zip and sew the two short ends. Trim the excess zip."]},
+ {e:"Corners",t:"Box the four corners",items:["Open the zip fully. Flatten each of the four corner openings, matching seams, and sew them."]},
+ {e:"Finish",t:"Finish and turn",items:["Finish the allowances with a zigzag or overlocker and turn the pouch through the zip."]}]},
+de:{title:"Box Pouch · 3D-Necessaire",materials:[["Aussenstoff","1 Fat Quarter Canvas"],["Futter","1 Fat Quarter Baumwolle"],["Einlage","Mittel oder fest, aufbügelbar"],["Reissverschluss","30,5 cm oder länger"],["Optional","Aufbügelbares Volumenvlies"],["Schnitt","Gratis-PDF der Quelle"]],steps:[
+ {e:"Zuschneiden",t:"Zuschneiden und verstärken",items:["Aussenstoff, Futter und Einlage nach Schnitt zuschneiden. Einlage auf die linke Seite des Aussenstoffs bügeln."]},
+ {e:"Reissverschluss",t:"Erste Reissverschlussseite",items:["Aussenstoff an die rechte Seite des Reissverschlusses legen, Futter an die Innenseite. Mit dem Reissverschlussfuss nähen."]},
+ {e:"Absteppen",t:"Aufklappen und absteppen",items:["Aussenstoff und Futter vom Reissverschluss weg bügeln und absteppen."]},
+ {e:"Wiederholen",t:"Andere Seite schliessen",items:["Dasselbe auf der anderen Seite des Reissverschlusses wiederholen, bis ein Schlauch entsteht."]},
+ {e:"Enden",t:"Enden schliessen",items:["Reissverschluss zentrieren und die beiden kurzen Enden nähen. Überstehenden Reissverschluss abschneiden."]},
+ {e:"Ecken",t:"Vier Ecken formen",items:["Reissverschluss ganz öffnen. Jede der vier Eckenöffnungen flach legen, Nähte aufeinander, und nähen."]},
+ {e:"Fertigstellen",t:"Versäubern und wenden",items:["Nahtzugaben mit Zickzack oder Overlock versäubern und das Necessaire durch den Reissverschluss wenden."]}]},
+fr:{title:"Box pouch · trousse 3D",materials:[["Extérieur","1 fat quarter de toile"],["Doublure","1 fat quarter de coton"],["Entoilage","Moyen ou épais, thermocollant"],["Fermeture","30,5 cm ou plus"],["Optionnel","Molleton thermocollant"],["Patron","PDF gratuit de la source"]],steps:[
+ {e:"Couper",t:"Coupe et entoile",items:["Coupe extérieur, doublure et entoilage avec le patron. Thermocolle l’entoilage sur l’envers de l’extérieur."]},
+ {e:"Fermeture",t:"Premier côté de la fermeture",items:["Aligne l’extérieur sur l’endroit de la fermeture et la doublure sur l’envers. Couds au pied fermeture."]},
+ {e:"Surpiqûre",t:"Ouvre et surpique",items:["Repasse extérieur et doublure à l’opposé de la fermeture et surpique."]},
+ {e:"Répéter",t:"Ferme l’autre côté",items:["Répète de l’autre côté de la fermeture jusqu’à former un tube."]},
+ {e:"Extrémités",t:"Ferme les extrémités",items:["Centre la fermeture et couds les deux petits côtés. Recoupe le surplus de fermeture."]},
+ {e:"Coins",t:"Forme les quatre coins",items:["Ouvre complètement la fermeture. Aplatis chacune des quatre ouvertures de coin, coutures alignées, et couds-les."]},
+ {e:"Finir",t:"Surfile et retourne",items:["Surfile les marges au zigzag ou à la surjeteuse et retourne la trousse par la fermeture."]}]},
+it:{title:"Box pouch · beauty case 3D",materials:[["Esterno","1 fat quarter di canvas"],["Fodera","1 fat quarter di cotone"],["Interfodera","Media o pesante, termoadesiva"],["Cerniera","30,5 cm o più"],["Opzionale","Imbottitura termoadesiva"],["Cartamodello","PDF gratuito della fonte"]],steps:[
+ {e:"Tagliare",t:"Taglia e stabilizza",items:["Taglia esterno, fodera e interfodera con il cartamodello. Stira l’interfodera sul rovescio dell’esterno."]},
+ {e:"Cerniera",t:"Primo lato della cerniera",items:["Allinea l’esterno con il dritto della cerniera e la fodera con il lato interno. Cuci con il piedino per cerniere."]},
+ {e:"Impuntura",t:"Apri e impuntura",items:["Stira esterno e fodera lontano dalla cerniera e fai un’impuntura."]},
+ {e:"Ripetere",t:"Chiudi l’altro lato",items:["Ripeti lo stesso sull’altro lato della cerniera fino a formare un tubo."]},
+ {e:"Estremità",t:"Chiudi le estremità",items:["Centra la cerniera e cuci le due estremità corte. Rifila la cerniera in eccesso."]},
+ {e:"Angoli",t:"Forma i quattro angoli",items:["Apri del tutto la cerniera. Appiattisci ognuna delle quattro aperture d’angolo, allineando le cuciture, e cucile."]},
+ {e:"Finire",t:"Rifinisci e rivolta",items:["Rifinisci i margini con zigzag o tagliacuci e rivolta il beauty case dalla cerniera."]}]}
+}};
+
+GUIDES.apron = {badge:"KIT 12",hours:3,imgs:[null,null,null,null,null,null,null],defaults:"ws",src:["Heather Handmade","https://www.heatherhandmade.com/free-apron-sewing-pattern/"],L:{
+ca:{title:"Davantal amb butxaques",materials:[["Tela","aprox. 1,4 m de cotó"],["Entretela","aprox. 45 cm"],["Pitrall","2 peces + 1 d’entretela"],["Butxaques","2 peces"],["Tires","1 de coll + 2 de cintura"],["Faldilla","1 peça segons patró"]],steps:[
+ {e:"Tallar",t:"Talla totes les peces",items:["Talla pitrall, butxaques, tira de coll, dues tires de cintura i faldilla segons el patró."]},
+ {e:"Butxaques",t:"Prepara les butxaques",items:["Planxa els marges de les butxaques, acaba la part superior i fixa-les a la faldilla de manera simètrica."]},
+ {e:"Tires",t:"Prepara les tires",items:["Plega i cus la tira de coll i les dues tires de cintura. Gira-les i planxa-les."]},
+ {e:"Arrugar",t:"Arruga la faldilla",items:["Fes una puntada llarga a la part superior de la faldilla i estira els fils de canilla per crear l’arrugat."]},
+ {e:"Unir",t:"Uneix faldilla i pitrall",items:["Busca els centres, reparteix l’arrugat uniformement i embasta faldilla i pitrall, cara bonica amb cara bonica."]},
+ {e:"Pitrall",t:"Tanca el pitrall",items:["Col·loca el segon pitrall a sobre, amb les tires cap a dins. Cus tot el contorn indicat, gira i planxa."]},
+ {e:"Acabar",t:"Repunt final",items:["Fes un repunt de càrrega al voltant del pitrall i acaba els baixos del davantal."]}]},
+es:{title:"Delantal con bolsillos",materials:[["Tela","aprox. 1,4 m de algodón"],["Entretela","aprox. 45 cm"],["Peto","2 piezas + 1 de entretela"],["Bolsillos","2 piezas"],["Tiras","1 de cuello + 2 de cintura"],["Falda","1 pieza según patrón"]],steps:[
+ {e:"Cortar",t:"Corta todas las piezas",items:["Corta peto, bolsillos, tira de cuello, dos tiras de cintura y falda según el patrón."]},
+ {e:"Bolsillos",t:"Prepara los bolsillos",items:["Plancha los márgenes de los bolsillos, acaba la parte superior y fíjalos a la falda de forma simétrica."]},
+ {e:"Tiras",t:"Prepara las tiras",items:["Pliega y cose la tira de cuello y las dos tiras de cintura. Gíralas y plánchalas."]},
+ {e:"Fruncir",t:"Frunce la falda",items:["Haz una puntada larga en la parte superior de la falda y tira de los hilos de canilla para crear el fruncido."]},
+ {e:"Unir",t:"Une falda y peto",items:["Busca los centros, reparte el fruncido de forma uniforme e hilvana falda y peto, derecho con derecho."]},
+ {e:"Peto",t:"Cierra el peto",items:["Coloca el segundo peto encima, con las tiras hacia dentro. Cose todo el contorno indicado, gira y plancha."]},
+ {e:"Acabar",t:"Pespunte final",items:["Haz un pespunte de carga alrededor del peto y acaba los bajos del delantal."]}]},
+en:{title:"Apron with pockets",materials:[["Fabric","approx. 1.4 m of quilting cotton"],["Interfacing","approx. 45 cm"],["Bib","2 pieces + 1 of interfacing"],["Pockets","2 pieces"],["Straps","1 neck + 2 waist"],["Skirt","1 piece as per pattern"]],steps:[
+ {e:"Cut",t:"Cut all the pieces",items:["Cut bib, pockets, neck strap, two waist ties and skirt following the pattern."]},
+ {e:"Pockets",t:"Prepare the pockets",items:["Press the pocket allowances, finish the top edge and fix them symmetrically to the skirt."]},
+ {e:"Straps",t:"Prepare the straps",items:["Fold and sew the neck strap and the two waist ties. Turn and press them."]},
+ {e:"Gather",t:"Gather the skirt",items:["Sew a long stitch along the top of the skirt and pull the bobbin threads to gather."]},
+ {e:"Join",t:"Join skirt and bib",items:["Find the centres, spread the gathers evenly and baste skirt and bib, right sides together."]},
+ {e:"Bib",t:"Close the bib",items:["Place the second bib on top, with the straps inside. Sew all around as marked, turn and press."]},
+ {e:"Finish",t:"Final topstitch",items:["Topstitch around the bib and hem the apron."]}]},
+de:{title:"Schürze mit Taschen",materials:[["Stoff","ca. 1,4 m Baumwolle"],["Einlage","ca. 45 cm"],["Latz","2 Teile + 1 Einlage"],["Taschen","2 Teile"],["Bänder","1 Nackenband + 2 Taillenbänder"],["Rock","1 Teil nach Schnitt"]],steps:[
+ {e:"Zuschneiden",t:"Alle Teile zuschneiden",items:["Latz, Taschen, Nackenband, zwei Taillenbänder und Rock nach Schnitt zuschneiden."]},
+ {e:"Taschen",t:"Taschen vorbereiten",items:["Nahtzugaben der Taschen bügeln, Oberkante versäubern und die Taschen symmetrisch auf dem Rock fixieren."]},
+ {e:"Bänder",t:"Bänder vorbereiten",items:["Nackenband und Taillenbänder falten und nähen. Wenden und bügeln."]},
+ {e:"Kräuseln",t:"Rock kräuseln",items:["Mit langem Stich an der Rockoberkante nähen und die Unterfäden anziehen, um zu kräuseln."]},
+ {e:"Verbinden",t:"Rock und Latz verbinden",items:["Mitten markieren, Kräuselung gleichmässig verteilen und Rock und Latz rechts auf rechts heften."]},
+ {e:"Latz",t:"Latz schliessen",items:["Den zweiten Latz darauflegen, Bänder nach innen. Rundum wie markiert nähen, wenden und bügeln."]},
+ {e:"Fertigstellen",t:"Abschliessend absteppen",items:["Den Latz rundum absteppen und den Rocksaum fertigstellen."]}]},
+fr:{title:"Tablier à poches",materials:[["Tissu","env. 1,4 m de coton"],["Entoilage","env. 45 cm"],["Bavette","2 pièces + 1 d’entoilage"],["Poches","2 pièces"],["Liens","1 tour de cou + 2 de taille"],["Jupe","1 pièce selon patron"]],steps:[
+ {e:"Couper",t:"Coupe toutes les pièces",items:["Coupe bavette, poches, tour de cou, deux liens de taille et jupe selon le patron."]},
+ {e:"Poches",t:"Prépare les poches",items:["Repasse les marges des poches, finis le haut et fixe-les symétriquement sur la jupe."]},
+ {e:"Liens",t:"Prépare les liens",items:["Plie et couds le tour de cou et les deux liens de taille. Retourne-les et repasse."]},
+ {e:"Froncer",t:"Fronce la jupe",items:["Pique au point long le haut de la jupe et tire sur les fils de canette pour froncer."]},
+ {e:"Assembler",t:"Assemble jupe et bavette",items:["Repère les centres, répartis les fronces et bâtis jupe et bavette, endroit contre endroit."]},
+ {e:"Bavette",t:"Ferme la bavette",items:["Pose la seconde bavette par-dessus, liens vers l’intérieur. Couds tout le tour indiqué, retourne et repasse."]},
+ {e:"Finir",t:"Surpiqûre finale",items:["Surpique le tour de la bavette et termine l’ourlet du tablier."]}]},
+it:{title:"Grembiule con tasche",materials:[["Tessuto","circa 1,4 m di cotone"],["Interfodera","circa 45 cm"],["Pettorina","2 pezzi + 1 di interfodera"],["Tasche","2 pezzi"],["Lacci","1 collo + 2 vita"],["Gonna","1 pezzo secondo cartamodello"]],steps:[
+ {e:"Tagliare",t:"Taglia tutti i pezzi",items:["Taglia pettorina, tasche, laccio del collo, due lacci in vita e gonna secondo il cartamodello."]},
+ {e:"Tasche",t:"Prepara le tasche",items:["Stira i margini delle tasche, rifinisci il bordo superiore e fissale sulla gonna in modo simmetrico."]},
+ {e:"Lacci",t:"Prepara i lacci",items:["Piega e cuci il laccio del collo e i due lacci in vita. Rivoltali e stirali."]},
+ {e:"Arricciare",t:"Arriccia la gonna",items:["Fai un punto lungo sul bordo superiore della gonna e tira i fili della spolina per arricciare."]},
+ {e:"Unire",t:"Unisci gonna e pettorina",items:["Trova i centri, distribuisci l’arricciatura in modo uniforme e imbastisci gonna e pettorina, dritto contro dritto."]},
+ {e:"Pettorina",t:"Chiudi la pettorina",items:["Metti la seconda pettorina sopra, con i lacci all’interno. Cuci tutto il contorno indicato, rivolta e stira."]},
+ {e:"Finire",t:"Impuntura finale",items:["Fai un’impuntura intorno alla pettorina e rifinisci l’orlo del grembiule."]}]}
+}};
+
+GUIDES.shopper = {badge:"KIT 13",hours:2.5,imgs:[null,null,null,null,null,null,null],defaults:"ws",src:["Sewspiratrice","https://sewspiratrice.com/diy-foldable-shopping-tote-bag-free-pattern/"],L:{
+ca:{title:"Bossa de la compra plegable",materials:[["Tela","aprox. 1 m"],["Patró","PDF gratuït de la font"],["Butxaca","1 peça segons patró"],["Cos","Peces segons patró"],["Nanses","Integrades al patró"],["Tancament","Sense peces metàl·liques"]],steps:[
+ {e:"Tallar",t:"Talla les peces",items:["Imprimeix el patró al 100% i talla totes les peces transferint les marques i piquets."]},
+ {e:"Butxaca",t:"Prepara la butxaca",items:["Doblega la secció curta de la butxaca sobre la llarga, revés amb revés, i marca el plec amb la planxa."]},
+ {e:"Vora",t:"Acaba la vora",items:["Doblega la vora superior curta 1 cm dues vegades i fes un repunt per formar un acabat net."]},
+ {e:"Plegat",t:"Forma la butxaca de plegat",items:["Torna a plegar la butxaca sobre la marca inicial i cus segons les marques del patró."]},
+ {e:"Cos",t:"Munta el cos de la bossa",items:["Uneix les peces principals, cosint laterals i base segons el tutorial. Remata els marges."]},
+ {e:"Nanses",t:"Acaba les nanses",items:["Planxa i cus els marges de les nanses perquè quedin nets i resistents."]},
+ {e:"Plegar",t:"Plega dins la butxaca",items:["Un cop acabada, gira i plega la bossa dins de la butxaca integrada."]}]},
+es:{title:"Bolsa de la compra plegable",materials:[["Tela","aprox. 1 m"],["Patrón","PDF gratuito de la fuente"],["Bolsillo","1 pieza según patrón"],["Cuerpo","Piezas según patrón"],["Asas","Integradas en el patrón"],["Cierre","Sin piezas metálicas"]],steps:[
+ {e:"Cortar",t:"Corta las piezas",items:["Imprime el patrón al 100 % y corta todas las piezas transfiriendo marcas y piquetes."]},
+ {e:"Bolsillo",t:"Prepara el bolsillo",items:["Dobla la sección corta del bolsillo sobre la larga, revés con revés, y marca el pliegue con la plancha."]},
+ {e:"Dobladillo",t:"Acaba el borde",items:["Dobla el borde superior corto 1 cm dos veces y haz un pespunte para un acabado limpio."]},
+ {e:"Plegado",t:"Forma el bolsillo de plegado",items:["Vuelve a plegar el bolsillo sobre la marca inicial y cose según las marcas del patrón."]},
+ {e:"Cuerpo",t:"Monta el cuerpo de la bolsa",items:["Une las piezas principales, cosiendo laterales y base según el tutorial. Remata los márgenes."]},
+ {e:"Asas",t:"Acaba las asas",items:["Plancha y cose los márgenes de las asas para que queden limpias y resistentes."]},
+ {e:"Plegar",t:"Pliega dentro del bolsillo",items:["Una vez acabada, gira y pliega la bolsa dentro del bolsillo integrado."]}]},
+en:{title:"Foldable shopping bag",materials:[["Fabric","approx. 1 m"],["Pattern","Free PDF from the source"],["Pocket","1 piece as per pattern"],["Body","Pieces as per pattern"],["Handles","Built into the pattern"],["Closure","No hardware"]],steps:[
+ {e:"Cut",t:"Cut the pieces",items:["Print the pattern at 100% and cut all the pieces, transferring marks and notches."]},
+ {e:"Pocket",t:"Prepare the pocket",items:["Fold the short section of the pocket over the long one, wrong sides together, and press the fold."]},
+ {e:"Hem",t:"Finish the edge",items:["Fold the short top edge 1 cm twice and topstitch for a clean finish."]},
+ {e:"Fold",t:"Form the folding pocket",items:["Fold the pocket again on the first crease and sew following the pattern marks."]},
+ {e:"Body",t:"Assemble the bag body",items:["Join the main pieces, sewing sides and base as in the tutorial. Finish the allowances."]},
+ {e:"Handles",t:"Finish the handles",items:["Press and sew the handle allowances so they are neat and strong."]},
+ {e:"Fold",t:"Fold into the pocket",items:["Once finished, turn and fold the bag into its built-in pocket."]}]},
+de:{title:"Faltbarer Einkaufsbeutel",materials:[["Stoff","ca. 1 m"],["Schnitt","Gratis-PDF der Quelle"],["Tasche","1 Teil nach Schnitt"],["Körper","Teile nach Schnitt"],["Henkel","Im Schnitt integriert"],["Verschluss","Ohne Metallteile"]],steps:[
+ {e:"Zuschneiden",t:"Teile zuschneiden",items:["Schnitt bei 100 % drucken und alle Teile zuschneiden, Markierungen und Knipse übertragen."]},
+ {e:"Tasche",t:"Tasche vorbereiten",items:["Den kurzen Taschenteil links auf links über den langen falten und die Kante bügeln."]},
+ {e:"Saum",t:"Kante fertigstellen",items:["Die kurze Oberkante zweimal 1 cm umschlagen und absteppen."]},
+ {e:"Falten",t:"Falttasche formen",items:["Die Tasche wieder an der ersten Kante falten und nach den Schnittmarkierungen nähen."]},
+ {e:"Körper",t:"Beutelkörper zusammensetzen",items:["Hauptteile verbinden, Seiten und Boden wie in der Anleitung nähen. Nahtzugaben versäubern."]},
+ {e:"Henkel",t:"Henkel fertigstellen",items:["Nahtzugaben der Henkel bügeln und nähen, damit sie sauber und stabil sind."]},
+ {e:"Falten",t:"In die Tasche falten",items:["Zum Schluss den Beutel wenden und in die integrierte Tasche falten."]}]},
+fr:{title:"Sac à provisions pliable",materials:[["Tissu","env. 1 m"],["Patron","PDF gratuit de la source"],["Poche","1 pièce selon patron"],["Corps","Pièces selon patron"],["Anses","Intégrées au patron"],["Fermeture","Sans pièces métalliques"]],steps:[
+ {e:"Couper",t:"Coupe les pièces",items:["Imprime le patron à 100 % et coupe toutes les pièces en reportant repères et crans."]},
+ {e:"Poche",t:"Prépare la poche",items:["Plie la section courte de la poche sur la longue, envers contre envers, et marque le pli au fer."]},
+ {e:"Ourlet",t:"Finis le bord",items:["Plie le bord supérieur court deux fois de 1 cm et surpique pour une finition nette."]},
+ {e:"Pliage",t:"Forme la poche de pliage",items:["Replie la poche sur le premier pli et couds selon les repères du patron."]},
+ {e:"Corps",t:"Monte le corps du sac",items:["Assemble les pièces principales, côtés et fond selon le tutoriel. Surfile les marges."]},
+ {e:"Anses",t:"Finis les anses",items:["Repasse et couds les marges des anses pour qu’elles soient nettes et solides."]},
+ {e:"Plier",t:"Plie dans la poche",items:["Une fois terminé, retourne et plie le sac dans sa poche intégrée."]}]},
+it:{title:"Borsa della spesa pieghevole",materials:[["Tessuto","circa 1 m"],["Cartamodello","PDF gratuito della fonte"],["Tasca","1 pezzo secondo cartamodello"],["Corpo","Pezzi secondo cartamodello"],["Manici","Integrati nel cartamodello"],["Chiusura","Senza parti metalliche"]],steps:[
+ {e:"Tagliare",t:"Taglia i pezzi",items:["Stampa il cartamodello al 100% e taglia tutti i pezzi riportando segni e tacche."]},
+ {e:"Tasca",t:"Prepara la tasca",items:["Piega la sezione corta della tasca sulla lunga, rovescio contro rovescio, e segna la piega con il ferro."]},
+ {e:"Orlo",t:"Rifinisci il bordo",items:["Piega il bordo superiore corto di 1 cm due volte e fai un’impuntura per una finitura pulita."]},
+ {e:"Piega",t:"Forma la tasca di ripiegatura",items:["Ripiega la tasca sulla prima piega e cuci seguendo i segni del cartamodello."]},
+ {e:"Corpo",t:"Monta il corpo della borsa",items:["Unisci i pezzi principali cucendo lati e base come nel tutorial. Rifinisci i margini."]},
+ {e:"Manici",t:"Rifinisci i manici",items:["Stira e cuci i margini dei manici perché siano puliti e resistenti."]},
+ {e:"Piegare",t:"Ripiega nella tasca",items:["Una volta finita, rivolta e ripiega la borsa nella tasca integrata."]}]}
+}};
+
+GUIDES.tote = {badge:"KIT 14",hours:3,imgs:[null,null,null,null,null,null,null],defaults:"ws",src:["Helen's Closet · Costa Tote","https://helensclosetpatterns.com/products/costa-tote-free"],L:{
+ca:{title:"Tote reversible",materials:[["Exterior + nanses","0,8 m"],["Folre","0,5 m"],["Butxaca (versió A)","0,5 m"],["Tela recomanada","Canvas, denim, twill o cotó de pes mitjà o alt"],["Tela del folre","Cotó de quilting o cotó fi"],["Patró","PDF gratuït de la font"]],steps:[
+ {e:"Tallar",t:"Talla exterior, folre i, si vols, la butxaca",items:["Utilitza el patró Costa Tote. Transfereix totes les marques abans de retirar el paper."]},
+ {e:"Butxaca",t:"Prepara la butxaca",items:["Si fas la versió A, prepara la butxaca asimètrica i marca les divisions per crear els compartiments."]},
+ {e:"Exterior",t:"Munta la bossa exterior",items:["Uneix les peces exteriors segons les marques i forma la base tridimensional."]},
+ {e:"Folre",t:"Munta el folre",items:["Repeteix el mateix procés amb el folre."]},
+ {e:"Nanses",t:"Prepara les nanses",items:["Planxa, cus i posiciona les nanses perquè quedin simètriques."]},
+ {e:"Unir",t:"Uneix exterior i folre",items:["Encara les dues bosses per la part superior i cus el contorn, deixant l’obertura necessària per girar."]},
+ {e:"Girar",t:"Gira i repunta",items:["Gira la bossa, planxa la vora superior i fes un repunt final. La bossa queda totalment reversible."]}]},
+es:{title:"Tote reversible",materials:[["Exterior + asas","0,8 m"],["Forro","0,5 m"],["Bolsillo (versión A)","0,5 m"],["Tela recomendada","Canvas, denim, twill o algodón de peso medio o alto"],["Tela del forro","Algodón de quilting o algodón fino"],["Patrón","PDF gratuito de la fuente"]],steps:[
+ {e:"Cortar",t:"Corta exterior, forro y, si quieres, el bolsillo",items:["Usa el patrón Costa Tote. Transfiere todas las marcas antes de retirar el papel."]},
+ {e:"Bolsillo",t:"Prepara el bolsillo",items:["Si haces la versión A, prepara el bolsillo asimétrico y marca las divisiones para crear los compartimentos."]},
+ {e:"Exterior",t:"Monta el bolso exterior",items:["Une las piezas exteriores según las marcas y forma la base tridimensional."]},
+ {e:"Forro",t:"Monta el forro",items:["Repite el mismo proceso con el forro."]},
+ {e:"Asas",t:"Prepara las asas",items:["Plancha, cose y posiciona las asas para que queden simétricas."]},
+ {e:"Unir",t:"Une exterior y forro",items:["Enfrenta las dos bolsas por la parte superior y cose el contorno, dejando la abertura necesaria para girar."]},
+ {e:"Girar",t:"Gira y pespuntea",items:["Gira el bolso, plancha el borde superior y haz un pespunte final. El bolso queda totalmente reversible."]}]},
+en:{title:"Reversible tote",materials:[["Outer + handles","0.8 m"],["Lining","0.5 m"],["Pocket (view A)","0.5 m"],["Recommended fabric","Canvas, denim, twill or mid- to heavy-weight cotton"],["Lining fabric","Quilting cotton or cotton lawn"],["Pattern","Free PDF from the source"]],steps:[
+ {e:"Cut",t:"Cut outer, lining and optional pocket",items:["Use the Costa Tote pattern. Transfer all the marks before removing the paper."]},
+ {e:"Pocket",t:"Prepare the pocket",items:["For view A, prepare the asymmetric pocket and mark the divisions for the compartments."]},
+ {e:"Outer",t:"Assemble the outer bag",items:["Join the outer pieces following the marks and form the three-dimensional base."]},
+ {e:"Lining",t:"Assemble the lining",items:["Repeat the same process with the lining."]},
+ {e:"Handles",t:"Prepare the handles",items:["Press, sew and position the handles so they are symmetrical."]},
+ {e:"Join",t:"Join outer and lining",items:["Face the two bags at the top and sew around, leaving the gap you need to turn."]},
+ {e:"Turn",t:"Turn and topstitch",items:["Turn the bag, press the top edge and topstitch. The bag is fully reversible."]}]},
+de:{title:"Wende-Tote",materials:[["Aussenstoff + Henkel","0,8 m"],["Futter","0,5 m"],["Tasche (Variante A)","0,5 m"],["Empfohlener Stoff","Canvas, Denim, Twill oder mittel- bis schwere Baumwolle"],["Futterstoff","Quilting-Baumwolle oder Batist"],["Schnitt","Gratis-PDF der Quelle"]],steps:[
+ {e:"Zuschneiden",t:"Aussen, Futter und optional Tasche zuschneiden",items:["Nutze den Schnitt Costa Tote. Übertrage alle Markierungen, bevor du das Papier entfernst."]},
+ {e:"Tasche",t:"Tasche vorbereiten",items:["Für Variante A die asymmetrische Tasche vorbereiten und die Unterteilungen markieren."]},
+ {e:"Aussen",t:"Aussentasche zusammensetzen",items:["Aussenteile nach den Markierungen verbinden und den dreidimensionalen Boden formen."]},
+ {e:"Futter",t:"Futter zusammensetzen",items:["Dasselbe mit dem Futter wiederholen."]},
+ {e:"Henkel",t:"Henkel vorbereiten",items:["Henkel bügeln, nähen und symmetrisch platzieren."]},
+ {e:"Verbinden",t:"Aussen und Futter verbinden",items:["Beide Taschen an der Oberkante aufeinanderlegen und rundum nähen, Wendeöffnung lassen."]},
+ {e:"Wenden",t:"Wenden und absteppen",items:["Tasche wenden, Oberkante bügeln und absteppen. Die Tasche ist komplett wendbar."]}]},
+fr:{title:"Tote réversible",materials:[["Extérieur + anses","0,8 m"],["Doublure","0,5 m"],["Poche (version A)","0,5 m"],["Tissu recommandé","Toile, denim, twill ou coton moyen à épais"],["Tissu de doublure","Coton quilting ou batiste"],["Patron","PDF gratuit de la source"]],steps:[
+ {e:"Couper",t:"Coupe extérieur, doublure et poche optionnelle",items:["Utilise le patron Costa Tote. Reporte tous les repères avant de retirer le papier."]},
+ {e:"Poche",t:"Prépare la poche",items:["Pour la version A, prépare la poche asymétrique et marque les divisions des compartiments."]},
+ {e:"Extérieur",t:"Monte le sac extérieur",items:["Assemble les pièces extérieures selon les repères et forme le fond en volume."]},
+ {e:"Doublure",t:"Monte la doublure",items:["Répète le même processus avec la doublure."]},
+ {e:"Anses",t:"Prépare les anses",items:["Repasse, couds et positionne les anses pour qu’elles soient symétriques."]},
+ {e:"Assembler",t:"Assemble extérieur et doublure",items:["Superpose les deux sacs par le haut et couds le tour, en laissant l’ouverture pour retourner."]},
+ {e:"Retourner",t:"Retourne et surpique",items:["Retourne le sac, repasse le bord supérieur et surpique. Le sac est totalement réversible."]}]},
+it:{title:"Tote reversibile",materials:[["Esterno + manici","0,8 m"],["Fodera","0,5 m"],["Tasca (versione A)","0,5 m"],["Tessuto consigliato","Canvas, denim, twill o cotone medio-pesante"],["Tessuto della fodera","Cotone da quilting o batista"],["Cartamodello","PDF gratuito della fonte"]],steps:[
+ {e:"Tagliare",t:"Taglia esterno, fodera e tasca opzionale",items:["Usa il cartamodello Costa Tote. Riporta tutti i segni prima di togliere la carta."]},
+ {e:"Tasca",t:"Prepara la tasca",items:["Per la versione A, prepara la tasca asimmetrica e segna le divisioni per gli scomparti."]},
+ {e:"Esterno",t:"Monta la borsa esterna",items:["Unisci i pezzi esterni seguendo i segni e forma la base tridimensionale."]},
+ {e:"Fodera",t:"Monta la fodera",items:["Ripeti lo stesso procedimento con la fodera."]},
+ {e:"Manici",t:"Prepara i manici",items:["Stira, cuci e posiziona i manici in modo simmetrico."]},
+ {e:"Unire",t:"Unisci esterno e fodera",items:["Affronta le due borse sul bordo superiore e cuci il contorno lasciando l’apertura per rivoltare."]},
+ {e:"Rivoltare",t:"Rivolta e impuntura",items:["Rivolta la borsa, stira il bordo superiore e fai un’impuntura finale. La borsa è completamente reversibile."]}]}
+}};
+
+GUIDES.boho = {badge:"KIT 15",hours:3.5,imgs:[null,null,null,null,null,null,null],defaults:"ws",src:["Sparrow Refashion","https://sparrowrefashion.com/2025/09/11/diy-boho-tote-bag-tutorial-video-free-pdf-pattern/"],L:{
+ca:{title:"Boho bag · tote relaxada",materials:[["Tela principal","aprox. 80 × 90 cm"],["Exterior","davant + darrere"],["Folre","davant + darrere"],["Nanses","2 × 70 × 8 cm"],["Butxaca","aprox. 20 × 25 cm"],["Marge","1 cm recomanat"]],steps:[
+ {e:"Tallar",t:"Talla totes les peces",items:["Talla exterior, folre, dues nanses i butxaca. Si no uses el PDF, segueix les mides indicades a la font."]},
+ {e:"Butxaca",t:"Prepara la butxaca",items:["Doblega la butxaca cara bonica amb cara bonica, cus el contorn deixant una obertura d’uns 5 cm, gira i planxa."]},
+ {e:"Exterior",t:"Munta l’exterior",items:["Cus davant i darrere de la bossa amb 1 cm de marge. Forma les cantonades inferiors per donar profunditat."]},
+ {e:"Folre",t:"Munta el folre",items:["Cus el folre de la mateixa manera, deixant una obertura per girar la bossa."]},
+ {e:"Nanses",t:"Prepara les nanses",items:["Cus i gira les nanses. Comprova que tinguin la mateixa longitud i que no quedin retorçades."]},
+ {e:"Unir",t:"Uneix exterior i folre",items:["Col·loca exterior i folre cara bonica amb cara bonica, amb les nanses a l’interior, i cus la vora superior."]},
+ {e:"Girar",t:"Gira i acaba",items:["Gira per l’obertura del folre, tanca-la, planxa la vora superior i acaba els extrems de les nanses."]}]},
+es:{title:"Boho bag · tote relajada",materials:[["Tela principal","aprox. 80 × 90 cm"],["Exterior","delante + detrás"],["Forro","delante + detrás"],["Asas","2 × 70 × 8 cm"],["Bolsillo","aprox. 20 × 25 cm"],["Margen","1 cm recomendado"]],steps:[
+ {e:"Cortar",t:"Corta todas las piezas",items:["Corta exterior, forro, dos asas y bolsillo. Si no usas el PDF, sigue las medidas indicadas en la fuente."]},
+ {e:"Bolsillo",t:"Prepara el bolsillo",items:["Dobla el bolsillo derecho con derecho, cose el contorno dejando una abertura de unos 5 cm, gira y plancha."]},
+ {e:"Exterior",t:"Monta el exterior",items:["Cose delante y detrás del bolso con 1 cm de margen. Forma las esquinas inferiores para dar profundidad."]},
+ {e:"Forro",t:"Monta el forro",items:["Cose el forro de la misma manera, dejando una abertura para girar el bolso."]},
+ {e:"Asas",t:"Prepara las asas",items:["Cose y gira las asas. Comprueba que tengan la misma longitud y que no queden retorcidas."]},
+ {e:"Unir",t:"Une exterior y forro",items:["Coloca exterior y forro derecho con derecho, con las asas dentro, y cose el borde superior."]},
+ {e:"Girar",t:"Gira y acaba",items:["Gira por la abertura del forro, ciérrala, plancha el borde superior y acaba los extremos de las asas."]}]},
+en:{title:"Boho bag · relaxed tote",materials:[["Main fabric","approx. 80 × 90 cm"],["Outer","front + back"],["Lining","front + back"],["Handles","2 × 70 × 8 cm"],["Pocket","approx. 20 × 25 cm"],["Allowance","1 cm recommended"]],steps:[
+ {e:"Cut",t:"Cut all the pieces",items:["Cut outer, lining, two handles and pocket. If you are not using the PDF, follow the measurements from the source."]},
+ {e:"Pocket",t:"Prepare the pocket",items:["Fold the pocket right sides together, sew around leaving a gap of about 5 cm, turn and press."]},
+ {e:"Outer",t:"Assemble the outer",items:["Sew front and back of the bag with a 1 cm allowance. Box the bottom corners for depth."]},
+ {e:"Lining",t:"Assemble the lining",items:["Sew the lining the same way, leaving a gap to turn the bag."]},
+ {e:"Handles",t:"Prepare the handles",items:["Sew and turn the handles. Check they are the same length and not twisted."]},
+ {e:"Join",t:"Join outer and lining",items:["Place outer and lining right sides together, handles inside, and sew the top edge."]},
+ {e:"Turn",t:"Turn and finish",items:["Turn through the lining gap, close it, press the top edge and finish the handle ends."]}]},
+de:{title:"Boho Bag · lässige Tote",materials:[["Hauptstoff","ca. 80 × 90 cm"],["Aussenstoff","Vorder- + Rückteil"],["Futter","Vorder- + Rückteil"],["Henkel","2 × 70 × 8 cm"],["Tasche","ca. 20 × 25 cm"],["Nahtzugabe","1 cm empfohlen"]],steps:[
+ {e:"Zuschneiden",t:"Alle Teile zuschneiden",items:["Aussenstoff, Futter, zwei Henkel und Tasche zuschneiden. Ohne PDF die Masse der Quelle verwenden."]},
+ {e:"Tasche",t:"Tasche vorbereiten",items:["Tasche rechts auf rechts falten, rundum nähen und etwa 5 cm offen lassen, wenden und bügeln."]},
+ {e:"Aussen",t:"Aussenteil zusammensetzen",items:["Vorder- und Rückteil mit 1 cm Nahtzugabe nähen. Untere Ecken abnähen, damit die Tasche Tiefe bekommt."]},
+ {e:"Futter",t:"Futter zusammensetzen",items:["Das Futter genauso nähen und eine Wendeöffnung lassen."]},
+ {e:"Henkel",t:"Henkel vorbereiten",items:["Henkel nähen und wenden. Prüfen, dass sie gleich lang und nicht verdreht sind."]},
+ {e:"Verbinden",t:"Aussen und Futter verbinden",items:["Aussen und Futter rechts auf rechts legen, Henkel innen, und die Oberkante nähen."]},
+ {e:"Wenden",t:"Wenden und fertigstellen",items:["Durch die Futteröffnung wenden, schliessen, Oberkante bügeln und die Henkelenden fertigstellen."]}]},
+fr:{title:"Boho bag · tote décontracté",materials:[["Tissu principal","env. 80 × 90 cm"],["Extérieur","devant + dos"],["Doublure","devant + dos"],["Anses","2 × 70 × 8 cm"],["Poche","env. 20 × 25 cm"],["Marge","1 cm recommandé"]],steps:[
+ {e:"Couper",t:"Coupe toutes les pièces",items:["Coupe extérieur, doublure, deux anses et poche. Sans le PDF, suis les mesures indiquées par la source."]},
+ {e:"Poche",t:"Prépare la poche",items:["Plie la poche endroit contre endroit, couds le tour en laissant une ouverture d’environ 5 cm, retourne et repasse."]},
+ {e:"Extérieur",t:"Monte l’extérieur",items:["Couds devant et dos du sac à 1 cm. Forme les coins inférieurs pour donner de la profondeur."]},
+ {e:"Doublure",t:"Monte la doublure",items:["Couds la doublure de la même façon en laissant une ouverture pour retourner."]},
+ {e:"Anses",t:"Prépare les anses",items:["Couds et retourne les anses. Vérifie qu’elles ont la même longueur et ne sont pas vrillées."]},
+ {e:"Assembler",t:"Assemble extérieur et doublure",items:["Place extérieur et doublure endroit contre endroit, anses à l’intérieur, et couds le bord supérieur."]},
+ {e:"Retourner",t:"Retourne et termine",items:["Retourne par l’ouverture de la doublure, referme-la, repasse le bord supérieur et finis les extrémités des anses."]}]},
+it:{title:"Boho bag · tote rilassata",materials:[["Tessuto principale","circa 80 × 90 cm"],["Esterno","davanti + dietro"],["Fodera","davanti + dietro"],["Manici","2 × 70 × 8 cm"],["Tasca","circa 20 × 25 cm"],["Margine","1 cm consigliato"]],steps:[
+ {e:"Tagliare",t:"Taglia tutti i pezzi",items:["Taglia esterno, fodera, due manici e tasca. Se non usi il PDF, segui le misure indicate dalla fonte."]},
+ {e:"Tasca",t:"Prepara la tasca",items:["Piega la tasca dritto contro dritto, cuci il contorno lasciando un’apertura di circa 5 cm, rivolta e stira."]},
+ {e:"Esterno",t:"Monta l’esterno",items:["Cuci davanti e dietro della borsa con 1 cm di margine. Forma gli angoli inferiori per dare profondità."]},
+ {e:"Fodera",t:"Monta la fodera",items:["Cuci la fodera allo stesso modo, lasciando un’apertura per rivoltare."]},
+ {e:"Manici",t:"Prepara i manici",items:["Cuci e rivolta i manici. Controlla che abbiano la stessa lunghezza e non siano attorcigliati."]},
+ {e:"Unire",t:"Unisci esterno e fodera",items:["Metti esterno e fodera dritto contro dritto, con i manici all’interno, e cuci il bordo superiore."]},
+ {e:"Rivoltare",t:"Rivolta e finisci",items:["Rivolta dall’apertura della fodera, chiudila, stira il bordo superiore e rifinisci le estremità dei manici."]}]}
+}};

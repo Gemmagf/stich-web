@@ -62,6 +62,21 @@ const KITS = [
  {id:"backpack",n:19,format:"long",level:3,accent:"sage",icon:"backpack",
   name:{ca:"Motxilla escolar",es:"Mochila escolar",de:"Kinderrucksack",en:"Kids' school backpack",fr:"Sac à dos d'école",it:"Zainetto per la scuola"},
   desc:{ca:"Folrada, amb etiqueta de nom, tirants ajustables i butxaca frontal.",es:"Forrada, con etiqueta de nombre, tirantes ajustables y bolsillo frontal.",de:"Gefüttert, mit Namensetikett, verstellbaren Trägern und Fronttasche.",en:"Lined, with name label, adjustable straps and front pocket.",fr:"Doublé, avec étiquette de nom, bretelles réglables et poche avant.",it:"Foderato, con etichetta per il nome, spallacci regolabili e tasca frontale."}},
+ {id:"strawberry",n:20,format:"short",level:1,accent:"coral",icon:"pouch",
+  name:{ca:"Bossa maduixa / bossa per mudes",es:"Bolsa fresa / bolsa para mudas",de:"Erdbeer-Beutel",en:"Strawberry bag",fr:"Sac fraise",it:"Borsa fragola"},
+  desc:{ca:"Bossa lleugera amb nanses i cordó, amb una maduixeta a la punta. Per a mudes, roba d’esport o el que vulguis.",es:"Bolsa ligera con asas y cordón, con una fresita en la punta. Para mudas, ropa de deporte o lo que quieras.",de:"Leichter Beutel mit Henkeln und Kordel und einer kleinen Erdbeere an der Ecke. Für Wechselkleider, Sportsachen oder was du willst.",en:"Light bag with handles and cord, with a little strawberry at the corner. For spare clothes, sports kit or anything else.",fr:"Sac léger avec anses et cordelette, et une petite fraise au coin. Pour le linge de rechange, le sport ou ce que tu veux.",it:"Borsa leggera con manici e cordoncino, con una fragolina all’angolo. Per il cambio, lo sport o quello che vuoi."}},
+ {id:"ruffle",n:21,format:"sat",level:2,accent:"pink",icon:"tote",
+  name:{ca:"Bossa amb volant",es:"Bolso con volante",de:"Tasche mit Rüsche",en:"Ruffle bag",fr:"Sac à volant",it:"Borsa con balza"},
+  desc:{ca:"Bossa folrada amb volant arrissat, butxaca amb cremallera i tancament de botó. El projecte més complet del format Dissabte.",es:"Bolso forrado con volante fruncido, bolsillo con cremallera y cierre de botón. El proyecto más completo del formato Sábado.",de:"Gefütterte Tasche mit gekräuselter Rüsche, Reissverschlusstasche und Knopfverschluss. Das umfangreichste Projekt im Samstagsformat.",en:"Lined bag with a gathered ruffle, zip pocket and button closure. The most complete Saturday project.",fr:"Sac doublé avec volant froncé, poche zippée et fermeture à bouton. Le projet le plus complet du format Samedi.",it:"Borsa foderata con balza arricciata, tasca con cerniera e chiusura a bottone. Il progetto più completo del formato Sabato."}},
+ {id:"zippouch",n:22,format:"short",level:1,accent:"pink",icon:"case",
+  name:{ca:"Zip pouch",es:"Zip pouch",de:"Zip Pouch",en:"Zip pouch",fr:"Zip pouch",it:"Zip pouch"},
+  desc:{ca:"Funda plana amb cremallera, folre i travetes laterals. El projecte ideal per estrenar la pota de cremallera.",es:"Funda plana con cremallera, forro y trabillas laterales. El proyecto ideal para estrenar el prensatelas de cremallera.",de:"Flaches Täschchen mit Reissverschluss, Futter und Seitenschlaufen. Ideal, um den Reissverschlussfuss kennenzulernen.",en:"Flat zipped pouch with lining and side loops. The ideal first project with the zipper foot.",fr:"Pochette plate zippée, doublée, avec passants latéraux. Le projet idéal pour apprivoiser le pied fermeture.",it:"Astuccio piatto con cerniera, fodera e passanti laterali. Il progetto ideale per iniziare con il piedino per cerniere."}},
+ {id:"boxpouch",n:23,format:"sat",level:2,accent:"mustard",icon:"pouch",
+  name:{ca:"Box pouch · necesser 3D",es:"Box pouch · neceser 3D",de:"Box Pouch · 3D-Necessaire",en:"Box pouch",fr:"Box pouch · trousse 3D",it:"Box pouch · beauty case 3D"},
+  desc:{ca:"Necesser amb forma de caixa, cremallera al llarg i cantonades cosides. Canvas a fora, cotó a dins.",es:"Neceser con forma de caja, cremallera a lo largo y esquinas cosidas. Canvas por fuera, algodón por dentro.",de:"Kastenförmiges Necessaire mit langem Reissverschluss und abgenähten Ecken. Canvas aussen, Baumwolle innen.",en:"Box-shaped pouch with a long zip and boxed corners. Canvas outside, cotton inside.",fr:"Trousse en forme de boîte, fermeture sur la longueur et coins cousus. Toile dehors, coton dedans.",it:"Beauty case a scatola con cerniera lungo il lato e angoli cuciti. Canvas fuori, cotone dentro."}},
+ {id:"boho",n:24,format:"sat",level:2,accent:"sage",icon:"bucket",
+  name:{ca:"Boho bag",es:"Boho bag",de:"Boho Bag",en:"Boho bag",fr:"Boho bag",it:"Boho bag"},
+  desc:{ca:"Tote relaxada, folrada, amb butxaca interior i nanses llargues. Cantonades amb profunditat.",es:"Tote relajada, forrada, con bolsillo interior y asas largas. Esquinas con profundidad.",de:"Lässige, gefütterte Tote mit Innentasche und langen Henkeln. Ecken mit Tiefe.",en:"Relaxed lined tote with inner pocket and long handles. Boxed corners for depth.",fr:"Tote décontracté, doublé, avec poche intérieure et longues anses. Coins en volume.",it:"Tote rilassata, foderata, con tasca interna e manici lunghi. Angoli con profondità."}},
 ];
 /* Provisional dates — replace when confirmed. seats = free seats out of 6. */
 const DATES = [
@@ -72,4 +87,6 @@ const DATES = [
 ];
 /* Real photos that exist in img/. Add a key here when you drop the file in: "hero", "kits", "espai", or "kits/<kit id>". */
 const PHOTOS = [];
+/* Price of a kit bought on its own, with the illustrated guide (CHF). */
+const KIT_PRICE = 32;
 const CONTACT_EMAIL = "hallo@stich-zuerich.ch"; /* placeholder until domain is decided */

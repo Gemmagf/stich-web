@@ -164,7 +164,8 @@ p{margin:0 0 1em}
 .card__date{font-size:14px;padding:10px 12px;border-radius:5px;display:flex;align-items:center;gap:8px;font-weight:600;color:var(--ink)}
 .card__date svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex:0 0 auto}
 .card__date--none{background:var(--bg);color:var(--faint);border:1px dashed var(--line-2)}
-.card__cta{margin-top:4px}
+.card__links{margin-top:4px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.card__kit{font-size:12px}
 .card[hidden]{display:none}
 .accent-coral .card__date,.accent-coral .card__lvl{background:var(--coral-soft)}
 .accent-sage .card__date,.accent-sage .card__lvl{background:var(--sage-soft)}
@@ -298,6 +299,65 @@ p{margin:0 0 1em}
   .draw.pre path{stroke-dashoffset:0}
   *{transition-duration:.01ms!important;animation-duration:.01ms!important}
 }
+
+/* ---- kit page ---- */
+.kitpage{padding-bottom:clamp(40px,6vw,80px)}
+.kit__hero{padding-top:clamp(20px,3vw,40px)}
+.kit__back{margin-bottom:22px}
+.kit__grid{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(24px,4vw,56px);align-items:start}
+.kit__copy h1{font-size:clamp(40px,4.6vw,66px);line-height:1.06;margin:8px 0 16px}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 8px}
+.pill{font-size:12.5px;letter-spacing:.06em;font-weight:600;padding:7px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--line-2)}
+.kit__photo{position:relative}
+.kit__img{aspect-ratio:4/5;border-radius:24px 80px 24px 24px}
+.kit__photo .card__lvl{top:16px;left:16px}
+.kit__mats{margin-top:28px}
+.mats{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.mat{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:center;font-size:14px}
+.mat__sw{width:14px;height:14px;border-radius:50%;grid-row:1/3}
+.mat b{font-size:13px;letter-spacing:.06em;text-transform:uppercase}
+.mat span{color:var(--muted);font-weight:500}
+.kit__lock{margin-top:clamp(32px,5vw,56px);background:var(--ink);color:var(--cream);border-radius:var(--radius);padding:clamp(24px,4vw,44px);display:grid;grid-template-columns:1.4fr 1fr;gap:32px;align-items:center;position:relative;overflow:hidden}
+.kit__lock::before{content:"";position:absolute;left:0;right:0;top:0;height:5px;background:linear-gradient(90deg,var(--coral) 0 25%,var(--mustard) 25% 50%,var(--sage) 50% 75%,var(--blue) 75%)}
+.kit__lock .eyebrow{color:var(--mustard)}
+.kit__lock h2{margin:6px 0 12px}
+.kit__lock p{color:rgba(248,244,236,.8);max-width:50ch;font-weight:500;margin:0}
+.kit__lock--soon{grid-template-columns:1fr}
+.kit__buybox{display:flex;flex-direction:column;gap:10px;align-items:flex-start;justify-self:end}
+.kit__buybox small{font-size:12.5px;color:rgba(248,244,236,.6)}
+.kit__owned{margin-top:clamp(32px,5vw,56px);background:var(--sage-soft);border-left:6px solid var(--sage);border-radius:var(--radius);padding:20px 24px;display:flex;flex-wrap:wrap;gap:8px 24px;align-items:center}
+.kit__owned b{font-size:14px;letter-spacing:.12em;text-transform:uppercase}
+.kit__owned span{color:var(--muted);font-weight:500;flex:1;min-width:240px}
+.kit__guide{margin-top:clamp(40px,6vw,72px)}
+.toc{display:flex;gap:6px;flex-wrap:wrap}
+.toc a{text-decoration:none;font-size:12px;font-weight:700;letter-spacing:.1em;width:36px;height:36px;display:grid;place-items:center;border:1px solid var(--line-2);border-radius:50%}
+.toc a:hover{background:var(--surface);border-color:var(--text)}
+.steps-list{display:flex;flex-direction:column;gap:22px}
+.gstep{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(20px,3vw,40px);padding:clamp(20px,3vw,32px);align-items:start}
+.gstep__num{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;font-weight:700;letter-spacing:.06em;color:var(--ink);margin-bottom:12px}
+.gstep h3{font-family:var(--serif);font-size:clamp(26px,2.6vw,34px);margin:4px 0 14px}
+.gsub{margin:0;padding:0 0 0 22px;display:flex;flex-direction:column;gap:9px;font-size:16px;font-weight:500}
+.gsub li b{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-bottom:1px}
+.gtip{margin-top:16px;background:var(--mustard-soft);border-radius:8px;padding:12px 14px;font-size:14.5px;font-weight:500}
+.gtip b{display:block;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:3px}
+.gtip--warn{background:var(--coral-soft)}
+.gcheck{margin-top:16px;border:1.5px dashed var(--sage);border-radius:8px;padding:12px 14px;font-size:14.5px;font-weight:500;color:var(--muted)}
+.gcheck b{display:block;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:#5F7A5A;margin-bottom:3px}
+.gstep__visual{position:sticky;top:110px}
+.gstep__visual img{width:100%;border-radius:12px;border:1px solid var(--line);background:#fff}
+.gstep__ph{aspect-ratio:4/3;border-radius:12px;display:grid;place-items:center;padding:20px}
+.gcap{display:block;margin-top:8px;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-weight:600}
+.kit__source{margin-top:28px;font-size:14px;color:var(--muted);font-weight:500;border-top:1px dashed var(--line-2);padding-top:18px}
+.kit__source b{color:var(--text);letter-spacing:.08em;text-transform:uppercase;font-size:12px}
+.kit__source a{color:var(--coral)}
+.kit__source p{margin:6px 0 0;font-size:13px;color:var(--faint)}
+.kit__made{margin-top:32px;background:#2A2E25;color:var(--cream);border-radius:var(--radius);padding:clamp(28px,4vw,48px);text-align:center}
+.kit__made .eyebrow{color:var(--mustard)}
+.kit__made p:last-child{color:rgba(248,244,236,.8);max-width:56ch;margin:12px auto 0;font-weight:500}
+.kit__book{margin-top:clamp(40px,6vw,72px);display:grid;grid-template-columns:1fr auto;gap:24px;align-items:center;border-top:1px solid var(--line-2);padding-top:clamp(28px,4vw,44px)}
+.kit__book h2{margin:6px 0 10px}
+@media (max-width:900px){.kit__grid{grid-template-columns:1fr}.kit__photo{order:-1;max-width:420px}.kit__lock{grid-template-columns:1fr}.kit__buybox{justify-self:start}.gstep{grid-template-columns:1fr}.gstep__visual{position:static}.kit__book{grid-template-columns:1fr}}
+@media (max-width:600px){.mats{grid-template-columns:1fr}}
 </style></head><body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <defs>
@@ -653,6 +713,8 @@ de:{
   footer_tag:"Nähworkshops in Zürich",footer_draft:"Entwurf — Name, Domain und Ort sind noch nicht endgültig.",
   theme:"Hell/Dunkel wechseln",menu:"Menü",lang_label:"Sprache",
   dur_h:"h",dur_min:"min",kit_word:"Kit",
+  kit_view:"Kit ansehen",kit_back:"Zurück zu den Workshops",kit_eyebrow:"Kit",kit_in:"Was in deinem Kit ist",kit_steps:"Schritt für Schritt",kit_soon:"Die illustrierte Anleitung für dieses Kit ist in Arbeit.",kit_lock_t:"Die Anleitung kommt mit dem Kit.",kit_lock_p:"Wenn du das Kit kaufst, wird die Schritt-für-Schritt-Anleitung mit Fotos, Tipps und Kontrollpunkten hier freigeschaltet. Sie gehört dir für immer.",kit_buy:"Kit kaufen · {p} CHF",kit_buy_note:"Entwurf: der Kauf ist eine Simulation, es wird nichts berechnet.",kit_owned:"Gekauft ✓",kit_owned_p:"Dieses Kit gehört dir. Die Anleitung bleibt in diesem Browser freigeschaltet.",kit_reset:"Simulation zurücksetzen",kit_check:"Check ✓",kit_tip:"Tipp",kit_warn:"Wichtig",kit_made:"You made it ♡",kit_intro_default:"Eine visuelle STICH-Anleitung in kurzen, leicht nachvollziehbaren Schritten. Die Referenzbilder stammen aus der Originalanleitung des Projekts.",kit_check_default:"Vergleiche mit dem Referenzbild, bevor du weitermachst.",kit_outro_default:"Bewahre diese Anleitung beim Kit auf. Prüfe vor jedem Schritt, dass dein Teil so liegt wie auf dem Referenzbild.",kit_step:"Schritt {n}",kit_time:"± {h} h",kit_level:"Niveau {n}",kit_ref:"Referenz",kit_book_t:"Lieber im Workshop nähen?",kit_book_p:"Dieses Projekt kannst du auch an einem Samstag bei uns nähen, mit Maschine und Begleitung.",kit_book:"Platz reservieren",
+  kit_intro_ws:"Eine STICH-Anleitung zum Mitlesen während des Workshops: kurze, visuelle Schritte, die du beim Nähen schnell nachschlagen kannst.",kit_check_ws:"Prüfe Ausrichtung, rechte Stoffseiten und Nahtzugaben, bevor du weitermachst.",kit_outro_ws:"Von dir gemacht, Stich für Stich. Bewahre diese Anleitung beim Kit auf.",kit_source:"Referenzschnitt / Tutorial",kit_source_note:"Diese STICH-Anleitung ist eine eigene Zusammenfassung des Prozesses und enthält nicht das Original-PDF. Zum Drucken oder Zuschneiden des Schnitts immer den offiziellen Link der Quelle nutzen.",
 },
 en:{
   langName:"English",
@@ -703,6 +765,8 @@ en:{
   footer_tag:"Sewing workshops in Zürich",footer_draft:"Draft — name, domain and location are not final.",
   theme:"Toggle light/dark",menu:"Menu",lang_label:"Language",
   dur_h:"h",dur_min:"min",kit_word:"Kit",
+  kit_view:"See the kit",kit_back:"Back to workshops",kit_eyebrow:"Kit",kit_in:"What is in your kit",kit_steps:"Step by step",kit_soon:"The illustrated guide for this kit is in the making.",kit_lock_t:"The instructions come with the kit.",kit_lock_p:"When you buy the kit, the step-by-step guide with photos, tips and checkpoints unlocks here. It is yours for good.",kit_buy:"Buy the kit · {p} CHF",kit_buy_note:"Draft: the purchase is simulated, nothing is charged.",kit_owned:"Bought ✓",kit_owned_p:"This kit is yours. The guide stays unlocked in this browser.",kit_reset:"Reset simulation",kit_check:"Check ✓",kit_tip:"Tip",kit_warn:"Important",kit_made:"You made it ♡",kit_intro_default:"A STICH visual guide, reorganised into short, easy-to-follow steps. Reference images come from the original project instructions.",kit_check_default:"Compare with the reference image before you carry on.",kit_outro_default:"Keep this guide with your kit. Before each step, check that your piece sits the same way as in the reference image.",kit_step:"Step {n}",kit_time:"± {h} h",kit_level:"Level {n}",kit_ref:"Reference",kit_book_t:"Rather sew it with us?",kit_book_p:"You can also make this project on a Saturday at the workshop, machine and guidance included.",kit_book:"Book a seat",
+  kit_intro_ws:"A STICH guide made to follow along during the workshop: short, visual steps that are easy to check while you sew.",kit_check_ws:"Before you carry on, check orientation, right sides and allowances.",kit_outro_ws:"Made by you, stitch by stitch. Keep this guide with your kit.",kit_source:"Reference pattern / tutorial",kit_source_note:"This STICH guide is our own summary of the process and does not redistribute the original PDF. To print or cut the pattern, always use the official link of the source.",
 },
 fr:{
   langName:"Français",
@@ -753,6 +817,8 @@ fr:{
   footer_tag:"Ateliers de couture à Zurich",footer_draft:"Brouillon — nom, domaine et lieu ne sont pas définitifs.",
   theme:"Basculer clair/sombre",menu:"Menu",lang_label:"Langue",
   dur_h:"h",dur_min:"min",kit_word:"Kit",
+  kit_view:"Voir le kit",kit_back:"Retour aux ateliers",kit_eyebrow:"Kit",kit_in:"Ce qu’il y a dans ton kit",kit_steps:"Pas à pas",kit_soon:"Le guide illustré de ce kit est en préparation.",kit_lock_t:"Les instructions viennent avec le kit.",kit_lock_p:"Quand tu achètes le kit, le guide pas à pas avec photos, conseils et points de contrôle se débloque ici. Il est à toi pour toujours.",kit_buy:"Acheter le kit · {p} CHF",kit_buy_note:"Brouillon : l’achat est simulé, rien n’est facturé.",kit_owned:"Acheté ✓",kit_owned_p:"Ce kit est à toi. Le guide reste débloqué dans ce navigateur.",kit_reset:"Réinitialiser la simulation",kit_check:"Check ✓",kit_tip:"Conseil",kit_warn:"Important",kit_made:"You made it ♡",kit_intro_default:"Un guide visuel STICH, réorganisé en étapes courtes et faciles à suivre. Les images de référence proviennent des instructions originales du projet.",kit_check_default:"Compare avec l’image de référence avant de continuer.",kit_outro_default:"Garde ce guide avec ton kit. Avant chaque étape, vérifie que ta pièce est orientée comme sur l’image de référence.",kit_step:"Étape {n}",kit_time:"± {h} h",kit_level:"Niveau {n}",kit_ref:"Référence",kit_book_t:"Tu préfères le coudre avec nous ?",kit_book_p:"Ce projet se fait aussi un samedi à l’atelier, machine et accompagnement compris.",kit_book:"Réserver une place",
+  kit_intro_ws:"Un guide STICH pensé pour suivre le projet pendant l’atelier : des étapes courtes et visuelles, faciles à consulter en cousant.",kit_check_ws:"Avant de continuer, vérifie l’orientation, les endroits et les marges.",kit_outro_ws:"Fait par toi, point après point. Garde ce guide avec ton kit.",kit_source:"Patron / tutoriel de référence",kit_source_note:"Ce guide STICH est une synthèse personnelle du processus et ne redistribue pas le PDF original. Pour imprimer ou couper le patron, utilise toujours le lien officiel de la source.",
 },
 it:{
   langName:"Italiano",
@@ -803,6 +869,8 @@ it:{
   footer_tag:"Workshop di cucito a Zurigo",footer_draft:"Bozza — nome, dominio e luogo non sono definitivi.",
   theme:"Cambia chiaro/scuro",menu:"Menu",lang_label:"Lingua",
   dur_h:"h",dur_min:"min",kit_word:"Kit",
+  kit_view:"Vedi il kit",kit_back:"Torna ai workshop",kit_eyebrow:"Kit",kit_in:"Cosa c’è nel tuo kit",kit_steps:"Passo dopo passo",kit_soon:"La guida illustrata di questo kit è in preparazione.",kit_lock_t:"Le istruzioni arrivano con il kit.",kit_lock_p:"Quando compri il kit, la guida passo dopo passo con foto, consigli e punti di controllo si sblocca qui. È tua per sempre.",kit_buy:"Compra il kit · {p} CHF",kit_buy_note:"Bozza: l’acquisto è simulato, non viene addebitato nulla.",kit_owned:"Comprato ✓",kit_owned_p:"Questo kit è tuo. La guida resta sbloccata in questo browser.",kit_reset:"Azzera la simulazione",kit_check:"Check ✓",kit_tip:"Consiglio",kit_warn:"Importante",kit_made:"You made it ♡",kit_intro_default:"Una guida visiva STICH, riorganizzata in passi brevi e facili da seguire. Le immagini di riferimento vengono dalle istruzioni originali del progetto.",kit_check_default:"Confronta con l’immagine di riferimento prima di continuare.",kit_outro_default:"Conserva questa guida con il kit. Prima di ogni passo, controlla che il pezzo sia orientato come nell’immagine di riferimento.",kit_step:"Passo {n}",kit_time:"± {h} h",kit_level:"Livello {n}",kit_ref:"Riferimento",kit_book_t:"Preferisci cucirlo con noi?",kit_book_p:"Questo progetto si può fare anche un sabato in laboratorio, macchina e accompagnamento inclusi.",kit_book:"Prenota un posto",
+  kit_intro_ws:"Una guida STICH pensata per seguire il progetto durante il workshop: passi brevi e visivi, facili da consultare mentre cuci.",kit_check_ws:"Prima di continuare, controlla orientamento, dritti e margini.",kit_outro_ws:"Fatto da te, punto dopo punto. Conserva questa guida con il kit.",kit_source:"Cartamodello / tutorial di riferimento",kit_source_note:"Questa guida STICH è una sintesi personale del procedimento e non ridistribuisce il PDF originale. Per stampare o tagliare il cartamodello usa sempre il link ufficiale della fonte.",
 },
 ca:{
   langName:"Català",
@@ -853,6 +921,8 @@ ca:{
   footer_tag:"Tallers de costura a Zúric",footer_draft:"Esborrany — nom, domini i lloc encara no són definitius.",
   theme:"Canvia clar/fosc",menu:"Menú",lang_label:"Idioma",
   dur_h:"h",dur_min:"min",kit_word:"Kit",
+  kit_view:"Veure el kit",kit_back:"Tornar als tallers",kit_eyebrow:"Kit",kit_in:"Què hi ha al teu kit",kit_steps:"Pas a pas",kit_soon:"La guia il·lustrada d’aquest kit està en preparació.",kit_lock_t:"Les instruccions van amb el kit.",kit_lock_p:"Quan compres el kit, la guia pas a pas amb fotos, consells i punts de control es desbloqueja aquí. És teva per sempre.",kit_buy:"Comprar el kit · {p} CHF",kit_buy_note:"Esborrany: la compra és una simulació, no es cobra res.",kit_owned:"Comprat ✓",kit_owned_p:"Aquest kit és teu. La guia queda desbloquejada en aquest navegador.",kit_reset:"Reinicia la simulació",kit_check:"Check ✓",kit_tip:"Consell",kit_warn:"Important",kit_made:"You made it ♡",kit_intro_default:"Guia visual STICH, reorganitzada en passos curts i fàcils de seguir. Les imatges de referència provenen de les instruccions originals del projecte.",kit_check_default:"Revisa la imatge de referència abans de continuar.",kit_outro_default:"Guarda aquesta guia amb el teu kit. Abans d’avançar, comprova sempre que la peça tingui la mateixa orientació que a la imatge de referència.",kit_step:"Pas {n}",kit_time:"± {h} h",kit_level:"Nivell {n}",kit_ref:"Referència",kit_book_t:"Prefereixes cosir-lo amb nosaltres?",kit_book_p:"Aquest projecte també es pot fer un dissabte al taller, amb màquina i acompanyament inclosos.",kit_book:"Reservar plaça",
+  kit_intro_ws:"Guia STICH pensada per seguir el projecte durant el taller: passos curts, visuals i fàcils de consultar mentre cuses.",kit_check_ws:"Abans de continuar, comprova orientació, cares boniques i marges.",kit_outro_ws:"Fet per tu, puntada a puntada. Guarda aquesta guia amb el teu kit.",kit_source:"Patró / tutorial de referència",kit_source_note:"Aquesta guia STICH és una síntesi i reinterpretació pròpia del procés. No redistribueix el PDF del patró original. Per imprimir o tallar el patró, utilitza sempre l’enllaç oficial de la font.",
 },
 es:{
   langName:"Español",
@@ -903,6 +973,8 @@ es:{
   footer_tag:"Talleres de costura en Zúrich",footer_draft:"Borrador — nombre, dominio y lugar aún no son definitivos.",
   theme:"Cambiar claro/oscuro",menu:"Menú",lang_label:"Idioma",
   dur_h:"h",dur_min:"min",kit_word:"Kit",
+  kit_view:"Ver el kit",kit_back:"Volver a los talleres",kit_eyebrow:"Kit",kit_in:"Qué hay en tu kit",kit_steps:"Paso a paso",kit_soon:"La guía ilustrada de este kit está en preparación.",kit_lock_t:"Las instrucciones van con el kit.",kit_lock_p:"Cuando compras el kit, la guía paso a paso con fotos, consejos y puntos de control se desbloquea aquí. Es tuya para siempre.",kit_buy:"Comprar el kit · {p} CHF",kit_buy_note:"Borrador: la compra es una simulación, no se cobra nada.",kit_owned:"Comprado ✓",kit_owned_p:"Este kit es tuyo. La guía queda desbloqueada en este navegador.",kit_reset:"Reiniciar la simulación",kit_check:"Check ✓",kit_tip:"Consejo",kit_warn:"Importante",kit_made:"You made it ♡",kit_intro_default:"Guía visual STICH, reorganizada en pasos cortos y fáciles de seguir. Las imágenes de referencia provienen de las instrucciones originales del proyecto.",kit_check_default:"Revisa la imagen de referencia antes de continuar.",kit_outro_default:"Guarda esta guía con tu kit. Antes de avanzar, comprueba siempre que la pieza tenga la misma orientación que en la imagen de referencia.",kit_step:"Paso {n}",kit_time:"± {h} h",kit_level:"Nivel {n}",kit_ref:"Referencia",kit_book_t:"¿Prefieres coserlo con nosotras?",kit_book_p:"Este proyecto también se puede hacer un sábado en el taller, con máquina y acompañamiento incluidos.",kit_book:"Reservar plaza",
+  kit_intro_ws:"Guía STICH pensada para seguir el proyecto durante el taller: pasos cortos, visuales y fáciles de consultar mientras coses.",kit_check_ws:"Antes de continuar, comprueba orientación, derechos y márgenes.",kit_outro_ws:"Hecho por ti, puntada a puntada. Guarda esta guía con tu kit.",kit_source:"Patrón / tutorial de referencia",kit_source_note:"Esta guía STICH es una síntesis y reinterpretación propia del proceso. No redistribuye el PDF del patrón original. Para imprimir o cortar el patrón, usa siempre el enlace oficial de la fuente.",
 }};
 const LANGS = ["de","en","fr","it","ca","es"];
 const DEFAULT_LANG = "de";
@@ -970,6 +1042,21 @@ const KITS = [
  {id:"backpack",n:19,format:"long",level:3,accent:"sage",icon:"backpack",
   name:{ca:"Motxilla escolar",es:"Mochila escolar",de:"Kinderrucksack",en:"Kids' school backpack",fr:"Sac à dos d'école",it:"Zainetto per la scuola"},
   desc:{ca:"Folrada, amb etiqueta de nom, tirants ajustables i butxaca frontal.",es:"Forrada, con etiqueta de nombre, tirantes ajustables y bolsillo frontal.",de:"Gefüttert, mit Namensetikett, verstellbaren Trägern und Fronttasche.",en:"Lined, with name label, adjustable straps and front pocket.",fr:"Doublé, avec étiquette de nom, bretelles réglables et poche avant.",it:"Foderato, con etichetta per il nome, spallacci regolabili e tasca frontale."}},
+ {id:"strawberry",n:20,format:"short",level:1,accent:"coral",icon:"pouch",
+  name:{ca:"Bossa maduixa / bossa per mudes",es:"Bolsa fresa / bolsa para mudas",de:"Erdbeer-Beutel",en:"Strawberry bag",fr:"Sac fraise",it:"Borsa fragola"},
+  desc:{ca:"Bossa lleugera amb nanses i cordó, amb una maduixeta a la punta. Per a mudes, roba d’esport o el que vulguis.",es:"Bolsa ligera con asas y cordón, con una fresita en la punta. Para mudas, ropa de deporte o lo que quieras.",de:"Leichter Beutel mit Henkeln und Kordel und einer kleinen Erdbeere an der Ecke. Für Wechselkleider, Sportsachen oder was du willst.",en:"Light bag with handles and cord, with a little strawberry at the corner. For spare clothes, sports kit or anything else.",fr:"Sac léger avec anses et cordelette, et une petite fraise au coin. Pour le linge de rechange, le sport ou ce que tu veux.",it:"Borsa leggera con manici e cordoncino, con una fragolina all’angolo. Per il cambio, lo sport o quello che vuoi."}},
+ {id:"ruffle",n:21,format:"sat",level:2,accent:"pink",icon:"tote",
+  name:{ca:"Bossa amb volant",es:"Bolso con volante",de:"Tasche mit Rüsche",en:"Ruffle bag",fr:"Sac à volant",it:"Borsa con balza"},
+  desc:{ca:"Bossa folrada amb volant arrissat, butxaca amb cremallera i tancament de botó. El projecte més complet del format Dissabte.",es:"Bolso forrado con volante fruncido, bolsillo con cremallera y cierre de botón. El proyecto más completo del formato Sábado.",de:"Gefütterte Tasche mit gekräuselter Rüsche, Reissverschlusstasche und Knopfverschluss. Das umfangreichste Projekt im Samstagsformat.",en:"Lined bag with a gathered ruffle, zip pocket and button closure. The most complete Saturday project.",fr:"Sac doublé avec volant froncé, poche zippée et fermeture à bouton. Le projet le plus complet du format Samedi.",it:"Borsa foderata con balza arricciata, tasca con cerniera e chiusura a bottone. Il progetto più completo del formato Sabato."}},
+ {id:"zippouch",n:22,format:"short",level:1,accent:"pink",icon:"case",
+  name:{ca:"Zip pouch",es:"Zip pouch",de:"Zip Pouch",en:"Zip pouch",fr:"Zip pouch",it:"Zip pouch"},
+  desc:{ca:"Funda plana amb cremallera, folre i travetes laterals. El projecte ideal per estrenar la pota de cremallera.",es:"Funda plana con cremallera, forro y trabillas laterales. El proyecto ideal para estrenar el prensatelas de cremallera.",de:"Flaches Täschchen mit Reissverschluss, Futter und Seitenschlaufen. Ideal, um den Reissverschlussfuss kennenzulernen.",en:"Flat zipped pouch with lining and side loops. The ideal first project with the zipper foot.",fr:"Pochette plate zippée, doublée, avec passants latéraux. Le projet idéal pour apprivoiser le pied fermeture.",it:"Astuccio piatto con cerniera, fodera e passanti laterali. Il progetto ideale per iniziare con il piedino per cerniere."}},
+ {id:"boxpouch",n:23,format:"sat",level:2,accent:"mustard",icon:"pouch",
+  name:{ca:"Box pouch · necesser 3D",es:"Box pouch · neceser 3D",de:"Box Pouch · 3D-Necessaire",en:"Box pouch",fr:"Box pouch · trousse 3D",it:"Box pouch · beauty case 3D"},
+  desc:{ca:"Necesser amb forma de caixa, cremallera al llarg i cantonades cosides. Canvas a fora, cotó a dins.",es:"Neceser con forma de caja, cremallera a lo largo y esquinas cosidas. Canvas por fuera, algodón por dentro.",de:"Kastenförmiges Necessaire mit langem Reissverschluss und abgenähten Ecken. Canvas aussen, Baumwolle innen.",en:"Box-shaped pouch with a long zip and boxed corners. Canvas outside, cotton inside.",fr:"Trousse en forme de boîte, fermeture sur la longueur et coins cousus. Toile dehors, coton dedans.",it:"Beauty case a scatola con cerniera lungo il lato e angoli cuciti. Canvas fuori, cotone dentro."}},
+ {id:"boho",n:24,format:"sat",level:2,accent:"sage",icon:"bucket",
+  name:{ca:"Boho bag",es:"Boho bag",de:"Boho Bag",en:"Boho bag",fr:"Boho bag",it:"Boho bag"},
+  desc:{ca:"Tote relaxada, folrada, amb butxaca interior i nanses llargues. Cantonades amb profunditat.",es:"Tote relajada, forrada, con bolsillo interior y asas largas. Esquinas con profundidad.",de:"Lässige, gefütterte Tote mit Innentasche und langen Henkeln. Ecken mit Tiefe.",en:"Relaxed lined tote with inner pocket and long handles. Boxed corners for depth.",fr:"Tote décontracté, doublé, avec poche intérieure et longues anses. Coins en volume.",it:"Tote rilassata, foderata, con tasca interna e manici lunghi. Angoli con profondità."}},
 ];
 /* Provisional dates — replace when confirmed. seats = free seats out of 6. */
 const DATES = [
@@ -980,16 +1067,14 @@ const DATES = [
 ];
 /* Real photos that exist in img/. Add a key here when you drop the file in: "hero", "kits", "espai", or "kits/<kit id>". */
 const PHOTOS = [];
+/* Price of a kit bought on its own, with the illustrated guide (CHF). */
+const KIT_PRICE = 32;
 const CONTACT_EMAIL = "hallo@stich-zuerich.ch"; /* placeholder until domain is decided */
-/* ===== App ===== */
-(function(){
-  const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
-  const SOFT={coral:"#F3CFC2",sage:"#D9E2D4",mustard:"#F5E3AE",blue:"#D6E0EA",pink:"#F6DDD6",yellow:"#FBEFC4"};
-  const TONE={coral:"#CF6446",sage:"#91A58D",mustard:"#E8B846",blue:"#8FA5BD",pink:"#EBAA9E",yellow:"#F4D478"};
-  const LOCALE={de:"de-CH",en:"en-GB",fr:"fr-CH",it:"it-CH",ca:"ca-ES",es:"es-ES"};
-
+/* ===== Kit illustrations (shared by index and kit pages) ===== */
+const SOFT={coral:"#F3CFC2",sage:"#D9E2D4",mustard:"#F5E3AE",blue:"#D6E0EA",pink:"#F6DDD6",yellow:"#FBEFC4"};
+const TONE={coral:"#CF6446",sage:"#91A58D",mustard:"#E8B846",blue:"#8FA5BD",pink:"#EBAA9E",yellow:"#F4D478"};
   /* --- placeholder "photos": textile pattern ground + filled, hand-drawn object. Swap for <img> when photos exist. --- */
-  const PAT={
+const PAT={
     coral:(id)=>`<pattern id="${id}" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(90)"><rect width="14" height="14" fill="#F6E6DD"/><rect width="5" height="14" fill="#EBAA9E" opacity=".55"/></pattern>`,
     sage:(id)=>`<pattern id="${id}" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#EEF2EC"/><rect width="8" height="16" fill="#91A58D" opacity=".45"/><rect width="16" height="8" fill="#91A58D" opacity=".45"/></pattern>`,
     mustard:(id)=>`<pattern id="${id}" width="18" height="18" patternUnits="userSpaceOnUse"><rect width="18" height="18" fill="#F8EFD6"/><circle cx="9" cy="9" r="2.2" fill="#E8B846"/><circle cx="0" cy="0" r="1.4" fill="#CF6446"/><circle cx="18" cy="18" r="1.4" fill="#CF6446"/></pattern>`,
@@ -998,7 +1083,7 @@ const CONTACT_EMAIL = "hallo@stich-zuerich.ch"; /* placeholder until domain is d
     yellow:(id)=>`<pattern id="${id}" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#FBF3D9"/><rect width="10" height="1.2" y="4" fill="#E8B846" opacity=".5"/></pattern>`,
   };
   /* each icon: body = closed shape (filled with the accent), lines = details */
-  const ICONS={
+const ICONS={
     case:{body:`<rect x="18" y="38" width="64" height="36" rx="11"/>`,lines:`<path d="M18 52h64" stroke-dasharray="3 3"/><circle cx="72" cy="46" r="2"/>`},
     hen:{body:`<path d="M28 70c-8-10-4-30 12-32 10-1 16 6 20 12l14 2-8 6c2 10-6 16-18 16H32z"/>`,lines:`<circle cx="46" cy="46" r="1.5" fill="#25271F"/><path d="M40 34c2-6 8-6 8 0M46 34c2-6 8-6 8 0"/><path d="M38 70l-2 8M52 70l2 8"/>`},
     crown:{body:`<path d="M20 74V40l15 12 15-21 15 21 15-12v34z"/>`,lines:`<path d="M20 66h60" stroke-dasharray="3 3"/><circle cx="50" cy="30" r="2.5" fill="#25271F"/>`},
@@ -1016,8 +1101,13 @@ const CONTACT_EMAIL = "hallo@stich-zuerich.ch"; /* placeholder until domain is d
     banana:{body:`<path d="M22 60c0-14 12-24 28-24s28 10 28 24-12 18-28 18-28-4-28-18z"/>`,lines:`<path d="M22 56c8-6 48-6 56 0" stroke-dasharray="3 3"/><path d="M29 44c-4-14 6-24 21-30M71 44c4-14-6-24-21-30"/>`},
     backpack:{body:`<path d="M28 40c0-12 9-19 22-19s22 7 22 19v36H28z"/>`,lines:`<path d="M40 22c0-6 4-8 10-8s10 2 10 8"/><rect x="37" y="52" width="26" height="17" rx="4" fill="#F8F4EC"/><path d="M28 46h44" stroke-dasharray="3 3"/><path d="M33 76v-8M67 76v-8"/>`},
   };
-  const iconSvg=(k)=>{const pid="pat-"+k.id, ic=ICONS[k.icon];
+const iconSvg=(k)=>{const pid="pat-"+k.id, ic=ICONS[k.icon];
     return `<svg class="ph" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice"><defs>${PAT[k.accent](pid)}</defs><rect width="100" height="100" fill="url(#${pid})"/><ellipse cx="50" cy="86" rx="30" ry="5" fill="#25271F" opacity=".08"/><g transform="translate(0 4)" stroke="#25271F" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><g fill="${TONE[k.accent]}">${ic.body}</g><g fill="none">${ic.lines}</g></g><rect width="100" height="100" fill="transparent" filter="url(#grain)"/></svg>`;};
+/* ===== App ===== */
+(function(){
+  const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+  const LOCALE={de:"de-CH",en:"en-GB",fr:"fr-CH",it:"it-CH",ca:"ca-ES",es:"es-ES"};
+
   const ICO_CLOCK=`<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`;
   const ICO_TAG=`<svg viewBox="0 0 24 24"><path d="M4 4h8l8 8-8 8-8-8z"/><circle cx="8" cy="8" r="1.5"/></svg>`;
   const ICO_CAL=`<svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>`;
@@ -1070,7 +1160,7 @@ const CONTACT_EMAIL = "hallo@stich-zuerich.ch"; /* placeholder until domain is d
           <p class="card__sub">${t("level"+k.level+"_t")}</p>
           <div class="card__meta"><span>${ICO_CLOCK}${fmtDuration(f.hours)}</span><span>${ICO_TAG}${f.price} CHF</span></div>
           ${dateHtml}
-          <a class="link link--${k.accent} card__cta" href="${mailto(k,d)}"><span>${t("card_cta")}</span>${ARROW}</a>
+          <div class="card__links"><a class="link link--${k.accent} card__cta" href="${mailto(k,d)}"><span>${t("card_cta")}</span>${ARROW}</a><a class="link link--ink card__kit" href="kit.html?id=${k.id}"><span>${t("kit_view")}</span>${ARROW}</a></div>
         </div></article>`;
     }).join("")||`<div class="empty">${t("empty")}</div>`;
     $("#count").textContent=t("count_of",{n:shown.length,t:KITS.length});

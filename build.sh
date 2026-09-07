@@ -22,7 +22,16 @@ def sub(m):
     return re.sub(r"\n\s*"," ",svg)
 print(re.sub(r"<!--picto:([^>]+)-->",sub,body),end="")
 PYEOF
-  echo '<script>'; cat src/i18n.js src/kits.js src/app.js; echo '</script>'
+  echo '<script>'; cat src/i18n.js src/kits.js src/icons.js src/app.js; echo '</script>'
   echo '</body></html>'
 } > index.html
-echo "built index.html ($(wc -c < index.html) bytes)"
+{
+  echo '<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+  echo '<title>STICH · Kit</title><meta name="robots" content="noindex">'
+  echo "$FONTS"
+  echo '<style>'; cat src/styles.css; echo '</style></head><body>'
+  cat src/kit-body.html
+  echo '<script>'; cat src/i18n.js src/kits.js src/icons.js src/guides-a.js src/guides-b.js src/guides-c.js src/kit.js; echo '</script>'
+  echo '</body></html>'
+} > kit.html
+echo "built index.html ($(wc -c < index.html) bytes) and kit.html ($(wc -c < kit.html) bytes)"
