@@ -41,6 +41,10 @@
      "t": "Talla",
      "items": [
       "Descarrega el tutorial gratuït i talla exterior i folre segons les mides indicades."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -48,6 +52,10 @@
      "t": "Munta l’exterior",
      "items": [
       "Cus els panells exteriors formant la silueta estreta a la base i ampla a la boca."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -55,6 +63,10 @@
      "t": "Munta el folre",
      "items": [
       "Repeteix la construcció amb el folre, deixant l’obertura necessària per girar."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -62,6 +74,10 @@
      "t": "Forma les nanses",
      "items": [
       "Prepara i posiciona les nanses perquè quedin simètriques i reforça els punts d’ancoratge."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -69,6 +85,10 @@
      "t": "Uneix exterior i folre",
      "items": [
       "Encara les dues bosses per la boca, cus el contorn i gira."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -76,6 +96,10 @@
      "t": "Acaba",
      "items": [
       "Planxa, repunta la boca si cal i col·loca el snap a les marques."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -106,6 +130,10 @@
      "t": "Corta",
      "items": [
       "Descarga el tutorial gratuito y corta exterior y forro según las medidas indicadas."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -113,6 +141,10 @@
      "t": "Monta el exterior",
      "items": [
       "Cose los paneles exteriores formando la silueta estrecha en la base y ancha en la boca."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -120,6 +152,10 @@
      "t": "Monta el forro",
      "items": [
       "Repite la construcción con el forro, dejando la abertura necesaria para girar."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -127,6 +163,10 @@
      "t": "Forma las asas",
      "items": [
       "Prepara y posiciona las asas para que queden simétricas y refuerza los puntos de anclaje."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -134,6 +174,10 @@
      "t": "Une exterior y forro",
      "items": [
       "Enfrenta las dos bolsas por la boca, cose el contorno y gira."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -141,6 +185,10 @@
      "t": "Acaba",
      "items": [
       "Plancha, pespuntea la boca si hace falta y coloca el snap en las marcas."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -171,6 +219,10 @@
      "t": "Cut",
      "items": [
       "Download the free tutorial and cut outer and lining to the given measurements."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -178,6 +230,10 @@
      "t": "Assemble the outer",
      "items": [
       "Sew the outer panels into the shape that is narrow at the base and wide at the mouth."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -185,6 +241,10 @@
      "t": "Assemble the lining",
      "items": [
       "Repeat the construction with the lining, leaving the gap you need to turn."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -192,6 +252,10 @@
      "t": "Form the handles",
      "items": [
       "Prepare and position the handles symmetrically and reinforce the anchor points."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -199,6 +263,10 @@
      "t": "Join outer and lining",
      "items": [
       "Face the two bags at the mouth, sew around and turn."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -206,6 +274,10 @@
      "t": "Finish",
      "items": [
       "Press, topstitch the mouth if needed and fit the snap on the marks."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -236,6 +308,10 @@
      "t": "Zuschneiden",
      "items": [
       "Gratis-Tutorial laden und Aussenstoff und Futter nach den angegebenen Massen zuschneiden."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -243,6 +319,10 @@
      "t": "Aussenteil zusammensetzen",
      "items": [
       "Die Aussenteile zu der Form nähen, die unten schmal und oben weit ist."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -250,6 +330,10 @@
      "t": "Futter zusammensetzen",
      "items": [
       "Den Aufbau mit dem Futter wiederholen und eine Wendeöffnung lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -257,6 +341,10 @@
      "t": "Henkel formen",
      "items": [
       "Henkel vorbereiten, symmetrisch platzieren und die Ansatzpunkte verstärken."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -264,6 +352,10 @@
      "t": "Aussen und Futter verbinden",
      "items": [
       "Beide Taschen an der Öffnung aufeinanderlegen, rundum nähen und wenden."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -271,6 +363,10 @@
      "t": "Fertigstellen",
      "items": [
       "Bügeln, bei Bedarf die Öffnung absteppen und den Druckknopf an den Markierungen anbringen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -301,6 +397,10 @@
      "t": "Coupe",
      "items": [
       "Télécharge le tutoriel gratuit et coupe extérieur et doublure aux dimensions indiquées."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -308,6 +408,10 @@
      "t": "Monte l’extérieur",
      "items": [
       "Couds les panneaux extérieurs pour former la silhouette étroite en bas et large en haut."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -315,6 +419,10 @@
      "t": "Monte la doublure",
      "items": [
       "Répète la construction avec la doublure, en laissant l’ouverture pour retourner."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -322,6 +430,10 @@
      "t": "Forme les anses",
      "items": [
       "Prépare et positionne les anses symétriquement et renforce les points d’ancrage."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -329,6 +441,10 @@
      "t": "Assemble extérieur et doublure",
      "items": [
       "Superpose les deux sacs par l’ouverture, couds le tour et retourne."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -336,6 +452,10 @@
      "t": "Termine",
      "items": [
       "Repasse, surpique l’ouverture si besoin et pose la pression sur les repères."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -366,6 +486,10 @@
      "t": "Taglia",
      "items": [
       "Scarica il tutorial gratuito e taglia esterno e fodera secondo le misure indicate."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -373,6 +497,10 @@
      "t": "Monta l’esterno",
      "items": [
       "Cuci i pannelli esterni formando la sagoma stretta alla base e larga all’apertura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -380,6 +508,10 @@
      "t": "Monta la fodera",
      "items": [
       "Ripeti la costruzione con la fodera lasciando l’apertura necessaria per rivoltare."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -387,6 +519,10 @@
      "t": "Forma i manici",
      "items": [
       "Prepara e posiziona i manici in modo simmetrico e rinforza i punti di ancoraggio."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -394,6 +530,10 @@
      "t": "Unisci esterno e fodera",
      "items": [
       "Affronta le due borse sull’apertura, cuci il contorno e rivolta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -401,9 +541,14 @@
      "t": "Finisci",
      "items": [
       "Stira, impuntura l’apertura se serve e applica il bottone automatico sui segni."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

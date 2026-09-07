@@ -26,9 +26,11 @@
       :`<div class="kit__lock kit__lock--soon"><div><p class="eyebrow">${t("kit_steps")}</p><h2>${t("kit_soon")}</h2></div></div>`;
     const steps=(has&&isOwned)?`<section class="kit__guide" id="guide">
       <div class="sec-head"><h2 class="sec-title"><span>${t("kit_steps")}</span><span class="star">✳</span></h2><nav class="toc">${G.steps.map((s,i)=>`<a href="#pas${i+1}">${String(i+1).padStart(2,"0")}</a>`).join("")}</nav></div>
+      ${guide.legend?`<div class="glegend"><span class="gl gl--sew">${t("legend_sew")}</span><span class="gl gl--cut">${t("legend_cut")}</span><span class="gl gl--fold">${t("legend_fold")}</span><span class="gl gl--face">${t("legend_face")}</span><p>${t("legend_note")}</p></div>`:""}
       <div class="steps-list">${G.steps.map((s,i)=>{const n=guide.imgs[i]; return `<article class="gstep reveal" id="pas${i+1}">
         <div class="gstep__copy"><div class="gstep__num" style="background:${STEPBG[i%STEPBG.length]}">${String(i+1).padStart(2,"0")}</div><p class="eyebrow">${esc(s.e||t("kit_step",{n:i+1}))}</p><h3>${esc(s.t)}</h3>
           <ol class="gsub">${s.items.map(it=>Array.isArray(it)?`<li><b>${esc(it[0])}</b>${esc(it[1])}</li>`:`<li>${esc(it)}</li>`).join("")}</ol>
+          ${s.op?`<div class="gops"><span class="gop gop--sew">${t("op_sew_"+s.op[0])}</span><span class="gop gop--cut">${t("op_cut_"+s.op[1])}</span></div>`:""}
           ${s.tip?`<div class="gtip"><b>${t("kit_tip")}</b>${esc(s.tip)}</div>`:""}${s.warn?`<div class="gtip gtip--warn"><b>${t("kit_warn")}</b>${esc(s.warn)}</div>`:""}
           <div class="gcheck"><b>${t("kit_check")}</b>${esc(s.check||t(dk("kit_check")))}</div></div>
         <div class="gstep__visual">${n?`<img src="img/guides/${kit.id}/${n}.jpg" alt="${esc(s.cap||"")}" loading="lazy"><span class="gcap">${esc(s.cap||t("kit_ref"))}</span>`:`<div class="gstep__ph" style="background:${SOFT[kit.accent]}"><svg viewBox="0 0 420 300"><rect x="85" y="45" width="250" height="210" rx="10" fill="#D9A38C" opacity=".75"/><g stroke="#6E5A51" stroke-width="2" stroke-dasharray="7 7"><line x1="125" y1="55" x2="125" y2="245"/><line x1="165" y1="55" x2="165" y2="245"/><line x1="205" y1="55" x2="205" y2="245"/><line x1="245" y1="55" x2="245" y2="245"/><line x1="285" y1="55" x2="285" y2="245"/></g></svg></div>`}</div>

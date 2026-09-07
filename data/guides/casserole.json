@@ -49,6 +49,10 @@
      "t": "Munta el panell",
      "items": [
       "Encara exterior i folre i posa la guata tèrmica a sobre. Cus el contorn deixant una obertura de gir."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Gira i repunta",
      "items": [
       "Retalla cantonades, gira, planxa i fes un repunt al voltant per tancar l’obertura."
+     ],
+     "op": [
+      "straight",
+      "margin"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Prepara les tires",
      "items": [
       "Doblega cada tira com un biaix llarg, uneix els extrems si cal i repunta els dos costats."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Posiciona les nanses",
      "items": [
       "Col·loca les tires sobre el panell segons les marques, dividint-lo en terços, i reforça-les amb rectangles de costura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Forma el porta-cassoles",
      "items": [
       "Plega les solapes laterals seguint el tutorial i reforça els punts on s’uneixen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Tancament",
      "items": [
       "Afegeix snap o velcro opcional. Utilitza guata específica per a ús tèrmic i segueix les instruccions del fabricant."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Monta el panel",
      "items": [
       "Enfrenta exterior y forro y pon la guata térmica encima. Cose el contorno dejando una abertura para girar."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Gira y pespuntea",
      "items": [
       "Recorta esquinas, gira, plancha y pespuntea alrededor para cerrar la abertura."
+     ],
+     "op": [
+      "straight",
+      "margin"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Prepara las tiras",
      "items": [
       "Dobla cada tira como un bies largo, une los extremos si hace falta y pespuntea los dos lados."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Posiciona las asas",
      "items": [
       "Coloca las tiras sobre el panel según las marcas, dividiéndolo en tercios, y refuérzalas con rectángulos de costura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Forma el porta-cazuelas",
      "items": [
       "Pliega las solapas laterales siguiendo el tutorial y refuerza los puntos de unión."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Cierre",
      "items": [
       "Añade snap o velcro opcional. Usa guata específica para uso térmico y sigue las instrucciones del fabricante."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Assemble the panel",
      "items": [
       "Face outer and lining and lay the thermal batting on top. Sew around leaving a gap to turn."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Turn and topstitch",
      "items": [
       "Trim the corners, turn, press and topstitch around to close the gap."
+     ],
+     "op": [
+      "straight",
+      "margin"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Prepare the straps",
      "items": [
       "Fold each strap like long binding, join the ends if needed and topstitch both sides."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Position the handles",
      "items": [
       "Place the straps on the panel following the marks, dividing it in thirds, and reinforce with stitched rectangles."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Form the carrier",
      "items": [
       "Fold the side flaps as in the tutorial and reinforce the points where they meet."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Closure",
      "items": [
       "Add an optional snap or velcro. Use batting made for heat and follow the manufacturer's instructions."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Panel zusammensetzen",
      "items": [
       "Aussenstoff und Futter aufeinanderlegen und das Thermovlies darauf. Rundum nähen und eine Wendeöffnung lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Wenden und absteppen",
      "items": [
       "Ecken kürzen, wenden, bügeln und rundum absteppen, um die Öffnung zu schliessen."
+     ],
+     "op": [
+      "straight",
+      "margin"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Bänder vorbereiten",
      "items": [
       "Jedes Band wie ein langes Einfassband falten, bei Bedarf die Enden verbinden und beide Seiten absteppen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Griffe platzieren",
      "items": [
       "Die Bänder nach den Markierungen auf das Panel legen, es in Drittel teilen, und mit Steppnaht-Rechtecken verstärken."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Tasche formen",
      "items": [
       "Die seitlichen Klappen nach Tutorial falten und die Treffpunkte verstärken."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Verschluss",
      "items": [
       "Optional Druckknopf oder Klett anbringen. Hitzegeeignetes Vlies verwenden und die Herstellerangaben beachten."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Monte le panneau",
      "items": [
       "Superpose extérieur et doublure et pose le molleton thermique dessus. Couds le tour en laissant une ouverture."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Retourne et surpique",
      "items": [
       "Recoupe les coins, retourne, repasse et surpique le tour pour fermer l’ouverture."
+     ],
+     "op": [
+      "straight",
+      "margin"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Prépare les bandes",
      "items": [
       "Plie chaque bande comme un long biais, assemble les extrémités si besoin et surpique les deux côtés."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Positionne les anses",
      "items": [
       "Place les bandes sur le panneau selon les repères, en le divisant en tiers, et renforce par des rectangles de piqûre."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Forme le sac",
      "items": [
       "Plie les rabats latéraux selon le tutoriel et renforce les points de jonction."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Fermeture",
      "items": [
       "Ajoute une pression ou un velcro en option. Utilise un molleton conçu pour la chaleur et suis les indications du fabricant."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Monta il pannello",
      "items": [
       "Affronta esterno e fodera e metti sopra l’imbottitura termica. Cuci il contorno lasciando un’apertura per rivoltare."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Rivolta e impuntura",
      "items": [
       "Rifila gli angoli, rivolta, stira e fai un’impuntura intorno per chiudere l’apertura."
+     ],
+     "op": [
+      "straight",
+      "margin"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Prepara le strisce",
      "items": [
       "Piega ogni striscia come uno sbieco lungo, unisci le estremità se serve e impuntura i due lati."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Posiziona i manici",
      "items": [
       "Metti le strisce sul pannello seguendo i segni, dividendolo in terzi, e rinforza con rettangoli di cucitura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Forma il porta-teglie",
      "items": [
       "Piega le alette laterali seguendo il tutorial e rinforza i punti in cui si uniscono."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Chiusura",
      "items": [
       "Aggiungi bottone automatico o velcro opzionale. Usa un’imbottitura specifica per il calore e segui le istruzioni del produttore."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

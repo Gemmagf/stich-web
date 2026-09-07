@@ -45,6 +45,10 @@
      "t": "Talla les peces",
      "items": [
       "Imprimeix el patró de referència al 100% i talla exterior, folre i foam. Transfereix les marques del tancament."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -52,6 +56,10 @@
      "t": "Estabilitza",
      "items": [
       "Planxa el foam al revers de la tela exterior, seguint les instruccions del fabricant."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -59,6 +67,10 @@
      "t": "Prepara la solapa",
      "items": [
       "Encara exterior i folre de la zona superior, cus la corba i retalla una mica el marge perquè giri net."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -66,6 +78,10 @@
      "t": "Forma la funda",
      "items": [
       "Encara exterior amb exterior i folre amb folre. Cus el contorn deixant una obertura al folre."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -73,6 +89,10 @@
      "t": "Gira i planxa",
      "items": [
       "Gira pel forat, treu bé les puntes i planxa fent que la costura quedi exactament al cantell."
+     ],
+     "op": [
+      "turn",
+      "none"
      ]
     },
     {
@@ -80,6 +100,10 @@
      "t": "Acaba",
      "items": [
       "Tanca l’obertura, fes el repunt superior i col·loca el snap a les marques."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -114,6 +138,10 @@
      "t": "Corta las piezas",
      "items": [
       "Imprime el patrón de referencia al 100 % y corta exterior, forro y foam. Transfiere las marcas del cierre."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -121,6 +149,10 @@
      "t": "Estabiliza",
      "items": [
       "Plancha el foam en el revés de la tela exterior, siguiendo las instrucciones del fabricante."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -128,6 +160,10 @@
      "t": "Prepara la solapa",
      "items": [
       "Enfrenta exterior y forro de la zona superior, cose la curva y recorta un poco el margen para que gire limpio."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -135,6 +171,10 @@
      "t": "Forma la funda",
      "items": [
       "Enfrenta exterior con exterior y forro con forro. Cose el contorno dejando una abertura en el forro."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -142,6 +182,10 @@
      "t": "Gira y plancha",
      "items": [
       "Gira por el hueco, saca bien las puntas y plancha de modo que la costura quede justo en el canto."
+     ],
+     "op": [
+      "turn",
+      "none"
      ]
     },
     {
@@ -149,6 +193,10 @@
      "t": "Acaba",
      "items": [
       "Cierra la abertura, haz el pespunte superior y coloca el snap en las marcas."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -183,6 +231,10 @@
      "t": "Cut the pieces",
      "items": [
       "Print the reference pattern at 100% and cut outer, lining and foam. Transfer the closure marks."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -190,6 +242,10 @@
      "t": "Stabilise",
      "items": [
       "Fuse the foam to the wrong side of the outer fabric following the manufacturer's instructions."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -197,6 +253,10 @@
      "t": "Prepare the flap",
      "items": [
       "Face outer and lining of the top area, sew the curve and trim the allowance a little so it turns cleanly."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -204,6 +264,10 @@
      "t": "Form the case",
      "items": [
       "Face outer with outer and lining with lining. Sew around leaving a gap in the lining."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -211,6 +275,10 @@
      "t": "Turn and press",
      "items": [
       "Turn through the gap, push the corners out and press so the seam sits right on the edge."
+     ],
+     "op": [
+      "turn",
+      "none"
      ]
     },
     {
@@ -218,6 +286,10 @@
      "t": "Finish",
      "items": [
       "Close the gap, topstitch the top and fit the snap on the marks."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -252,6 +324,10 @@
      "t": "Teile zuschneiden",
      "items": [
       "Referenzschnitt bei 100 % drucken und Aussenstoff, Futter und Foam zuschneiden. Verschlussmarkierungen übertragen."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -259,6 +335,10 @@
      "t": "Verstärken",
      "items": [
       "Foam nach Herstellerangaben auf die linke Seite des Aussenstoffs bügeln."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -266,6 +346,10 @@
      "t": "Klappe vorbereiten",
      "items": [
       "Aussenstoff und Futter im oberen Bereich aufeinanderlegen, die Rundung nähen und die Zugabe etwas zurückschneiden."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -273,6 +357,10 @@
      "t": "Etui formen",
      "items": [
       "Aussen auf Aussen und Futter auf Futter legen. Rundum nähen, im Futter eine Wendeöffnung lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -280,6 +368,10 @@
      "t": "Wenden und bügeln",
      "items": [
       "Durch die Öffnung wenden, Ecken ausformen und so bügeln, dass die Naht genau an der Kante liegt."
+     ],
+     "op": [
+      "turn",
+      "none"
      ]
     },
     {
@@ -287,6 +379,10 @@
      "t": "Fertigstellen",
      "items": [
       "Öffnung schliessen, Oberkante absteppen und den Druckknopf an den Markierungen anbringen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -321,6 +417,10 @@
      "t": "Coupe les pièces",
      "items": [
       "Imprime le patron de référence à 100 % et coupe extérieur, doublure et mousse. Reporte les repères de la pression."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -328,6 +428,10 @@
      "t": "Stabilise",
      "items": [
       "Thermocolle la mousse sur l’envers du tissu extérieur selon les indications du fabricant."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -335,6 +439,10 @@
      "t": "Prépare le rabat",
      "items": [
       "Superpose extérieur et doublure de la partie haute, couds la courbe et recoupe un peu la marge pour un retournement net."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -342,6 +450,10 @@
      "t": "Forme l’étui",
      "items": [
       "Superpose extérieur contre extérieur et doublure contre doublure. Couds le tour en laissant une ouverture dans la doublure."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -349,6 +461,10 @@
      "t": "Retourne et repasse",
      "items": [
       "Retourne par l’ouverture, sors bien les pointes et repasse pour que la couture soit exactement au bord."
+     ],
+     "op": [
+      "turn",
+      "none"
      ]
     },
     {
@@ -356,6 +472,10 @@
      "t": "Termine",
      "items": [
       "Referme l’ouverture, surpique le haut et pose la pression sur les repères."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -390,6 +510,10 @@
      "t": "Taglia i pezzi",
      "items": [
       "Stampa il cartamodello di riferimento al 100% e taglia esterno, fodera e foam. Riporta i segni della chiusura."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -397,6 +521,10 @@
      "t": "Stabilizza",
      "items": [
       "Stira il foam sul rovescio del tessuto esterno seguendo le istruzioni del produttore."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -404,6 +532,10 @@
      "t": "Prepara la patta",
      "items": [
       "Affronta esterno e fodera della parte superiore, cuci la curva e rifila un po’ il margine perché si rivolti pulita."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -411,6 +543,10 @@
      "t": "Forma la custodia",
      "items": [
       "Affronta esterno con esterno e fodera con fodera. Cuci il contorno lasciando un’apertura nella fodera."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -418,6 +554,10 @@
      "t": "Rivolta e stira",
      "items": [
       "Rivolta dall’apertura, tira fuori bene le punte e stira in modo che la cucitura resti esattamente sul bordo."
+     ],
+     "op": [
+      "turn",
+      "none"
      ]
     },
     {
@@ -425,9 +565,14 @@
      "t": "Finisci",
      "items": [
       "Chiudi l’apertura, fai l’impuntura superiore e applica il bottone automatico sui segni."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

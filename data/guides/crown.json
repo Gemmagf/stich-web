@@ -45,6 +45,10 @@
      "t": "Talla la corona",
      "items": [
       "Talla 2 corones de tela i 1 d’escuma termoadhesiva segons el patró."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -52,6 +56,10 @@
      "t": "Dona estructura",
      "items": [
       "Planxa el foam al revers d’una de les peces de tela."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -59,6 +67,10 @@
      "t": "Cus les dues cares",
      "items": [
       "Encara les dues corones i cus pels pics i laterals. Deixa la base oberta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -66,6 +78,10 @@
      "t": "Retalla i gira",
      "items": [
       "Retalla els marges als pics i entra als angles sense tallar la costura. Gira i planxa."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -73,6 +89,10 @@
      "t": "Posa el biaix",
      "items": [
       "Centra el biaix a la base de la corona i cus primer una cara; envolta el marge i tanca amb repunt."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -80,6 +100,10 @@
      "t": "Acaba les cintes",
      "items": [
       "Continua el repunt fins als extrems del biaix, girant-los cap endins perquè quedin acabats."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -114,6 +138,10 @@
      "t": "Corta la corona",
      "items": [
       "Corta 2 coronas de tela y 1 de espuma termoadhesiva según el patrón."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -121,6 +149,10 @@
      "t": "Da estructura",
      "items": [
       "Plancha el foam en el revés de una de las piezas de tela."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -128,6 +160,10 @@
      "t": "Cose las dos caras",
      "items": [
       "Enfrenta las dos coronas y cose por los picos y laterales. Deja la base abierta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -135,6 +171,10 @@
      "t": "Recorta y gira",
      "items": [
       "Recorta los márgenes en los picos y entra en los ángulos sin cortar la costura. Gira y plancha."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -142,6 +182,10 @@
      "t": "Pon el bies",
      "items": [
       "Centra el bies en la base de la corona y cose primero una cara; envuelve el margen y cierra con pespunte."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -149,6 +193,10 @@
      "t": "Acaba las cintas",
      "items": [
       "Continúa el pespunte hasta los extremos del bies, girándolos hacia dentro para que queden acabados."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -183,6 +231,10 @@
      "t": "Cut the crown",
      "items": [
       "Cut 2 fabric crowns and 1 of fusible foam following the pattern."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -190,6 +242,10 @@
      "t": "Give it structure",
      "items": [
       "Fuse the foam to the wrong side of one of the fabric pieces."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -197,6 +253,10 @@
      "t": "Sew the two sides",
      "items": [
       "Face the two crowns and sew along the points and sides. Leave the base open."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -204,6 +264,10 @@
      "t": "Trim and turn",
      "items": [
       "Trim the allowances at the points and clip into the angles without cutting the seam. Turn and press."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -211,6 +275,10 @@
      "t": "Attach the binding",
      "items": [
       "Centre the binding on the base of the crown and sew one side first; wrap the edge and close with topstitching."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -218,6 +286,10 @@
      "t": "Finish the ties",
      "items": [
       "Continue the topstitching to the ends of the binding, folding them inwards so they are neatly finished."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -252,6 +324,10 @@
      "t": "Krone zuschneiden",
      "items": [
       "2 Kronen aus Stoff und 1 aus aufbügelbarem Foam nach Schnitt zuschneiden."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -259,6 +335,10 @@
      "t": "Struktur geben",
      "items": [
       "Den Foam auf die linke Seite eines Stoffteils bügeln."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -266,6 +346,10 @@
      "t": "Beide Seiten nähen",
      "items": [
       "Die beiden Kronen aufeinanderlegen und an Zacken und Seiten nähen. Die Unterkante bleibt offen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -273,6 +357,10 @@
      "t": "Zurückschneiden und wenden",
      "items": [
       "Zugaben an den Zacken kürzen und in die Winkel einschneiden, ohne die Naht zu verletzen. Wenden und bügeln."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -280,6 +368,10 @@
      "t": "Schrägband ansetzen",
      "items": [
       "Das Schrägband mittig an der Unterkante ansetzen und erst eine Seite nähen; die Kante einfassen und mit einer Steppnaht schliessen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -287,6 +379,10 @@
      "t": "Bänder fertigstellen",
      "items": [
       "Die Steppnaht bis zu den Enden des Schrägbands weiterführen und die Enden nach innen einschlagen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -321,6 +417,10 @@
      "t": "Coupe la couronne",
      "items": [
       "Coupe 2 couronnes en tissu et 1 en mousse thermocollante selon le patron."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -328,6 +428,10 @@
      "t": "Donne de la tenue",
      "items": [
       "Thermocolle la mousse sur l’envers d’une des pièces de tissu."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -335,6 +439,10 @@
      "t": "Couds les deux faces",
      "items": [
       "Superpose les deux couronnes et couds les pointes et les côtés. Laisse la base ouverte."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -342,6 +450,10 @@
      "t": "Recoupe et retourne",
      "items": [
       "Recoupe les marges aux pointes et crante les angles sans couper la couture. Retourne et repasse."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -349,6 +461,10 @@
      "t": "Pose le biais",
      "items": [
       "Centre le biais sur la base de la couronne et couds d’abord une face ; enveloppe le bord et ferme par une surpiqûre."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -356,6 +472,10 @@
      "t": "Termine les liens",
      "items": [
       "Prolonge la surpiqûre jusqu’aux extrémités du biais en les rentrant pour une finition propre."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -390,6 +510,10 @@
      "t": "Taglia la corona",
      "items": [
       "Taglia 2 corone di tessuto e 1 di foam termoadesivo secondo il cartamodello."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -397,6 +521,10 @@
      "t": "Dai struttura",
      "items": [
       "Stira il foam sul rovescio di uno dei pezzi di tessuto."
+     ],
+     "op": [
+      "press",
+      "none"
      ]
     },
     {
@@ -404,6 +532,10 @@
      "t": "Cuci le due facce",
      "items": [
       "Affronta le due corone e cuci lungo le punte e i lati. Lascia la base aperta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -411,6 +543,10 @@
      "t": "Rifila e rivolta",
      "items": [
       "Rifila i margini sulle punte e incidi gli angoli senza tagliare la cucitura. Rivolta e stira."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -418,6 +554,10 @@
      "t": "Applica lo sbieco",
      "items": [
       "Centra lo sbieco sulla base della corona e cuci prima un lato; avvolgi il bordo e chiudi con un’impuntura."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -425,9 +565,14 @@
      "t": "Rifinisci i lacci",
      "items": [
       "Prosegui l’impuntura fino alle estremità dello sbieco ripiegandole verso l’interno per una finitura pulita."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

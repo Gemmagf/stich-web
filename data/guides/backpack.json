@@ -49,6 +49,10 @@
      "t": "Talla i etiqueta",
      "items": [
       "Descarrega el patró gratuït, talla totes les peces i etiqueta-les abans de començar."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Butxaques",
      "items": [
       "Prepara primer les butxaques exteriors i interiors i qualsevol cremallera, perquè després quedaran atrapades en el muntatge."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Tirants",
      "items": [
       "Encoixina i cus els tirants; afegeix cintes i reguladors abans de fixar-los al panell del darrere."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Panell de cremallera",
      "items": [
       "Munta la cremallera principal al panell lateral superior i uneix-hi els panells laterals i inferiors."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Munta el cos",
      "items": [
       "Uneix el panell continu de laterals al frontal, treballant corbes i cantonades amb piquets. Repeteix amb el darrere."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Folre i acabats",
      "items": [
       "Munta el folre, insereix-lo o uneix-lo segons el patró i remata l’interior. Reforça totes les zones de càrrega."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta y etiqueta",
      "items": [
       "Descarga el patrón gratuito, corta todas las piezas y etiquétalas antes de empezar."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Bolsillos",
      "items": [
       "Prepara primero los bolsillos exteriores e interiores y cualquier cremallera, porque después quedarán atrapados en el montaje."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Tirantes",
      "items": [
       "Acolcha y cose los tirantes; añade cintas y reguladores antes de fijarlos al panel trasero."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Panel de cremallera",
      "items": [
       "Monta la cremallera principal en el panel lateral superior y une los paneles laterales e inferiores."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Monta el cuerpo",
      "items": [
       "Une el panel continuo de laterales al frontal, trabajando curvas y esquinas con piquetes. Repite con la trasera."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Forro y acabados",
      "items": [
       "Monta el forro, insértalo o únelo según el patrón y remata el interior. Refuerza todas las zonas de carga."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut and label",
      "items": [
       "Download the free pattern, cut all the pieces and label them before you start."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Pockets",
      "items": [
       "Prepare the outer and inner pockets and any zips first, as they get caught in the assembly later."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Straps",
      "items": [
       "Pad and sew the straps; add webbing and sliders before fixing them to the back panel."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Zip panel",
      "items": [
       "Fit the main zip to the upper side panel and join the side and bottom panels to it."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Assemble the body",
      "items": [
       "Join the continuous side panel to the front, working curves and corners with notches. Repeat with the back."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Lining and finishing",
      "items": [
       "Assemble the lining, insert or join it as the pattern says and finish the inside. Reinforce every load-bearing point."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Zuschneiden und beschriften",
      "items": [
       "Gratis-Schnitt laden, alle Teile zuschneiden und vor dem Start beschriften."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Taschen",
      "items": [
       "Zuerst Aussen- und Innentaschen sowie alle Reissverschlüsse vorbereiten, sie werden später in die Montage eingefasst."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Träger",
      "items": [
       "Träger polstern und nähen; Gurtband und Schieber anbringen, bevor sie am Rückenteil fixiert werden."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Reissverschlussteil",
      "items": [
       "Den Hauptreissverschluss in das obere Seitenteil setzen und Seiten- und Bodenteile daran nähen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Körper zusammensetzen",
      "items": [
       "Das durchgehende Seitenteil an das Vorderteil nähen, Rundungen und Ecken mit Knipsen. Mit dem Rückteil wiederholen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Futter und Abschluss",
      "items": [
       "Futter zusammensetzen, nach Schnitt einsetzen oder verbinden und innen versäubern. Alle belasteten Stellen verstärken."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe et étiquette",
      "items": [
       "Télécharge le patron gratuit, coupe toutes les pièces et étiquette-les avant de commencer."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Poches",
      "items": [
       "Prépare d’abord les poches extérieures et intérieures et toute fermeture, car elles seront prises dans le montage ensuite."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Bretelles",
      "items": [
       "Rembourre et couds les bretelles ; ajoute sangles et passants avant de les fixer au panneau du dos."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Panneau de fermeture",
      "items": [
       "Monte la fermeture principale sur le panneau latéral supérieur et assemble-y les panneaux latéraux et inférieurs."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Monte le corps",
      "items": [
       "Assemble le panneau latéral continu au devant, en travaillant courbes et coins avec des crans. Répète avec le dos."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Doublure et finitions",
      "items": [
       "Monte la doublure, insère-la ou assemble-la selon le patron et finis l’intérieur. Renforce toutes les zones de charge."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia ed etichetta",
      "items": [
       "Scarica il cartamodello gratuito, taglia tutti i pezzi ed etichettali prima di iniziare."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Tasche",
      "items": [
       "Prepara prima le tasche esterne e interne e ogni cerniera, perché poi resteranno intrappolate nel montaggio."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Spallacci",
      "items": [
       "Imbottisci e cuci gli spallacci; aggiungi fettucce e regolatori prima di fissarli al pannello posteriore."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Pannello della cerniera",
      "items": [
       "Monta la cerniera principale sul pannello laterale superiore e unisci i pannelli laterali e inferiori."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Monta il corpo",
      "items": [
       "Unisci il pannello laterale continuo al davanti, lavorando curve e angoli con le tacche. Ripeti con il dietro."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Fodera e finiture",
      "items": [
       "Monta la fodera, inseriscila o uniscila secondo il cartamodello e rifinisci l’interno. Rinforza tutte le zone di carico."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

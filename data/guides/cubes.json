@@ -49,6 +49,10 @@
      "t": "Talla",
      "items": [
       "Descarrega el patró gratuït i talla els panells. Per al joc STICH, fes un cub a mida original i un segon escalat més petit."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Cremallera",
      "items": [
       "Munta la cremallera de doble cursor al panell de tapa, mantenint els dos cursors orientats correctament."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Nansa",
      "items": [
       "Fixa la cinta de nansa al panell corresponent reforçant els extrems amb diverses passades."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Forma el cos",
      "items": [
       "Uneix tapa, laterals i base seguint el patró, treballant sempre amb els marges cap a l’interior."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Ribeta",
      "items": [
       "Cobreix els marges interiors amb grosgrain perquè l’acabat sigui net i resistent."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Segon cub",
      "items": [
       "Repeteix la mateixa seqüència amb la mida petita, comprovant que tots dos cubs obrin i tanquin sense tensió."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta",
      "items": [
       "Descarga el patrón gratuito y corta los paneles. Para el juego STICH, haz un cubo a tamaño original y otro escalado más pequeño."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Cremallera",
      "items": [
       "Monta la cremallera de doble cursor en el panel de tapa, manteniendo los dos cursores bien orientados."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Asa",
      "items": [
       "Fija la cinta del asa al panel correspondiente reforzando los extremos con varias pasadas."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Forma el cuerpo",
      "items": [
       "Une tapa, laterales y base siguiendo el patrón, trabajando siempre con los márgenes hacia dentro."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Ribetea",
      "items": [
       "Cubre los márgenes interiores con grosgrain para un acabado limpio y resistente."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Segundo cubo",
      "items": [
       "Repite la misma secuencia con el tamaño pequeño, comprobando que ambos cubos abran y cierren sin tensión."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut",
      "items": [
       "Download the free pattern and cut the panels. For the STICH set, make one cube at original size and a second scaled down."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Zip",
      "items": [
       "Fit the double-slider zip to the lid panel, keeping both sliders facing the right way."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Handle",
      "items": [
       "Fix the handle webbing to its panel, reinforcing the ends with several passes."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Form the body",
      "items": [
       "Join lid, sides and base following the pattern, always with allowances to the inside."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Bind",
      "items": [
       "Cover the inner allowances with grosgrain for a clean, sturdy finish."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Second cube",
      "items": [
       "Repeat the sequence with the small size, checking that both cubes open and close without strain."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Zuschneiden",
      "items": [
       "Gratis-Schnitt laden und die Teile zuschneiden. Für das STICH-Set einen Würfel in Originalgrösse und einen kleiner skalierten nähen."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Reissverschluss",
      "items": [
       "Den Reissverschluss mit zwei Schiebern in das Deckelteil einsetzen, beide Schieber richtig herum."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Griff",
      "items": [
       "Das Gurtband am passenden Teil fixieren und die Enden mehrfach übernähen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Körper formen",
      "items": [
       "Deckel, Seiten und Boden nach Schnitt verbinden, die Zugaben immer nach innen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Einfassen",
      "items": [
       "Die inneren Zugaben mit Ripsband einfassen, für einen sauberen, stabilen Abschluss."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Zweiter Würfel",
      "items": [
       "Dieselbe Abfolge in der kleinen Grösse wiederholen und prüfen, dass sich beide Würfel ohne Spannung öffnen und schliessen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe",
      "items": [
       "Télécharge le patron gratuit et coupe les panneaux. Pour le lot STICH, fais un cube à la taille d’origine et un second réduit."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Fermeture",
      "items": [
       "Monte la fermeture à double curseur sur le panneau du couvercle, curseurs bien orientés."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Poignée",
      "items": [
       "Fixe la sangle de poignée sur son panneau en renforçant les extrémités par plusieurs passages."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Forme le corps",
      "items": [
       "Assemble couvercle, côtés et fond selon le patron, marges toujours vers l’intérieur."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Ganse",
      "items": [
       "Recouvre les marges intérieures de gros-grain pour une finition nette et solide."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Second cube",
      "items": [
       "Répète la séquence en petite taille et vérifie que les deux cubes s’ouvrent et se ferment sans tension."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia",
      "items": [
       "Scarica il cartamodello gratuito e taglia i pannelli. Per il set STICH, fai un cubo a misura originale e un secondo ridotto."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Cerniera",
      "items": [
       "Monta la cerniera a doppio cursore sul pannello del coperchio, con entrambi i cursori orientati bene."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Maniglia",
      "items": [
       "Fissa la fettuccia della maniglia sul pannello giusto rinforzando le estremità con più passaggi."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Forma il corpo",
      "items": [
       "Unisci coperchio, lati e base seguendo il cartamodello, sempre con i margini verso l’interno."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Rifinisci",
      "items": [
       "Copri i margini interni con il grosgrain per una finitura pulita e resistente."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Secondo cubo",
      "items": [
       "Ripeti la sequenza con la misura piccola e controlla che entrambi i cubi si aprano e chiudano senza tensione."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

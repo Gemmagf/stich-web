@@ -49,6 +49,10 @@
      "t": "Talla",
      "items": [
       "Descarrega el patró gratuït i talla exterior, folre i peces petites, transferint totes les marques."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Cremallera frontal",
      "items": [
       "Munta la cremallera entre les peces frontals, repunta i comprova que llisqui sense enganxar-se."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Volum",
      "items": [
       "Cus les pinces o costures de forma que creen la corba de la bossa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Cinta i sivella",
      "items": [
       "Prepara els dos costats de la cinta, passant sivella i regulador abans de tancar la bossa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Folre",
      "items": [
       "Munta el folre i uneix-lo a la peça exterior mantenint els marges amagats."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Tanca i remata",
      "items": [
       "Cus el perímetre final, remata amb biaix si el mètode ho requereix i comprova que la cinta quedi ben reforçada."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta",
      "items": [
       "Descarga el patrón gratuito y corta exterior, forro y piezas pequeñas, transfiriendo todas las marcas."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Cremallera frontal",
      "items": [
       "Monta la cremallera entre las piezas frontales, pespuntea y comprueba que deslice sin engancharse."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Volumen",
      "items": [
       "Cose las pinzas o costuras de forma que crean la curva de la bolsa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Cinta y hebilla",
      "items": [
       "Prepara los dos lados de la cinta, pasando hebilla y regulador antes de cerrar la bolsa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Forro",
      "items": [
       "Monta el forro y únelo a la pieza exterior manteniendo los márgenes escondidos."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Cierra y remata",
      "items": [
       "Cose el perímetro final, remata con bies si el método lo requiere y comprueba que la cinta quede bien reforzada."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut",
      "items": [
       "Download the free pattern and cut outer, lining and small pieces, transferring all the marks."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Front zip",
      "items": [
       "Fit the zip between the front pieces, topstitch and check it slides without catching."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Volume",
      "items": [
       "Sew the darts or shaping seams that create the curve of the bag."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Strap and buckle",
      "items": [
       "Prepare both sides of the strap, threading buckle and slider before closing the bag."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Lining",
      "items": [
       "Assemble the lining and join it to the outer keeping the allowances hidden."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Close and finish",
      "items": [
       "Sew the final perimeter, bind if the method needs it and check the strap is well reinforced."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Zuschneiden",
      "items": [
       "Gratis-Schnitt laden und Aussenstoff, Futter und Kleinteile zuschneiden, alle Markierungen übertragen."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Vorderer Reissverschluss",
      "items": [
       "Den Reissverschluss zwischen die Vorderteile setzen, absteppen und prüfen, dass er ohne Haken läuft."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Volumen",
      "items": [
       "Die Abnäher oder Formnähte nähen, die die Rundung der Tasche ergeben."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Gurt und Schnalle",
      "items": [
       "Beide Gurtseiten vorbereiten, Schnalle und Schieber einfädeln, bevor die Tasche geschlossen wird."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Futter",
      "items": [
       "Futter zusammensetzen und mit dem Aussenteil verbinden, die Zugaben bleiben verdeckt."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Schliessen und versäubern",
      "items": [
       "Die letzte Rundumnaht nähen, bei Bedarf einfassen und prüfen, dass der Gurt gut verstärkt ist."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe",
      "items": [
       "Télécharge le patron gratuit et coupe extérieur, doublure et petites pièces, en reportant tous les repères."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Fermeture avant",
      "items": [
       "Monte la fermeture entre les pièces avant, surpique et vérifie qu’elle glisse sans accrocher."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Volume",
      "items": [
       "Couds les pinces ou coutures de forme qui créent la courbe du sac."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Sangle et boucle",
      "items": [
       "Prépare les deux côtés de la sangle en passant boucle et passant avant de fermer le sac."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Doublure",
      "items": [
       "Monte la doublure et assemble-la à l’extérieur en gardant les marges cachées."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Ferme et finis",
      "items": [
       "Couds le pourtour final, pose un biais si la méthode le demande et vérifie que la sangle est bien renforcée."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia",
      "items": [
       "Scarica il cartamodello gratuito e taglia esterno, fodera e pezzi piccoli riportando tutti i segni."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Cerniera frontale",
      "items": [
       "Monta la cerniera tra i pezzi frontali, impuntura e controlla che scorra senza incepparsi."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Volume",
      "items": [
       "Cuci le pince o le cuciture sagomate che creano la curva della borsa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Cinghia e fibbia",
      "items": [
       "Prepara i due lati della cinghia infilando fibbia e regolatore prima di chiudere la borsa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Fodera",
      "items": [
       "Monta la fodera e uniscila all’esterno mantenendo i margini nascosti."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Chiudi e rifinisci",
      "items": [
       "Cuci il perimetro finale, rifinisci con lo sbieco se il metodo lo richiede e controlla che la cinghia sia ben rinforzata."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

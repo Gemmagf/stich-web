@@ -49,6 +49,10 @@
      "t": "Talla i marca",
      "items": [
       "Talla cos exterior i interior i les peces de butxaques segons les plantilles. Planxa l’entretela al cos."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Butxaca amb cremallera",
      "items": [
       "Prepara la butxaca amb la cremallera de 15 cm i repunta prop de les dents."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Munta les butxaques",
      "items": [
       "Planxa els marges i col·loca les butxaques grans i petites sobre la peça interior, seguint les marques."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Afegeix el llaç",
      "items": [
       "Forma un llaç amb el cordó elàstic i fixa’l al centre del costat corbat, cap a dins."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Tanca la funda",
      "items": [
       "Posa exterior sobre interior, cara bonica amb cara bonica. Cus el perímetre deixant una obertura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Gira i acaba",
      "items": [
       "Gira, planxa, repunta el contorn, marca el plec central i cus el botó on arribi el llaç sense tensió."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta y marca",
      "items": [
       "Corta cuerpo exterior e interior y las piezas de bolsillos según las plantillas. Plancha la entretela en el cuerpo."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Bolsillo con cremallera",
      "items": [
       "Prepara el bolsillo con la cremallera de 15 cm y pespuntea cerca de los dientes."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Monta los bolsillos",
      "items": [
       "Plancha los márgenes y coloca los bolsillos grandes y pequeños sobre la pieza interior, siguiendo las marcas."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Añade el lazo",
      "items": [
       "Forma un lazo con el cordón elástico y fíjalo en el centro del lado curvo, hacia dentro."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Cierra la funda",
      "items": [
       "Pon exterior sobre interior, derecho con derecho. Cose el perímetro dejando una abertura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Gira y acaba",
      "items": [
       "Gira, plancha, pespuntea el contorno, marca el pliegue central y cose el botón donde llegue el lazo sin tensión."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut and mark",
      "items": [
       "Cut outer and inner body and the pocket pieces from the templates. Fuse the interfacing to the body."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Zip pocket",
      "items": [
       "Make the pocket with the 15 cm zip and topstitch close to the teeth."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Fit the pockets",
      "items": [
       "Press the allowances and place the large and small pockets on the inner piece following the marks."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Add the loop",
      "items": [
       "Make a loop with the elastic cord and fix it at the centre of the curved side, pointing inwards."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Close the wallet",
      "items": [
       "Place outer on inner, right sides together. Sew around leaving a gap."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Turn and finish",
      "items": [
       "Turn, press, topstitch around, mark the centre fold and sew the button where the loop reaches without pulling."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Zuschneiden und markieren",
      "items": [
       "Aussen- und Innenkörper sowie die Taschenteile nach Vorlage zuschneiden. Einlage auf den Körper bügeln."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Reissverschlusstasche",
      "items": [
       "Die Tasche mit dem 15-cm-Reissverschluss nähen und knapp neben den Zähnen absteppen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Taschen anbringen",
      "items": [
       "Zugaben bügeln und die grossen und kleinen Taschen nach den Markierungen auf das Innenteil setzen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Schlaufe anbringen",
      "items": [
       "Aus der Gummikordel eine Schlaufe formen und mittig an der runden Seite nach innen zeigend fixieren."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Hülle schliessen",
      "items": [
       "Aussenteil rechts auf rechts auf das Innenteil legen. Rundum nähen und eine Wendeöffnung lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Wenden und fertigstellen",
      "items": [
       "Wenden, bügeln, rundum absteppen, die Mittelfalte markieren und den Knopf dort annähen, wo die Schlaufe ohne Spannung hinreicht."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe et marque",
      "items": [
       "Coupe le corps extérieur et intérieur et les pièces de poches selon les gabarits. Thermocolle l’entoilage sur le corps."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Poche zippée",
      "items": [
       "Prépare la poche avec la fermeture de 15 cm et surpique près des dents."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Monte les poches",
      "items": [
       "Repasse les marges et place les grandes et petites poches sur la pièce intérieure selon les repères."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Ajoute la boucle",
      "items": [
       "Forme une boucle avec le cordon élastique et fixe-la au centre du côté courbe, vers l’intérieur."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Ferme l’étui",
      "items": [
       "Pose l’extérieur sur l’intérieur, endroit contre endroit. Couds le pourtour en laissant une ouverture."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Retourne et termine",
      "items": [
       "Retourne, repasse, surpique le tour, marque le pli central et couds le bouton là où la boucle arrive sans tension."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia e segna",
      "items": [
       "Taglia corpo esterno e interno e i pezzi delle tasche secondo le sagome. Stira l’interfodera sul corpo."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Tasca con cerniera",
      "items": [
       "Prepara la tasca con la cerniera da 15 cm e fai un’impuntura vicino ai denti."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Monta le tasche",
      "items": [
       "Stira i margini e posiziona le tasche grandi e piccole sul pezzo interno seguendo i segni."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Aggiungi l’asola",
      "items": [
       "Forma un’asola con il cordoncino elastico e fissala al centro del lato curvo, verso l’interno."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Chiudi il portadocumenti",
      "items": [
       "Metti l’esterno sull’interno, dritto contro dritto. Cuci il perimetro lasciando un’apertura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Rivolta e finisci",
      "items": [
       "Rivolta, stira, impuntura il contorno, segna la piega centrale e cuci il bottone dove arriva l’asola senza tensione."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

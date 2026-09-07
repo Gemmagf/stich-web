@@ -49,6 +49,10 @@
      "t": "Talla les capes",
      "items": [
       "Per cada guant, talla dues peces de cada material seguint el patró."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Acolxa",
      "items": [
       "Munta el sandvitx exterior + guata + capa tèrmica + folre i acolxa perquè les capes no es moguin."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Marca el guant",
      "items": [
       "Col·loca el patró sobre els panells acolxats i marca el contorn final."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Cus el contorn",
      "items": [
       "Encara les dues meitats, cus tot el contorn deixant oberta la part del canell."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Retalla corbes",
      "items": [
       "Retalla el marge especialment a la zona entre polze i mà perquè giri sense tensió."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Acaba l’obertura",
      "items": [
       "Gira el guant i remata l’obertura amb biaix. Per a ús real, utilitza sempre materials aptes per a calor."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta las capas",
      "items": [
       "Para cada guante, corta dos piezas de cada material siguiendo el patrón."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Acolcha",
      "items": [
       "Monta el sándwich exterior + guata + capa térmica + forro y acolcha para que las capas no se muevan."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Marca el guante",
      "items": [
       "Coloca el patrón sobre los paneles acolchados y marca el contorno final."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Cose el contorno",
      "items": [
       "Enfrenta las dos mitades y cose todo el contorno dejando abierta la parte de la muñeca."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Recorta curvas",
      "items": [
       "Recorta el margen sobre todo en la zona entre pulgar y mano para que gire sin tensión."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Acaba la abertura",
      "items": [
       "Gira el guante y remata la abertura con bies. Para uso real, usa siempre materiales aptos para calor."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut the layers",
      "items": [
       "For each mitt, cut two pieces of each material following the pattern."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Quilt",
      "items": [
       "Build the sandwich outer + batting + thermal layer + lining and quilt it so the layers stay put."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Mark the mitt",
      "items": [
       "Place the pattern on the quilted panels and mark the final outline."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Sew the outline",
      "items": [
       "Face the two halves and sew all around, leaving the wrist open."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Clip the curves",
      "items": [
       "Trim the allowance especially between thumb and hand so it turns without pulling."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Finish the opening",
      "items": [
       "Turn the mitt and bind the opening. For real use, always use heat-safe materials."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Lagen zuschneiden",
      "items": [
       "Pro Handschuh zwei Teile aus jedem Material nach Schnitt zuschneiden."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Steppen",
      "items": [
       "Sandwich aus Aussenstoff + Vlies + Thermolage + Futter bauen und steppen, damit die Lagen nicht verrutschen."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Handschuh anzeichnen",
      "items": [
       "Den Schnitt auf die gesteppten Teile legen und die endgültige Kontur anzeichnen."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Kontur nähen",
      "items": [
       "Die beiden Hälften aufeinanderlegen und rundum nähen, am Handgelenk offen lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Rundungen einschneiden",
      "items": [
       "Die Zugabe besonders zwischen Daumen und Hand zurückschneiden, damit sich alles spannungsfrei wenden lässt."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Öffnung fertigstellen",
      "items": [
       "Handschuh wenden und die Öffnung mit Schrägband einfassen. Für den echten Gebrauch immer hitzegeeignete Materialien verwenden."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe les épaisseurs",
      "items": [
       "Pour chaque manique, coupe deux pièces de chaque matière selon le patron."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Matelasse",
      "items": [
       "Monte le sandwich extérieur + molleton + couche thermique + doublure et matelasse pour que les couches ne bougent pas."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Trace la manique",
      "items": [
       "Pose le patron sur les panneaux matelassés et trace le contour final."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Couds le contour",
      "items": [
       "Superpose les deux moitiés et couds tout le tour en laissant le poignet ouvert."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Crante les courbes",
      "items": [
       "Recoupe la marge surtout entre le pouce et la main pour retourner sans tension."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Termine l’ouverture",
      "items": [
       "Retourne la manique et finis l’ouverture au biais. Pour un usage réel, utilise toujours des matières résistantes à la chaleur."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia gli strati",
      "items": [
       "Per ogni guanto, taglia due pezzi di ogni materiale seguendo il cartamodello."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Trapunta",
      "items": [
       "Monta il sandwich esterno + imbottitura + strato termico + fodera e trapunta perché gli strati non si muovano."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Segna il guanto",
      "items": [
       "Posiziona il cartamodello sui pannelli trapuntati e segna il contorno finale."
+     ],
+     "op": [
+      "lines",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Cuci il contorno",
      "items": [
       "Affronta le due metà e cuci tutto il contorno lasciando aperto il polso."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Rifila le curve",
      "items": [
       "Rifila il margine soprattutto tra pollice e mano perché si rivolti senza tensione."
+     ],
+     "op": [
+      "line",
+      "margin"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Rifinisci l’apertura",
      "items": [
       "Rivolta il guanto e rifinisci l’apertura con lo sbieco. Per l’uso reale, usa sempre materiali adatti al calore."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

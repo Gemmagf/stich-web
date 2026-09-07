@@ -49,6 +49,10 @@
      "t": "Talla",
      "items": [
       "Imprimeix el patró al 100%, munta les pàgines i talla davantal, pitrall, tires i butxaques."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Butxaques",
      "items": [
       "Planxa els marges, acaba la part superior i posiciona les butxaques de manera simètrica."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Tires",
      "items": [
       "Plega les tires llargues com un biaix, cus-les i planxa-les ben planes."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Munta el cos",
      "items": [
       "Uneix pitrall i faldilla o segueix la forma d’una sola peça, segons la variant escollida."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Acaba els marges",
      "items": [
       "Fes doble plec o biaix als laterals i escot, mantenint les corbes netes."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Baix i repunt",
      "items": [
       "Fes el baix, reforça els punts de les tires i dona una planxada final."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta",
      "items": [
       "Imprime el patrón al 100 %, monta las páginas y corta delantal, peto, tiras y bolsillos."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Bolsillos",
      "items": [
       "Plancha los márgenes, acaba la parte superior y posiciona los bolsillos de forma simétrica."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Tiras",
      "items": [
       "Pliega las tiras largas como un bies, cóselas y plánchalas bien planas."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Monta el cuerpo",
      "items": [
       "Une peto y falda o sigue la forma de una sola pieza, según la variante elegida."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Acaba los márgenes",
      "items": [
       "Haz doble pliegue o bies en laterales y escote, manteniendo las curvas limpias."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Bajo y pespunte",
      "items": [
       "Haz el bajo, refuerza los puntos de las tiras y da un planchado final."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut",
      "items": [
       "Print the pattern at 100%, assemble the pages and cut apron, bib, straps and pockets."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Pockets",
      "items": [
       "Press the allowances, finish the top edge and place the pockets symmetrically."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Straps",
      "items": [
       "Fold the long straps like binding, sew them and press them flat."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Assemble the body",
      "items": [
       "Join bib and skirt or follow the one-piece shape, depending on the version."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Finish the edges",
      "items": [
       "Double-fold or bind the sides and neckline, keeping the curves clean."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Hem and topstitch",
      "items": [
       "Hem, reinforce the strap points and give it a final press."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Zuschneiden",
      "items": [
       "Schnitt bei 100 % drucken, Seiten zusammenkleben und Schürze, Latz, Bänder und Taschen zuschneiden."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Taschen",
      "items": [
       "Zugaben bügeln, Oberkante versäubern und die Taschen symmetrisch platzieren."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Bänder",
      "items": [
       "Die langen Bänder wie ein Einfassband falten, nähen und flach bügeln."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Körper zusammensetzen",
      "items": [
       "Latz und Rock verbinden oder der einteiligen Form folgen, je nach Variante."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Kanten versäubern",
      "items": [
       "Seiten und Ausschnitt doppelt einschlagen oder einfassen, Rundungen sauber halten."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Saum und Absteppen",
      "items": [
       "Saum nähen, Bandansätze verstärken und zum Schluss bügeln."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe",
      "items": [
       "Imprime le patron à 100 %, assemble les pages et coupe tablier, bavette, liens et poches."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Poches",
      "items": [
       "Repasse les marges, finis le haut et place les poches symétriquement."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Liens",
      "items": [
       "Plie les longs liens comme un biais, couds-les et repasse-les bien à plat."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Monte le corps",
      "items": [
       "Assemble bavette et jupe ou suis la forme en une pièce, selon la variante."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Finis les bords",
      "items": [
       "Double repli ou biais sur les côtés et l’encolure, en gardant les courbes nettes."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Ourlet et surpiqûre",
      "items": [
       "Fais l’ourlet, renforce les points d’attache des liens et repasse une dernière fois."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia",
      "items": [
       "Stampa il cartamodello al 100%, assembla le pagine e taglia grembiule, pettorina, lacci e tasche."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Tasche",
      "items": [
       "Stira i margini, rifinisci il bordo superiore e posiziona le tasche in modo simmetrico."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Lacci",
      "items": [
       "Piega i lacci lunghi come uno sbieco, cucili e stirali ben piatti."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Monta il corpo",
      "items": [
       "Unisci pettorina e gonna o segui la forma in un solo pezzo, secondo la variante."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Rifinisci i bordi",
      "items": [
       "Doppia piega o sbieco su lati e scollo, mantenendo le curve pulite."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Orlo e impuntura",
      "items": [
       "Fai l’orlo, rinforza i punti dei lacci e stira per finire."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

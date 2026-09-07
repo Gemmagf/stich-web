@@ -49,6 +49,10 @@
      "t": "Talla el patró",
      "items": [
       "Talla cos, panxa, ales, cresta, barballera i bec. Marca tots els piquets."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -56,6 +60,10 @@
      "t": "Prepara les peces petites",
      "items": [
       "Cus ales, cresta, barballera i bec cara bonica amb cara bonica; gira les peces que calgui."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -63,6 +71,10 @@
      "t": "Col·loca els detalls",
      "items": [
       "Fixa ales, bec, cresta i barballera sobre el cos, tots orientats cap a l’interior de la futura costura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -70,6 +82,10 @@
      "t": "Afegeix la panxa",
      "items": [
       "Uneix la peça de panxa al cos fent coincidir marques i corbes, sense estirar la tela."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -77,6 +93,10 @@
      "t": "Tanca el cos",
      "items": [
       "Cus la resta del cos deixant una obertura suficient per girar i farcir."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -84,6 +104,10 @@
      "t": "Gira i farceix",
      "items": [
       "Gira amb cura, farceix de manera uniforme i tanca l’obertura amb punt invisible. Afegeix els ulls."
+     ],
+     "op": [
+      "hand",
+      "none"
      ]
     }
    ]
@@ -122,6 +146,10 @@
      "t": "Corta el patrón",
      "items": [
       "Corta cuerpo, barriga, alas, cresta, barba y pico. Marca todos los piquetes."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -129,6 +157,10 @@
      "t": "Prepara las piezas pequeñas",
      "items": [
       "Cose alas, cresta, barba y pico derecho con derecho; gira las piezas que haga falta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -136,6 +168,10 @@
      "t": "Coloca los detalles",
      "items": [
       "Fija alas, pico, cresta y barba sobre el cuerpo, todos orientados hacia el interior de la futura costura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -143,6 +179,10 @@
      "t": "Añade la barriga",
      "items": [
       "Une la pieza de barriga al cuerpo haciendo coincidir marcas y curvas, sin estirar la tela."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -150,6 +190,10 @@
      "t": "Cierra el cuerpo",
      "items": [
       "Cose el resto del cuerpo dejando una abertura suficiente para girar y rellenar."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -157,6 +201,10 @@
      "t": "Gira y rellena",
      "items": [
       "Gira con cuidado, rellena de forma uniforme y cierra la abertura con punto invisible. Añade los ojos."
+     ],
+     "op": [
+      "hand",
+      "none"
      ]
     }
    ]
@@ -195,6 +243,10 @@
      "t": "Cut the pattern",
      "items": [
       "Cut body, belly, wings, comb, wattle and beak. Mark all the notches."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -202,6 +254,10 @@
      "t": "Prepare the small pieces",
      "items": [
       "Sew wings, comb, wattle and beak right sides together; turn the pieces that need it."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -209,6 +265,10 @@
      "t": "Place the details",
      "items": [
       "Fix wings, beak, comb and wattle on the body, all pointing inwards from the future seam."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -216,6 +276,10 @@
      "t": "Add the belly",
      "items": [
       "Join the belly piece to the body matching marks and curves, without stretching the fabric."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -223,6 +287,10 @@
      "t": "Close the body",
      "items": [
       "Sew the rest of the body leaving a gap big enough to turn and stuff."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -230,6 +298,10 @@
      "t": "Turn and stuff",
      "items": [
       "Turn carefully, stuff evenly and close the gap with an invisible stitch. Add the eyes."
+     ],
+     "op": [
+      "hand",
+      "none"
      ]
     }
    ]
@@ -268,6 +340,10 @@
      "t": "Schnitt zuschneiden",
      "items": [
       "Körper, Bauch, Flügel, Kamm, Kehllappen und Schnabel zuschneiden. Alle Knipse markieren."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -275,6 +351,10 @@
      "t": "Kleinteile vorbereiten",
      "items": [
       "Flügel, Kamm, Kehllappen und Schnabel rechts auf rechts nähen; wenden, wo nötig."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -282,6 +362,10 @@
      "t": "Details platzieren",
      "items": [
       "Flügel, Schnabel, Kamm und Kehllappen auf dem Körper fixieren, alle nach innen von der späteren Naht weg zeigend."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -289,6 +373,10 @@
      "t": "Bauch ansetzen",
      "items": [
       "Das Bauchteil an den Körper nähen, Markierungen und Rundungen aufeinander, ohne den Stoff zu dehnen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -296,6 +384,10 @@
      "t": "Körper schliessen",
      "items": [
       "Den Rest des Körpers nähen und eine Öffnung zum Wenden und Füllen lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -303,6 +395,10 @@
      "t": "Wenden und füllen",
      "items": [
       "Vorsichtig wenden, gleichmässig füllen und die Öffnung mit Matratzenstich schliessen. Augen anbringen."
+     ],
+     "op": [
+      "hand",
+      "none"
      ]
     }
    ]
@@ -341,6 +437,10 @@
      "t": "Coupe le patron",
      "items": [
       "Coupe corps, ventre, ailes, crête, barbillon et bec. Marque tous les crans."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -348,6 +448,10 @@
      "t": "Prépare les petites pièces",
      "items": [
       "Couds ailes, crête, barbillon et bec endroit contre endroit ; retourne les pièces qui le demandent."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -355,6 +459,10 @@
      "t": "Place les détails",
      "items": [
       "Fixe ailes, bec, crête et barbillon sur le corps, tous orientés vers l’intérieur de la future couture."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -362,6 +470,10 @@
      "t": "Ajoute le ventre",
      "items": [
       "Assemble le ventre au corps en faisant coïncider repères et courbes, sans étirer le tissu."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -369,6 +481,10 @@
      "t": "Ferme le corps",
      "items": [
       "Couds le reste du corps en laissant une ouverture suffisante pour retourner et rembourrer."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -376,6 +492,10 @@
      "t": "Retourne et rembourre",
      "items": [
       "Retourne avec soin, rembourre uniformément et ferme l’ouverture au point invisible. Ajoute les yeux."
+     ],
+     "op": [
+      "hand",
+      "none"
      ]
     }
    ]
@@ -414,6 +534,10 @@
      "t": "Taglia il cartamodello",
      "items": [
       "Taglia corpo, pancia, ali, cresta, bargigli e becco. Segna tutte le tacche."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -421,6 +545,10 @@
      "t": "Prepara i pezzi piccoli",
      "items": [
       "Cuci ali, cresta, bargigli e becco dritto contro dritto; rivolta i pezzi che lo richiedono."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -428,6 +556,10 @@
      "t": "Posiziona i dettagli",
      "items": [
       "Fissa ali, becco, cresta e bargigli sul corpo, tutti rivolti verso l’interno della futura cucitura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -435,6 +567,10 @@
      "t": "Aggiungi la pancia",
      "items": [
       "Unisci il pezzo della pancia al corpo facendo combaciare segni e curve, senza tirare il tessuto."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -442,6 +578,10 @@
      "t": "Chiudi il corpo",
      "items": [
       "Cuci il resto del corpo lasciando un’apertura sufficiente per rivoltare e imbottire."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -449,9 +589,14 @@
      "t": "Rivolta e imbottisci",
      "items": [
       "Rivolta con cura, imbottisci in modo uniforme e chiudi l’apertura con punto invisibile. Aggiungi gli occhi."
+     ],
+     "op": [
+      "hand",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

@@ -45,6 +45,10 @@
      "t": "Talla les peces",
      "items": [
       "Talla el cos i laterals segons el tutorial. Per a una bossa de roba interior STICH, mantén-la plana i lleugera."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -52,6 +56,10 @@
      "t": "Forma el cos",
      "items": [
       "Uneix les peces frontals i posteriors o la peça llarga del cos segons la variant escollida."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -59,6 +67,10 @@
      "t": "Cus laterals",
      "items": [
       "Afegeix els laterals, fent coincidir les cantonades i rematant marges amb zig-zag."
+     ],
+     "op": [
+      "zigzag",
+      "none"
      ]
     },
     {
@@ -66,6 +78,10 @@
      "t": "Fes el canal",
      "items": [
       "Doblega la part superior dues vegades i cus deixant lliures les obertures laterals del canal."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -73,6 +89,10 @@
      "t": "Passa els cordons",
      "items": [
       "Passa dos cordons en sentits oposats amb una agulla imperdible."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -80,6 +100,10 @@
      "t": "Acaba",
      "items": [
       "Fes nusos o afegeix topalls. Si uses base rígida, introdueix-la al final."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -114,6 +138,10 @@
      "t": "Corta las piezas",
      "items": [
       "Corta el cuerpo y los laterales según el tutorial. Para una bolsa de ropa interior STICH, mantenla plana y ligera."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -121,6 +149,10 @@
      "t": "Forma el cuerpo",
      "items": [
       "Une las piezas delantera y trasera o la pieza larga del cuerpo según la variante elegida."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -128,6 +160,10 @@
      "t": "Cose los laterales",
      "items": [
       "Añade los laterales, haciendo coincidir las esquinas y rematando los márgenes con zigzag."
+     ],
+     "op": [
+      "zigzag",
+      "none"
      ]
     },
     {
@@ -135,6 +171,10 @@
      "t": "Haz el canal",
      "items": [
       "Dobla la parte superior dos veces y cose dejando libres las aberturas laterales del canal."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -142,6 +182,10 @@
      "t": "Pasa los cordones",
      "items": [
       "Pasa dos cordones en sentidos opuestos con un imperdible."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -149,6 +193,10 @@
      "t": "Acaba",
      "items": [
       "Haz nudos o añade topes. Si usas base rígida, introdúcela al final."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -183,6 +231,10 @@
      "t": "Cut the pieces",
      "items": [
       "Cut body and sides as in the tutorial. For a STICH lingerie bag, keep it flat and light."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -190,6 +242,10 @@
      "t": "Form the body",
      "items": [
       "Join front and back pieces or the long body piece, depending on the version you chose."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -197,6 +253,10 @@
      "t": "Sew the sides",
      "items": [
       "Add the sides, matching the corners and finishing the allowances with a zigzag."
+     ],
+     "op": [
+      "zigzag",
+      "none"
      ]
     },
     {
@@ -204,6 +264,10 @@
      "t": "Make the casing",
      "items": [
       "Fold the top twice and sew, leaving the side openings of the casing free."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -211,6 +275,10 @@
      "t": "Thread the cords",
      "items": [
       "Thread two cords in opposite directions with a safety pin."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -218,6 +286,10 @@
      "t": "Finish",
      "items": [
       "Tie knots or add stoppers. If you use a stiff base, slide it in at the end."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -252,6 +324,10 @@
      "t": "Teile zuschneiden",
      "items": [
       "Körper und Seiten nach Tutorial zuschneiden. Für einen STICH-Wäschebeutel flach und leicht halten."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -259,6 +335,10 @@
      "t": "Körper formen",
      "items": [
       "Vorder- und Rückteil oder das lange Körperteil je nach Variante zusammennähen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -266,6 +346,10 @@
      "t": "Seiten nähen",
      "items": [
       "Seitenteile ansetzen, Ecken aufeinander, Zugaben mit Zickzack versäubern."
+     ],
+     "op": [
+      "zigzag",
+      "none"
      ]
     },
     {
@@ -273,6 +357,10 @@
      "t": "Tunnel nähen",
      "items": [
       "Oberkante zweimal umschlagen und nähen, die seitlichen Tunnelöffnungen frei lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -280,6 +368,10 @@
      "t": "Kordeln einziehen",
      "items": [
       "Zwei Kordeln in gegenläufiger Richtung mit einer Sicherheitsnadel einziehen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -287,6 +379,10 @@
      "t": "Fertigstellen",
      "items": [
       "Knoten machen oder Stopper anbringen. Bei festem Boden diesen zum Schluss einschieben."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -321,6 +417,10 @@
      "t": "Coupe les pièces",
      "items": [
       "Coupe le corps et les côtés selon le tutoriel. Pour une pochette à lingerie STICH, garde-la plate et légère."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -328,6 +428,10 @@
      "t": "Forme le corps",
      "items": [
       "Assemble devant et dos ou la longue pièce de corps selon la variante choisie."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -335,6 +439,10 @@
      "t": "Couds les côtés",
      "items": [
       "Ajoute les côtés en faisant coïncider les coins et surfile les marges au zigzag."
+     ],
+     "op": [
+      "zigzag",
+      "none"
      ]
     },
     {
@@ -342,6 +450,10 @@
      "t": "Fais la coulisse",
      "items": [
       "Plie le haut deux fois et couds en laissant libres les ouvertures latérales de la coulisse."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -349,6 +461,10 @@
      "t": "Passe les cordons",
      "items": [
       "Passe deux cordons en sens opposés avec une épingle à nourrice."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -356,6 +472,10 @@
      "t": "Termine",
      "items": [
       "Fais des nœuds ou ajoute des stop-cordons. Avec un fond rigide, glisse-le à la fin."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -390,6 +510,10 @@
      "t": "Taglia i pezzi",
      "items": [
       "Taglia corpo e lati secondo il tutorial. Per un sacchetto STICH, tienilo piatto e leggero."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -397,6 +521,10 @@
      "t": "Forma il corpo",
      "items": [
       "Unisci davanti e dietro o il pezzo lungo del corpo secondo la variante scelta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -404,6 +532,10 @@
      "t": "Cuci i lati",
      "items": [
       "Aggiungi i lati facendo combaciare gli angoli e rifinisci i margini con zigzag."
+     ],
+     "op": [
+      "zigzag",
+      "none"
      ]
     },
     {
@@ -411,6 +543,10 @@
      "t": "Fai il passante",
      "items": [
       "Piega il bordo superiore due volte e cuci lasciando libere le aperture laterali del passante."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -418,6 +554,10 @@
      "t": "Infila i cordoncini",
      "items": [
       "Infila due cordoncini in direzioni opposte con una spilla da balia."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -425,9 +565,14 @@
      "t": "Finisci",
      "items": [
       "Fai dei nodi o aggiungi fermacorda. Se usi la base rigida, inseriscila alla fine."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

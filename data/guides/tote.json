@@ -45,6 +45,10 @@
      "t": "Talla",
      "items": [
       "Talla 2 peces exteriors, 2 de folre i 2 nanses. Marca el centre superior de cada panell."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -52,6 +56,10 @@
      "t": "Butxaca opcional",
      "items": [
       "Prepara la butxaca i cus-la sobre un dels panells abans de muntar la bossa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -59,6 +67,10 @@
      "t": "Exterior",
      "items": [
       "Encara els exteriors i cus laterals i base. Remata els marges."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -66,6 +78,10 @@
      "t": "Folre",
      "items": [
       "Repeteix amb el folre deixant una obertura al fons."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -73,6 +89,10 @@
      "t": "Nanses",
      "items": [
       "Centra les nanses sobre l’exterior i fixa-les dins del marge de costura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -80,6 +100,10 @@
      "t": "Uneix i gira",
      "items": [
       "Posa exterior i folre cara bonica amb cara bonica, cus la boca, gira pel folre i fes repunt superior."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -114,6 +138,10 @@
      "t": "Corta",
      "items": [
       "Corta 2 piezas exteriores, 2 de forro y 2 asas. Marca el centro superior de cada panel."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -121,6 +149,10 @@
      "t": "Bolsillo opcional",
      "items": [
       "Prepara el bolsillo y cóselo sobre uno de los paneles antes de montar el bolso."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -128,6 +160,10 @@
      "t": "Exterior",
      "items": [
       "Enfrenta los exteriores y cose laterales y base. Remata los márgenes."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -135,6 +171,10 @@
      "t": "Forro",
      "items": [
       "Repite con el forro dejando una abertura en el fondo."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -142,6 +182,10 @@
      "t": "Asas",
      "items": [
       "Centra las asas sobre el exterior y fíjalas dentro del margen de costura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -149,6 +193,10 @@
      "t": "Une y gira",
      "items": [
       "Pon exterior y forro derecho con derecho, cose la boca, gira por el forro y haz el pespunte superior."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -183,6 +231,10 @@
      "t": "Cut",
      "items": [
       "Cut 2 outer pieces, 2 lining pieces and 2 handles. Mark the top centre of each panel."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -190,6 +242,10 @@
      "t": "Optional pocket",
      "items": [
       "Prepare the pocket and sew it onto one panel before assembling the bag."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -197,6 +253,10 @@
      "t": "Outer",
      "items": [
       "Face the outer pieces and sew sides and base. Finish the allowances."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -204,6 +264,10 @@
      "t": "Lining",
      "items": [
       "Repeat with the lining, leaving a gap in the bottom."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -211,6 +275,10 @@
      "t": "Handles",
      "items": [
       "Centre the handles on the outer and fix them inside the seam allowance."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -218,6 +286,10 @@
      "t": "Join and turn",
      "items": [
       "Put outer and lining right sides together, sew the top, turn through the lining and topstitch."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -252,6 +324,10 @@
      "t": "Zuschneiden",
      "items": [
       "2 Aussenteile, 2 Futterteile und 2 Henkel zuschneiden. Die obere Mitte jedes Teils markieren."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -259,6 +335,10 @@
      "t": "Optionale Tasche",
      "items": [
       "Tasche vorbereiten und vor dem Zusammensetzen auf ein Teil nähen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -266,6 +346,10 @@
      "t": "Aussen",
      "items": [
       "Aussenteile aufeinanderlegen, Seiten und Boden nähen. Zugaben versäubern."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -273,6 +357,10 @@
      "t": "Futter",
      "items": [
       "Mit dem Futter wiederholen, im Boden eine Wendeöffnung lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -280,6 +368,10 @@
      "t": "Henkel",
      "items": [
       "Henkel mittig auf dem Aussenteil platzieren und innerhalb der Nahtzugabe fixieren."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -287,6 +379,10 @@
      "t": "Verbinden und wenden",
      "items": [
       "Aussen und Futter rechts auf rechts legen, Oberkante nähen, durch das Futter wenden und absteppen."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -321,6 +417,10 @@
      "t": "Coupe",
      "items": [
       "Coupe 2 pièces extérieures, 2 de doublure et 2 anses. Marque le milieu haut de chaque panneau."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -328,6 +428,10 @@
      "t": "Poche optionnelle",
      "items": [
       "Prépare la poche et couds-la sur un panneau avant de monter le sac."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -335,6 +439,10 @@
      "t": "Extérieur",
      "items": [
       "Superpose les extérieurs et couds côtés et fond. Surfile les marges."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -342,6 +450,10 @@
      "t": "Doublure",
      "items": [
       "Répète avec la doublure en laissant une ouverture dans le fond."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -349,6 +461,10 @@
      "t": "Anses",
      "items": [
       "Centre les anses sur l’extérieur et fixe-les dans la marge de couture."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -356,6 +472,10 @@
      "t": "Assemble et retourne",
      "items": [
       "Mets extérieur et doublure endroit contre endroit, couds l’ouverture, retourne par la doublure et surpique le haut."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -390,6 +510,10 @@
      "t": "Taglia",
      "items": [
       "Taglia 2 pezzi esterni, 2 di fodera e 2 manici. Segna il centro superiore di ogni pannello."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -397,6 +521,10 @@
      "t": "Tasca opzionale",
      "items": [
       "Prepara la tasca e cucila su uno dei pannelli prima di montare la borsa."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -404,6 +532,10 @@
      "t": "Esterno",
      "items": [
       "Affronta gli esterni e cuci lati e base. Rifinisci i margini."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -411,6 +543,10 @@
      "t": "Fodera",
      "items": [
       "Ripeti con la fodera lasciando un’apertura sul fondo."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -418,6 +554,10 @@
      "t": "Manici",
      "items": [
       "Centra i manici sull’esterno e fissali dentro il margine di cucitura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -425,9 +565,14 @@
      "t": "Unisci e rivolta",
      "items": [
       "Metti esterno e fodera dritto contro dritto, cuci il bordo, rivolta dalla fodera e fai l’impuntura superiore."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

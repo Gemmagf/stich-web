@@ -45,6 +45,10 @@
      "t": "Prepara les lletres",
      "items": [
       "Imprimeix les lletres necessàries a la mida desitjada i retalla les plantilles de paper."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -52,6 +56,10 @@
      "t": "Fes els sandvitxos",
      "items": [
       "Per cada lletra: tela del darrere cara avall + guata + tela del davant cara amunt + plantilla de paper."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -59,6 +67,10 @@
      "t": "Cus el contorn",
      "items": [
       "Redueix una mica la llargada de puntada i cus directament sobre el contorn de cada lletra."
+     ],
+     "op": [
+      "none",
+      "none"
      ]
     },
     {
@@ -66,6 +78,10 @@
      "t": "Retalla",
      "items": [
       "Retira el paper i talla a uns 5–6 mm de la costura; amb tisora de zig-zag l’acabat queda més gràfic."
+     ],
+     "op": [
+      "zigzag",
+      "pattern"
      ]
     },
     {
@@ -73,6 +89,10 @@
      "t": "Ordena el text",
      "items": [
       "Col·loca les lletres en l’ordre final i ajusta l’espai entre elles abans de cosir."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -80,6 +100,10 @@
      "t": "Munta la garlanda",
      "items": [
       "Fixa les lletres sobre la cinta i cus-les mantenint totes les parts superiors alineades."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -114,6 +138,10 @@
      "t": "Prepara las letras",
      "items": [
       "Imprime las letras necesarias al tamaño deseado y recorta las plantillas de papel."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -121,6 +149,10 @@
      "t": "Haz los sándwiches",
      "items": [
       "Por cada letra: tela de atrás boca abajo + guata + tela de delante boca arriba + plantilla de papel."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -128,6 +160,10 @@
      "t": "Cose el contorno",
      "items": [
       "Reduce un poco el largo de puntada y cose directamente sobre el contorno de cada letra."
+     ],
+     "op": [
+      "none",
+      "none"
      ]
     },
     {
@@ -135,6 +171,10 @@
      "t": "Recorta",
      "items": [
       "Retira el papel y corta a unos 5–6 mm de la costura; con tijera de zigzag el acabado queda más gráfico."
+     ],
+     "op": [
+      "zigzag",
+      "pattern"
      ]
     },
     {
@@ -142,6 +182,10 @@
      "t": "Ordena el texto",
      "items": [
       "Coloca las letras en el orden final y ajusta el espacio entre ellas antes de coser."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -149,6 +193,10 @@
      "t": "Monta la guirnalda",
      "items": [
       "Fija las letras sobre la cinta y cóselas manteniendo todas las partes superiores alineadas."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -183,6 +231,10 @@
      "t": "Prepare the letters",
      "items": [
       "Print the letters you need at the desired size and cut out the paper templates."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -190,6 +242,10 @@
      "t": "Make the sandwiches",
      "items": [
       "For each letter: back fabric face down + batting + front fabric face up + paper template."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -197,6 +253,10 @@
      "t": "Sew the outline",
      "items": [
       "Shorten the stitch a little and sew directly along the outline of each letter."
+     ],
+     "op": [
+      "none",
+      "none"
      ]
     },
     {
@@ -204,6 +264,10 @@
      "t": "Trim",
      "items": [
       "Remove the paper and cut about 5–6 mm from the seam; pinking shears give a more graphic finish."
+     ],
+     "op": [
+      "zigzag",
+      "pattern"
      ]
     },
     {
@@ -211,6 +275,10 @@
      "t": "Arrange the text",
      "items": [
       "Lay the letters in their final order and adjust the spacing before sewing."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -218,6 +286,10 @@
      "t": "Assemble the bunting",
      "items": [
       "Fix the letters on the tape and sew them keeping all the tops aligned."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -252,6 +324,10 @@
      "t": "Buchstaben vorbereiten",
      "items": [
       "Die benötigten Buchstaben in der gewünschten Grösse drucken und die Papiervorlagen ausschneiden."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -259,6 +335,10 @@
      "t": "Sandwiches bauen",
      "items": [
       "Pro Buchstabe: Rückseitenstoff links oben + Vlies + Vorderseitenstoff rechts oben + Papiervorlage."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -266,6 +346,10 @@
      "t": "Kontur nähen",
      "items": [
       "Stichlänge etwas verkürzen und direkt auf der Kontur jedes Buchstabens nähen."
+     ],
+     "op": [
+      "none",
+      "none"
      ]
     },
     {
@@ -273,6 +357,10 @@
      "t": "Zurückschneiden",
      "items": [
       "Papier entfernen und etwa 5–6 mm neben der Naht abschneiden; mit der Zickzackschere wirkt es grafischer."
+     ],
+     "op": [
+      "zigzag",
+      "pattern"
      ]
     },
     {
@@ -280,6 +368,10 @@
      "t": "Text anordnen",
      "items": [
       "Die Buchstaben in die endgültige Reihenfolge legen und die Abstände vor dem Nähen anpassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -287,6 +379,10 @@
      "t": "Wimpelkette zusammensetzen",
      "items": [
       "Die Buchstaben auf dem Band fixieren und annähen, alle Oberkanten auf einer Linie."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -321,6 +417,10 @@
      "t": "Prépare les lettres",
      "items": [
       "Imprime les lettres nécessaires à la taille voulue et découpe les gabarits en papier."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -328,6 +428,10 @@
      "t": "Fais les sandwichs",
      "items": [
       "Pour chaque lettre : tissu du dos face en bas + molleton + tissu du devant face en haut + gabarit papier."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -335,6 +439,10 @@
      "t": "Couds le contour",
      "items": [
       "Réduis un peu la longueur de point et couds directement sur le contour de chaque lettre."
+     ],
+     "op": [
+      "none",
+      "none"
      ]
     },
     {
@@ -342,6 +450,10 @@
      "t": "Recoupe",
      "items": [
       "Retire le papier et coupe à 5–6 mm de la couture ; aux ciseaux cranteurs, la finition est plus graphique."
+     ],
+     "op": [
+      "zigzag",
+      "pattern"
      ]
     },
     {
@@ -349,6 +461,10 @@
      "t": "Ordonne le texte",
      "items": [
       "Dispose les lettres dans l’ordre final et ajuste l’espacement avant de coudre."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -356,6 +472,10 @@
      "t": "Monte la guirlande",
      "items": [
       "Fixe les lettres sur le ruban et couds-les en gardant tous les hauts alignés."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
@@ -390,6 +510,10 @@
      "t": "Prepara le lettere",
      "items": [
       "Stampa le lettere necessarie nella misura desiderata e ritaglia le sagome di carta."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -397,6 +521,10 @@
      "t": "Fai i sandwich",
      "items": [
       "Per ogni lettera: tessuto del retro a faccia in giù + imbottitura + tessuto del davanti a faccia in su + sagoma di carta."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -404,6 +532,10 @@
      "t": "Cuci il contorno",
      "items": [
       "Riduci un po’ la lunghezza del punto e cuci direttamente sul contorno di ogni lettera."
+     ],
+     "op": [
+      "none",
+      "none"
      ]
     },
     {
@@ -411,6 +543,10 @@
      "t": "Rifila",
      "items": [
       "Togli la carta e taglia a 5–6 mm dalla cucitura; con le forbici a zigzag la finitura è più grafica."
+     ],
+     "op": [
+      "zigzag",
+      "pattern"
      ]
     },
     {
@@ -418,6 +554,10 @@
      "t": "Ordina il testo",
      "items": [
       "Disponi le lettere nell’ordine finale e regola lo spazio tra loro prima di cucire."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -425,9 +565,14 @@
      "t": "Monta il festone",
      "items": [
       "Fissa le lettere sul nastro e cucile mantenendo tutti i bordi superiori allineati."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }

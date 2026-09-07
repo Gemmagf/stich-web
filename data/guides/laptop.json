@@ -45,6 +45,10 @@
      "t": "Tria mida",
      "items": [
       "Mesura l’ordinador i comprova la mida final del patró abans de tallar."
+     ],
+     "op": [
+      "line",
+      "pattern"
      ]
     },
     {
@@ -52,6 +56,10 @@
      "t": "Talla i estabilitza",
      "items": [
       "Talla exterior, folre i encoixinat. Fixa l’encoixinat al revers de l’exterior."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -59,6 +67,10 @@
      "t": "Exterior",
      "items": [
       "Cus els laterals i la base de l’exterior, formant la petita base si el patró la inclou."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -66,6 +78,10 @@
      "t": "Folre",
      "items": [
       "Munta el folre deixant una obertura per girar."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -73,6 +89,10 @@
      "t": "Uneix",
      "items": [
       "Col·loca exterior i folre cara bonica amb cara bonica i cus tota la boca."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -80,6 +100,10 @@
      "t": "Gira i acaba",
      "items": [
       "Gira, tanca el folre i fes un repunt superior. Prova l’ordinador abans d’afegir cap tancament."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -114,6 +138,10 @@
      "t": "Elige el tamaño",
      "items": [
       "Mide el portátil y comprueba la medida final del patrón antes de cortar."
+     ],
+     "op": [
+      "line",
+      "pattern"
      ]
     },
     {
@@ -121,6 +149,10 @@
      "t": "Corta y estabiliza",
      "items": [
       "Corta exterior, forro y acolchado. Fija el acolchado en el revés del exterior."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -128,6 +160,10 @@
      "t": "Exterior",
      "items": [
       "Cose los laterales y la base del exterior, formando la pequeña base si el patrón la incluye."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -135,6 +171,10 @@
      "t": "Forro",
      "items": [
       "Monta el forro dejando una abertura para girar."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -142,6 +182,10 @@
      "t": "Une",
      "items": [
       "Coloca exterior y forro derecho con derecho y cose toda la boca."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -149,6 +193,10 @@
      "t": "Gira y acaba",
      "items": [
       "Gira, cierra el forro y haz un pespunte superior. Prueba el portátil antes de añadir cualquier cierre."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -183,6 +231,10 @@
      "t": "Pick the size",
      "items": [
       "Measure the laptop and check the finished pattern size before cutting."
+     ],
+     "op": [
+      "line",
+      "pattern"
      ]
     },
     {
@@ -190,6 +242,10 @@
      "t": "Cut and stabilise",
      "items": [
       "Cut outer, lining and padding. Fuse the padding to the wrong side of the outer."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -197,6 +253,10 @@
      "t": "Outer",
      "items": [
       "Sew the sides and base of the outer, forming the small base if the pattern has one."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -204,6 +264,10 @@
      "t": "Lining",
      "items": [
       "Assemble the lining leaving a gap to turn."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -211,6 +275,10 @@
      "t": "Join",
      "items": [
       "Place outer and lining right sides together and sew all around the opening."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -218,6 +286,10 @@
      "t": "Turn and finish",
      "items": [
       "Turn, close the lining and topstitch the top. Try the laptop before adding any closure."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -252,6 +324,10 @@
      "t": "Grösse wählen",
      "items": [
       "Laptop messen und die Endgrösse des Schnitts vor dem Zuschneiden prüfen."
+     ],
+     "op": [
+      "line",
+      "pattern"
      ]
     },
     {
@@ -259,6 +335,10 @@
      "t": "Zuschneiden und verstärken",
      "items": [
       "Aussenstoff, Futter und Polsterung zuschneiden. Polsterung auf die linke Seite des Aussenstoffs bügeln."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -266,6 +346,10 @@
      "t": "Aussen",
      "items": [
       "Seiten und Boden des Aussenteils nähen, bei Bedarf den kleinen Boden nach Schnitt formen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -273,6 +357,10 @@
      "t": "Futter",
      "items": [
       "Futter zusammensetzen und eine Wendeöffnung lassen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -280,6 +368,10 @@
      "t": "Verbinden",
      "items": [
       "Aussen und Futter rechts auf rechts legen und die Öffnung rundum nähen."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -287,6 +379,10 @@
      "t": "Wenden und fertigstellen",
      "items": [
       "Wenden, Futter schliessen und Oberkante absteppen. Vor einem Verschluss den Laptop anprobieren."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -321,6 +417,10 @@
      "t": "Choisis la taille",
      "items": [
       "Mesure l’ordinateur et vérifie la taille finale du patron avant de couper."
+     ],
+     "op": [
+      "line",
+      "pattern"
      ]
     },
     {
@@ -328,6 +428,10 @@
      "t": "Coupe et stabilise",
      "items": [
       "Coupe extérieur, doublure et rembourrage. Fixe le rembourrage sur l’envers de l’extérieur."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -335,6 +439,10 @@
      "t": "Extérieur",
      "items": [
       "Couds les côtés et le fond de l’extérieur, en formant le petit fond si le patron le prévoit."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -342,6 +450,10 @@
      "t": "Doublure",
      "items": [
       "Monte la doublure en laissant une ouverture pour retourner."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -349,6 +461,10 @@
      "t": "Assemble",
      "items": [
       "Place extérieur et doublure endroit contre endroit et couds toute l’ouverture."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -356,6 +472,10 @@
      "t": "Retourne et termine",
      "items": [
       "Retourne, ferme la doublure et surpique le haut. Essaie l’ordinateur avant d’ajouter une fermeture."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
@@ -390,6 +510,10 @@
      "t": "Scegli la misura",
      "items": [
       "Misura il computer e controlla la misura finale del cartamodello prima di tagliare."
+     ],
+     "op": [
+      "line",
+      "pattern"
      ]
     },
     {
@@ -397,6 +521,10 @@
      "t": "Taglia e stabilizza",
      "items": [
       "Taglia esterno, fodera e imbottitura. Fissa l’imbottitura sul rovescio dell’esterno."
+     ],
+     "op": [
+      "none",
+      "pattern"
      ]
     },
     {
@@ -404,6 +532,10 @@
      "t": "Esterno",
      "items": [
       "Cuci i lati e la base dell’esterno, formando la piccola base se il cartamodello la prevede."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -411,6 +543,10 @@
      "t": "Fodera",
      "items": [
       "Monta la fodera lasciando un’apertura per rivoltare."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -418,6 +554,10 @@
      "t": "Unisci",
      "items": [
       "Metti esterno e fodera dritto contro dritto e cuci tutta l’apertura."
+     ],
+     "op": [
+      "line",
+      "none"
      ]
     },
     {
@@ -425,9 +565,14 @@
      "t": "Rivolta e finisci",
      "items": [
       "Rivolta, chiudi la fodera e fai un’impuntura superiore. Prova il computer prima di aggiungere una chiusura."
+     ],
+     "op": [
+      "straight",
+      "none"
      ]
     }
    ]
   }
- }
+ },
+ "legend": true
 }
