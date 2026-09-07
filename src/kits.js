@@ -77,6 +77,9 @@ const KITS = [
  {id:"boho",n:24,format:"sat",level:2,accent:"sage",icon:"bucket",
   name:{ca:"Boho bag",es:"Boho bag",de:"Boho Bag",en:"Boho bag",fr:"Boho bag",it:"Boho bag"},
   desc:{ca:"Tote relaxada, folrada, amb butxaca interior i nanses llargues. Cantonades amb profunditat.",es:"Tote relajada, forrada, con bolsillo interior y asas largas. Esquinas con profundidad.",de:"Lässige, gefütterte Tote mit Innentasche und langen Henkeln. Ecken mit Tiefe.",en:"Relaxed lined tote with inner pocket and long handles. Boxed corners for depth.",fr:"Tote décontracté, doublé, avec poche intérieure et longues anses. Coins en volume.",it:"Tote rilassata, foderata, con tasca interna e manici lunghi. Angoli con profondità."}},
+ {id:"shoebag",n:25,format:"short",level:1,accent:"blue",icon:"pouch",
+  name:{ca:"Bossa de sabates",es:"Bolsa de zapatos",de:"Schuhbeutel",en:"Shoe bag",fr:"Sac à chaussures",it:"Sacca per scarpe"},
+  desc:{ca:"Bossa amb cremallera i folre impermeable per a les sabates dins la maleta. Acabats amb biaix.",es:"Bolsa con cremallera y forro impermeable para los zapatos en la maleta. Acabados con bies.",de:"Beutel mit Reissverschluss und wasserdichtem Futter für Schuhe im Koffer. Kanten eingefasst.",en:"Zipped bag with waterproof lining for shoes in the suitcase. Bound finishes.",fr:"Sac zippé à doublure imperméable pour les chaussures dans la valise. Finitions au biais.",it:"Sacca con cerniera e fodera impermeabile per le scarpe in valigia. Rifiniture a sbieco."}},
 ];
 /* Provisional dates — replace when confirmed. seats = free seats out of 6. */
 const DATES = [

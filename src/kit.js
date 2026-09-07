@@ -10,7 +10,7 @@
   const id=new URLSearchParams(location.search).get("id");
   const kit=KITS.find(k=>k.id===id)||KITS[0];
   const guide=GUIDES[kit.id];
-  const dk=k=>guide&&guide.defaults==="ws"?k+"_ws":k+"_default";
+  const dk=k=>k+"_"+((guide&&guide.defaults)||"default");
   const owned=()=>{try{return JSON.parse(localStorage.getItem("stich-owned")||"[]").includes(kit.id);}catch(e){return false;}};
   const setOwned=v=>{try{let a=JSON.parse(localStorage.getItem("stich-owned")||"[]"); a=a.filter(x=>x!==kit.id); if(v)a.push(kit.id); localStorage.setItem("stich-owned",JSON.stringify(a));}catch(e){}};
   const fmtDuration=h=>{const hh=Math.floor(h),mm=Math.round((h-hh)*60);return mm?`${hh}${t("dur_h")} ${mm}${t("dur_min")}`:`${hh}${t("dur_h")}`;};

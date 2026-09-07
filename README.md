@@ -24,7 +24,7 @@ GitHub Pages serveix `index.html` des de la branca `main`. Per publicar canvis: 
 ## Pàgina de kit i guies (`kit.html?id=<id>`)
 - `src/kit-body.html` + `src/kit.js` — pàgina d'un kit: descripció i materials públics; la guia pas a pas (fotos, consells, checks) queda bloquejada fins a la compra.
 - La compra és una **simulació**: el botó guarda l'id a `localStorage` (`stich-owned`) i mostra la guia. Hi ha un enllaç per reiniciar-la.
-- `src/guides-a.js`, `guides-b.js`, `guides-c.js` — les guies (`GUIDES[id]`), text en sis idiomes. Fotos a `img/guides/<id>/<n>.jpg`; `imgs` diu quina foto va a cada pas (`null` = diagrama).
+- `src/guides-a.js` … `guides-e.js` — les 25 guies (`GUIDES[id]`), text en sis idiomes. `defaults` (`ws`, `ws2`) tria els textos genèrics d'introducció, check i tancament de `src/i18n.js`; `src` és el crèdit del patró de referència. Fotos a `img/guides/<id>/<n>.jpg`; `imgs` diu quina foto va a cada pas (`null` = diagrama).
 - Preu del kit sol: `KIT_PRICE` a `src/kits.js`.
 
 ## Afegir o canviar un kit

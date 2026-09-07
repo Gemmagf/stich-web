@@ -31,7 +31,7 @@ PYEOF
   echo "$FONTS"
   echo '<style>'; cat src/styles.css; echo '</style></head><body>'
   cat src/kit-body.html
-  echo '<script>'; cat src/i18n.js src/kits.js src/icons.js src/guides-a.js src/guides-b.js src/guides-c.js src/kit.js; echo '</script>'
+  echo '<script>'; cat src/i18n.js src/kits.js src/icons.js src/guides-a.js src/guides-b.js src/guides-c.js src/guides-d.js src/guides-e.js src/kit.js; echo '</script>'
   echo '</body></html>'
 } > kit.html
 echo "built index.html ($(wc -c < index.html) bytes) and kit.html ($(wc -c < kit.html) bytes)"

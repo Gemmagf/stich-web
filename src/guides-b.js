@@ -25,7 +25,7 @@ it:{title:"Borsa fragola / sacca per il cambio",materials:[["Corpo della borsa",
  {t:"Cuciamo la borsa",items:["Affronta i due tessuti, dritto contro dritto.","Cuci lati e manici con punto dritto e zigzag.","Applica lo sbieco intorno ai manici in due passaggi: prima dal rovescio, poi dal dritto.","Infila il cordoncino nelle strisce con una spilla da balia e aggiungi il fermacorda."],cap:"Pagina 2 · montaggio finale"}]}
 }};
 
-GUIDES.laundry = {badge:"KIT 04",hours:2,imgs:[1,2,3],L:{
+GUIDES.shoebag = {badge:"KIT 04b",hours:2,imgs:[1,2,3],L:{
 ca:{title:"Bossa de sabates",materials:[["Exterior","2 × 18 × 40 cm · 1 × 36 × 40 cm"],["Interior","2 × 18 × 40 cm · 1 × 36 × 40 cm (impermeable)"],["Cremallera","1 unitat · 45 cm"],["Biaix","2 peces · 20 × 4 cm"],["Cinta de motxilla","12 cm"]],steps:[
  {t:"Muntem la cremallera",items:["Col·loca una peça interior de 18 × 40 cm amb la cara bonica amunt.","Alinea la cremallera al costat de 40 cm i posa a sobre la peça exterior, cara bonica cap avall.","Cus amb pota de cremallera, gira les teles i fes un repunt de càrrega.","Repeteix el mateix a l’altre costat de la cremallera."],cap:"Pàgina 1 · cremallera"},
  {t:"Cosim les teles del darrere",items:["Posa la peça amb cremallera sobre la peça interior de 36 × 40 cm, cara bonica amb cara bonica.","A sobre col·loca la peça exterior de 36 × 40 cm, amb les cares boniques encarades.","Cus els dos laterals de 40 cm i remata amb zig-zag.","Gira i centra la cremallera; retalla el sobrant si cal."],cap:"Pàgina 2 · cos principal"},
