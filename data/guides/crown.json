@@ -1,0 +1,433 @@
+{
+ "badge": "KIT 04",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Sweetbriar Sisters",
+  "https://sweetbriarsister.com/blog/free-birthday-crown-sewing-pattern/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Corona d’aniversari",
+   "materials": [
+    [
+     "Tela",
+     "2 peces de corona"
+    ],
+    [
+     "Foam termoadhesiu",
+     "1 peça de corona"
+    ],
+    [
+     "Biaix",
+     "aprox. 105 cm"
+    ],
+    [
+     "Patró",
+     "PDF gratuït"
+    ],
+    [
+     "Opcional",
+     "Aplicacions o brodat"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla la corona",
+     "items": [
+      "Talla 2 corones de tela i 1 d’escuma termoadhesiva segons el patró."
+     ]
+    },
+    {
+     "e": "Fixar",
+     "t": "Dona estructura",
+     "items": [
+      "Planxa el foam al revers d’una de les peces de tela."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Cus les dues cares",
+     "items": [
+      "Encara les dues corones i cus pels pics i laterals. Deixa la base oberta."
+     ]
+    },
+    {
+     "e": "Retallar",
+     "t": "Retalla i gira",
+     "items": [
+      "Retalla els marges als pics i entra als angles sense tallar la costura. Gira i planxa."
+     ]
+    },
+    {
+     "e": "Biaix",
+     "t": "Posa el biaix",
+     "items": [
+      "Centra el biaix a la base de la corona i cus primer una cara; envolta el marge i tanca amb repunt."
+     ]
+    },
+    {
+     "e": "Cintes",
+     "t": "Acaba les cintes",
+     "items": [
+      "Continua el repunt fins als extrems del biaix, girant-los cap endins perquè quedin acabats."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Corona de cumpleaños",
+   "materials": [
+    [
+     "Tela",
+     "2 piezas de corona"
+    ],
+    [
+     "Foam termoadhesivo",
+     "1 pieza de corona"
+    ],
+    [
+     "Bies",
+     "aprox. 105 cm"
+    ],
+    [
+     "Patrón",
+     "PDF gratuito"
+    ],
+    [
+     "Opcional",
+     "Aplicaciones o bordado"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta la corona",
+     "items": [
+      "Corta 2 coronas de tela y 1 de espuma termoadhesiva según el patrón."
+     ]
+    },
+    {
+     "e": "Fijar",
+     "t": "Da estructura",
+     "items": [
+      "Plancha el foam en el revés de una de las piezas de tela."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Cose las dos caras",
+     "items": [
+      "Enfrenta las dos coronas y cose por los picos y laterales. Deja la base abierta."
+     ]
+    },
+    {
+     "e": "Recortar",
+     "t": "Recorta y gira",
+     "items": [
+      "Recorta los márgenes en los picos y entra en los ángulos sin cortar la costura. Gira y plancha."
+     ]
+    },
+    {
+     "e": "Bies",
+     "t": "Pon el bies",
+     "items": [
+      "Centra el bies en la base de la corona y cose primero una cara; envuelve el margen y cierra con pespunte."
+     ]
+    },
+    {
+     "e": "Cintas",
+     "t": "Acaba las cintas",
+     "items": [
+      "Continúa el pespunte hasta los extremos del bies, girándolos hacia dentro para que queden acabados."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Birthday crown",
+   "materials": [
+    [
+     "Fabric",
+     "2 crown pieces"
+    ],
+    [
+     "Fusible foam",
+     "1 crown piece"
+    ],
+    [
+     "Bias binding",
+     "approx. 105 cm"
+    ],
+    [
+     "Pattern",
+     "Free PDF"
+    ],
+    [
+     "Optional",
+     "Appliqué or embroidery"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the crown",
+     "items": [
+      "Cut 2 fabric crowns and 1 of fusible foam following the pattern."
+     ]
+    },
+    {
+     "e": "Fuse",
+     "t": "Give it structure",
+     "items": [
+      "Fuse the foam to the wrong side of one of the fabric pieces."
+     ]
+    },
+    {
+     "e": "Join",
+     "t": "Sew the two sides",
+     "items": [
+      "Face the two crowns and sew along the points and sides. Leave the base open."
+     ]
+    },
+    {
+     "e": "Trim",
+     "t": "Trim and turn",
+     "items": [
+      "Trim the allowances at the points and clip into the angles without cutting the seam. Turn and press."
+     ]
+    },
+    {
+     "e": "Binding",
+     "t": "Attach the binding",
+     "items": [
+      "Centre the binding on the base of the crown and sew one side first; wrap the edge and close with topstitching."
+     ]
+    },
+    {
+     "e": "Ties",
+     "t": "Finish the ties",
+     "items": [
+      "Continue the topstitching to the ends of the binding, folding them inwards so they are neatly finished."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Geburtstagskrone",
+   "materials": [
+    [
+     "Stoff",
+     "2 Kronenteile"
+    ],
+    [
+     "Aufbügelbarer Foam",
+     "1 Kronenteil"
+    ],
+    [
+     "Schrägband",
+     "ca. 105 cm"
+    ],
+    [
+     "Schnitt",
+     "Gratis-PDF"
+    ],
+    [
+     "Optional",
+     "Applikation oder Stickerei"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Krone zuschneiden",
+     "items": [
+      "2 Kronen aus Stoff und 1 aus aufbügelbarem Foam nach Schnitt zuschneiden."
+     ]
+    },
+    {
+     "e": "Bügeln",
+     "t": "Struktur geben",
+     "items": [
+      "Den Foam auf die linke Seite eines Stoffteils bügeln."
+     ]
+    },
+    {
+     "e": "Verbinden",
+     "t": "Beide Seiten nähen",
+     "items": [
+      "Die beiden Kronen aufeinanderlegen und an Zacken und Seiten nähen. Die Unterkante bleibt offen."
+     ]
+    },
+    {
+     "e": "Zurückschneiden",
+     "t": "Zurückschneiden und wenden",
+     "items": [
+      "Zugaben an den Zacken kürzen und in die Winkel einschneiden, ohne die Naht zu verletzen. Wenden und bügeln."
+     ]
+    },
+    {
+     "e": "Schrägband",
+     "t": "Schrägband ansetzen",
+     "items": [
+      "Das Schrägband mittig an der Unterkante ansetzen und erst eine Seite nähen; die Kante einfassen und mit einer Steppnaht schliessen."
+     ]
+    },
+    {
+     "e": "Bänder",
+     "t": "Bänder fertigstellen",
+     "items": [
+      "Die Steppnaht bis zu den Enden des Schrägbands weiterführen und die Enden nach innen einschlagen."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Couronne d’anniversaire",
+   "materials": [
+    [
+     "Tissu",
+     "2 pièces de couronne"
+    ],
+    [
+     "Mousse thermocollante",
+     "1 pièce de couronne"
+    ],
+    [
+     "Biais",
+     "env. 105 cm"
+    ],
+    [
+     "Patron",
+     "PDF gratuit"
+    ],
+    [
+     "Optionnel",
+     "Appliqués ou broderie"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe la couronne",
+     "items": [
+      "Coupe 2 couronnes en tissu et 1 en mousse thermocollante selon le patron."
+     ]
+    },
+    {
+     "e": "Thermocoller",
+     "t": "Donne de la tenue",
+     "items": [
+      "Thermocolle la mousse sur l’envers d’une des pièces de tissu."
+     ]
+    },
+    {
+     "e": "Assembler",
+     "t": "Couds les deux faces",
+     "items": [
+      "Superpose les deux couronnes et couds les pointes et les côtés. Laisse la base ouverte."
+     ]
+    },
+    {
+     "e": "Recouper",
+     "t": "Recoupe et retourne",
+     "items": [
+      "Recoupe les marges aux pointes et crante les angles sans couper la couture. Retourne et repasse."
+     ]
+    },
+    {
+     "e": "Biais",
+     "t": "Pose le biais",
+     "items": [
+      "Centre le biais sur la base de la couronne et couds d’abord une face ; enveloppe le bord et ferme par une surpiqûre."
+     ]
+    },
+    {
+     "e": "Liens",
+     "t": "Termine les liens",
+     "items": [
+      "Prolonge la surpiqûre jusqu’aux extrémités du biais en les rentrant pour une finition propre."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Corona di compleanno",
+   "materials": [
+    [
+     "Tessuto",
+     "2 pezzi di corona"
+    ],
+    [
+     "Foam termoadesivo",
+     "1 pezzo di corona"
+    ],
+    [
+     "Sbieco",
+     "circa 105 cm"
+    ],
+    [
+     "Cartamodello",
+     "PDF gratuito"
+    ],
+    [
+     "Opzionale",
+     "Applicazioni o ricamo"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia la corona",
+     "items": [
+      "Taglia 2 corone di tessuto e 1 di foam termoadesivo secondo il cartamodello."
+     ]
+    },
+    {
+     "e": "Stirare",
+     "t": "Dai struttura",
+     "items": [
+      "Stira il foam sul rovescio di uno dei pezzi di tessuto."
+     ]
+    },
+    {
+     "e": "Unire",
+     "t": "Cuci le due facce",
+     "items": [
+      "Affronta le due corone e cuci lungo le punte e i lati. Lascia la base aperta."
+     ]
+    },
+    {
+     "e": "Rifilare",
+     "t": "Rifila e rivolta",
+     "items": [
+      "Rifila i margini sulle punte e incidi gli angoli senza tagliare la cucitura. Rivolta e stira."
+     ]
+    },
+    {
+     "e": "Sbieco",
+     "t": "Applica lo sbieco",
+     "items": [
+      "Centra lo sbieco sulla base della corona e cuci prima un lato; avvolgi il bordo e chiudi con un’impuntura."
+     ]
+    },
+    {
+     "e": "Lacci",
+     "t": "Rifinisci i lacci",
+     "items": [
+      "Prosegui l’impuntura fino alle estremità dello sbieco ripiegandole verso l’interno per una finitura pulita."
+     ]
+    }
+   ]
+  }
+ }
+}

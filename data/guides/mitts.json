@@ -1,0 +1,457 @@
+{
+ "badge": "KIT 07",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "MADE Everyday",
+  "https://www.madeeveryday.com/oven-mitt/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Guants de cuina",
+   "materials": [
+    [
+     "Exterior",
+     "1 fat quarter"
+    ],
+    [
+     "Folre",
+     "1 fat quarter"
+    ],
+    [
+     "Guata de cotó",
+     "1 fat quarter"
+    ],
+    [
+     "Capa tèrmica",
+     "Insul-Bright o equivalent apte per a calor"
+    ],
+    [
+     "Biaix",
+     "Doble plec"
+    ],
+    [
+     "Patró",
+     "PDF gratuït"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla les capes",
+     "items": [
+      "Per cada guant, talla dues peces de cada material seguint el patró."
+     ]
+    },
+    {
+     "e": "Acolxar",
+     "t": "Acolxa",
+     "items": [
+      "Munta el sandvitx exterior + guata + capa tèrmica + folre i acolxa perquè les capes no es moguin."
+     ]
+    },
+    {
+     "e": "Marcar",
+     "t": "Marca el guant",
+     "items": [
+      "Col·loca el patró sobre els panells acolxats i marca el contorn final."
+     ]
+    },
+    {
+     "e": "Cosir",
+     "t": "Cus el contorn",
+     "items": [
+      "Encara les dues meitats, cus tot el contorn deixant oberta la part del canell."
+     ]
+    },
+    {
+     "e": "Retallar",
+     "t": "Retalla corbes",
+     "items": [
+      "Retalla el marge especialment a la zona entre polze i mà perquè giri sense tensió."
+     ]
+    },
+    {
+     "e": "Biaix",
+     "t": "Acaba l’obertura",
+     "items": [
+      "Gira el guant i remata l’obertura amb biaix. Per a ús real, utilitza sempre materials aptes per a calor."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Guantes de cocina",
+   "materials": [
+    [
+     "Exterior",
+     "1 fat quarter"
+    ],
+    [
+     "Forro",
+     "1 fat quarter"
+    ],
+    [
+     "Guata de algodón",
+     "1 fat quarter"
+    ],
+    [
+     "Capa térmica",
+     "Insul-Bright o equivalente apto para calor"
+    ],
+    [
+     "Bies",
+     "Doble pliegue"
+    ],
+    [
+     "Patrón",
+     "PDF gratuito"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta las capas",
+     "items": [
+      "Para cada guante, corta dos piezas de cada material siguiendo el patrón."
+     ]
+    },
+    {
+     "e": "Acolchar",
+     "t": "Acolcha",
+     "items": [
+      "Monta el sándwich exterior + guata + capa térmica + forro y acolcha para que las capas no se muevan."
+     ]
+    },
+    {
+     "e": "Marcar",
+     "t": "Marca el guante",
+     "items": [
+      "Coloca el patrón sobre los paneles acolchados y marca el contorno final."
+     ]
+    },
+    {
+     "e": "Coser",
+     "t": "Cose el contorno",
+     "items": [
+      "Enfrenta las dos mitades y cose todo el contorno dejando abierta la parte de la muñeca."
+     ]
+    },
+    {
+     "e": "Recortar",
+     "t": "Recorta curvas",
+     "items": [
+      "Recorta el margen sobre todo en la zona entre pulgar y mano para que gire sin tensión."
+     ]
+    },
+    {
+     "e": "Bies",
+     "t": "Acaba la abertura",
+     "items": [
+      "Gira el guante y remata la abertura con bies. Para uso real, usa siempre materiales aptos para calor."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Oven mitts",
+   "materials": [
+    [
+     "Outer",
+     "1 fat quarter"
+    ],
+    [
+     "Lining",
+     "1 fat quarter"
+    ],
+    [
+     "Cotton batting",
+     "1 fat quarter"
+    ],
+    [
+     "Thermal layer",
+     "Insul-Bright or a heat-safe equivalent"
+    ],
+    [
+     "Bias binding",
+     "Double fold"
+    ],
+    [
+     "Pattern",
+     "Free PDF"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the layers",
+     "items": [
+      "For each mitt, cut two pieces of each material following the pattern."
+     ]
+    },
+    {
+     "e": "Quilt",
+     "t": "Quilt",
+     "items": [
+      "Build the sandwich outer + batting + thermal layer + lining and quilt it so the layers stay put."
+     ]
+    },
+    {
+     "e": "Mark",
+     "t": "Mark the mitt",
+     "items": [
+      "Place the pattern on the quilted panels and mark the final outline."
+     ]
+    },
+    {
+     "e": "Sew",
+     "t": "Sew the outline",
+     "items": [
+      "Face the two halves and sew all around, leaving the wrist open."
+     ]
+    },
+    {
+     "e": "Clip",
+     "t": "Clip the curves",
+     "items": [
+      "Trim the allowance especially between thumb and hand so it turns without pulling."
+     ]
+    },
+    {
+     "e": "Bind",
+     "t": "Finish the opening",
+     "items": [
+      "Turn the mitt and bind the opening. For real use, always use heat-safe materials."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Topfhandschuhe",
+   "materials": [
+    [
+     "Aussenstoff",
+     "1 Fat Quarter"
+    ],
+    [
+     "Futter",
+     "1 Fat Quarter"
+    ],
+    [
+     "Baumwollvlies",
+     "1 Fat Quarter"
+    ],
+    [
+     "Thermolage",
+     "Insul-Bright oder hitzegeeignetes Äquivalent"
+    ],
+    [
+     "Schrägband",
+     "Doppelt gefalzt"
+    ],
+    [
+     "Schnitt",
+     "Gratis-PDF"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Lagen zuschneiden",
+     "items": [
+      "Pro Handschuh zwei Teile aus jedem Material nach Schnitt zuschneiden."
+     ]
+    },
+    {
+     "e": "Steppen",
+     "t": "Steppen",
+     "items": [
+      "Sandwich aus Aussenstoff + Vlies + Thermolage + Futter bauen und steppen, damit die Lagen nicht verrutschen."
+     ]
+    },
+    {
+     "e": "Anzeichnen",
+     "t": "Handschuh anzeichnen",
+     "items": [
+      "Den Schnitt auf die gesteppten Teile legen und die endgültige Kontur anzeichnen."
+     ]
+    },
+    {
+     "e": "Nähen",
+     "t": "Kontur nähen",
+     "items": [
+      "Die beiden Hälften aufeinanderlegen und rundum nähen, am Handgelenk offen lassen."
+     ]
+    },
+    {
+     "e": "Einschneiden",
+     "t": "Rundungen einschneiden",
+     "items": [
+      "Die Zugabe besonders zwischen Daumen und Hand zurückschneiden, damit sich alles spannungsfrei wenden lässt."
+     ]
+    },
+    {
+     "e": "Einfassen",
+     "t": "Öffnung fertigstellen",
+     "items": [
+      "Handschuh wenden und die Öffnung mit Schrägband einfassen. Für den echten Gebrauch immer hitzegeeignete Materialien verwenden."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Maniques",
+   "materials": [
+    [
+     "Extérieur",
+     "1 fat quarter"
+    ],
+    [
+     "Doublure",
+     "1 fat quarter"
+    ],
+    [
+     "Molleton coton",
+     "1 fat quarter"
+    ],
+    [
+     "Couche thermique",
+     "Insul-Bright ou équivalent résistant à la chaleur"
+    ],
+    [
+     "Biais",
+     "Double pli"
+    ],
+    [
+     "Patron",
+     "PDF gratuit"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe les épaisseurs",
+     "items": [
+      "Pour chaque manique, coupe deux pièces de chaque matière selon le patron."
+     ]
+    },
+    {
+     "e": "Matelasser",
+     "t": "Matelasse",
+     "items": [
+      "Monte le sandwich extérieur + molleton + couche thermique + doublure et matelasse pour que les couches ne bougent pas."
+     ]
+    },
+    {
+     "e": "Tracer",
+     "t": "Trace la manique",
+     "items": [
+      "Pose le patron sur les panneaux matelassés et trace le contour final."
+     ]
+    },
+    {
+     "e": "Coudre",
+     "t": "Couds le contour",
+     "items": [
+      "Superpose les deux moitiés et couds tout le tour en laissant le poignet ouvert."
+     ]
+    },
+    {
+     "e": "Cranter",
+     "t": "Crante les courbes",
+     "items": [
+      "Recoupe la marge surtout entre le pouce et la main pour retourner sans tension."
+     ]
+    },
+    {
+     "e": "Biais",
+     "t": "Termine l’ouverture",
+     "items": [
+      "Retourne la manique et finis l’ouverture au biais. Pour un usage réel, utilise toujours des matières résistantes à la chaleur."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Presine",
+   "materials": [
+    [
+     "Esterno",
+     "1 fat quarter"
+    ],
+    [
+     "Fodera",
+     "1 fat quarter"
+    ],
+    [
+     "Imbottitura di cotone",
+     "1 fat quarter"
+    ],
+    [
+     "Strato termico",
+     "Insul-Bright o equivalente adatto al calore"
+    ],
+    [
+     "Sbieco",
+     "Doppia piega"
+    ],
+    [
+     "Cartamodello",
+     "PDF gratuito"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia gli strati",
+     "items": [
+      "Per ogni guanto, taglia due pezzi di ogni materiale seguendo il cartamodello."
+     ]
+    },
+    {
+     "e": "Trapuntare",
+     "t": "Trapunta",
+     "items": [
+      "Monta il sandwich esterno + imbottitura + strato termico + fodera e trapunta perché gli strati non si muovano."
+     ]
+    },
+    {
+     "e": "Segnare",
+     "t": "Segna il guanto",
+     "items": [
+      "Posiziona il cartamodello sui pannelli trapuntati e segna il contorno finale."
+     ]
+    },
+    {
+     "e": "Cucire",
+     "t": "Cuci il contorno",
+     "items": [
+      "Affronta le due metà e cuci tutto il contorno lasciando aperto il polso."
+     ]
+    },
+    {
+     "e": "Rifilare",
+     "t": "Rifila le curve",
+     "items": [
+      "Rifila il margine soprattutto tra pollice e mano perché si rivolti senza tensione."
+     ]
+    },
+    {
+     "e": "Sbieco",
+     "t": "Rifinisci l’apertura",
+     "items": [
+      "Rivolta il guanto e rifinisci l’apertura con lo sbieco. Per l’uso reale, usa sempre materiali adatti al calore."
+     ]
+    }
+   ]
+  }
+ }
+}

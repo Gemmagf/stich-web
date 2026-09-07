@@ -1,0 +1,500 @@
+{
+ "badge": "KIT 10",
+ "hours": 2,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws",
+ "src": [
+  "Anielska Aniela",
+  "https://anielskaaniela.com/2026/09/how-to-sew-a-zipper-pouch-free-pattern.html"
+ ],
+ "L": {
+  "ca": {
+   "title": "Zip pouch · funda plana amb cremallera",
+   "materials": [
+    [
+     "Exterior",
+     "2 peces · 18 × 24 cm"
+    ],
+    [
+     "Folre",
+     "2 peces · 18 × 24 cm"
+    ],
+    [
+     "Entretela",
+     "2 peces · opcional"
+    ],
+    [
+     "Cremallera",
+     "De nylon · segons patró"
+    ],
+    [
+     "Terminals",
+     "2 terminals de cremallera + 2 travetes laterals"
+    ],
+    [
+     "Marge",
+     "1 cm inclòs al patró"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla les peces",
+     "items": [
+      "Talla 2 peces exteriors i 2 de folre de 18 × 24 cm. Talla també les peces petites per als terminals de la cremallera i les travetes laterals."
+     ]
+    },
+    {
+     "e": "Preparar",
+     "t": "Prepara la cremallera",
+     "items": [
+      "Afegeix els terminals de tela als dos extrems de la cremallera. Planxa bé perquè quedin plans abans de continuar."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Munta el primer costat",
+     "items": [
+      "Posa exterior i cremallera cara bonica amb cara bonica. Afegeix el folre a l’altra cara de la cremallera i cus les tres capes amb pota de cremallera."
+     ]
+    },
+    {
+     "e": "Repetir",
+     "t": "Repeteix a l’altre costat",
+     "items": [
+      "Munta l’altre exterior i folre a l’altre costat de la cremallera. Obre les teles i fes un repunt de càrrega a prop de la cremallera."
+     ]
+    },
+    {
+     "e": "Travetes",
+     "t": "Afegeix les travetes",
+     "items": [
+      "Doblega les petites tires per formar les travetes i fixa-les als laterals, orientades cap a l’interior."
+     ]
+    },
+    {
+     "e": "Tancar",
+     "t": "Tanca la bossa",
+     "items": [
+      "Obre la cremallera a mitges. Encara exterior amb exterior i folre amb folre. Cus tot el contorn deixant una obertura al folre."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira i acaba",
+     "items": [
+      "Gira la bossa per l’obertura del folre, tanca-la amb un repunt i planxa la peça."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Zip pouch · funda plana con cremallera",
+   "materials": [
+    [
+     "Exterior",
+     "2 piezas · 18 × 24 cm"
+    ],
+    [
+     "Forro",
+     "2 piezas · 18 × 24 cm"
+    ],
+    [
+     "Entretela",
+     "2 piezas · opcional"
+    ],
+    [
+     "Cremallera",
+     "De nailon · según patrón"
+    ],
+    [
+     "Terminales",
+     "2 terminales de cremallera + 2 trabillas laterales"
+    ],
+    [
+     "Margen",
+     "1 cm incluido en el patrón"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta las piezas",
+     "items": [
+      "Corta 2 piezas exteriores y 2 de forro de 18 × 24 cm. Corta también las piezas pequeñas para los terminales de la cremallera y las trabillas laterales."
+     ]
+    },
+    {
+     "e": "Preparar",
+     "t": "Prepara la cremallera",
+     "items": [
+      "Añade los terminales de tela en los dos extremos de la cremallera. Plancha bien para que queden planos antes de continuar."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Monta el primer lado",
+     "items": [
+      "Pon exterior y cremallera derecho con derecho. Añade el forro en la otra cara de la cremallera y cose las tres capas con prensatelas de cremallera."
+     ]
+    },
+    {
+     "e": "Repetir",
+     "t": "Repite en el otro lado",
+     "items": [
+      "Monta el otro exterior y forro en el otro lado de la cremallera. Abre las telas y haz un pespunte de carga cerca de la cremallera."
+     ]
+    },
+    {
+     "e": "Trabillas",
+     "t": "Añade las trabillas",
+     "items": [
+      "Dobla las tiras pequeñas para formar las trabillas y fíjalas en los laterales, orientadas hacia dentro."
+     ]
+    },
+    {
+     "e": "Cerrar",
+     "t": "Cierra la bolsa",
+     "items": [
+      "Abre la cremallera a medias. Enfrenta exterior con exterior y forro con forro. Cose todo el contorno dejando una abertura en el forro."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira y acaba",
+     "items": [
+      "Gira la bolsa por la abertura del forro, ciérrala con un pespunte y plancha la pieza."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Zip pouch · flat zipper pouch",
+   "materials": [
+    [
+     "Outer",
+     "2 pieces · 18 × 24 cm"
+    ],
+    [
+     "Lining",
+     "2 pieces · 18 × 24 cm"
+    ],
+    [
+     "Interfacing",
+     "2 pieces · optional"
+    ],
+    [
+     "Zip",
+     "Nylon coil · as per pattern"
+    ],
+    [
+     "Tabs",
+     "2 zip end tabs + 2 side loops"
+    ],
+    [
+     "Allowance",
+     "1 cm included in the pattern"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the pieces",
+     "items": [
+      "Cut 2 outer and 2 lining pieces of 18 × 24 cm. Also cut the small pieces for the zip tabs and side loops."
+     ]
+    },
+    {
+     "e": "Prep",
+     "t": "Prepare the zip",
+     "items": [
+      "Add the fabric tabs to both ends of the zip. Press well so they lie flat before you continue."
+     ]
+    },
+    {
+     "e": "Zip",
+     "t": "Sew the first side",
+     "items": [
+      "Place outer and zip right sides together. Add the lining to the other face of the zip and sew the three layers with the zipper foot."
+     ]
+    },
+    {
+     "e": "Repeat",
+     "t": "Repeat on the other side",
+     "items": [
+      "Attach the other outer and lining to the other side of the zip. Open the fabrics and topstitch close to the zip."
+     ]
+    },
+    {
+     "e": "Loops",
+     "t": "Add the loops",
+     "items": [
+      "Fold the small strips into loops and fix them to the sides, pointing inwards."
+     ]
+    },
+    {
+     "e": "Close",
+     "t": "Close the pouch",
+     "items": [
+      "Open the zip halfway. Face outer with outer and lining with lining. Sew all around leaving a gap in the lining."
+     ]
+    },
+    {
+     "e": "Turn",
+     "t": "Turn and finish",
+     "items": [
+      "Turn the pouch through the lining gap, close it with a line of stitching and press."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Zip Pouch · flaches Reissverschluss-Täschchen",
+   "materials": [
+    [
+     "Aussenstoff",
+     "2 Teile · 18 × 24 cm"
+    ],
+    [
+     "Futter",
+     "2 Teile · 18 × 24 cm"
+    ],
+    [
+     "Einlage",
+     "2 Teile · optional"
+    ],
+    [
+     "Reissverschluss",
+     "Nylon-Spirale · nach Schnitt"
+    ],
+    [
+     "Tabs",
+     "2 Reissverschluss-Enden + 2 seitliche Schlaufen"
+    ],
+    [
+     "Nahtzugabe",
+     "1 cm im Schnitt enthalten"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Teile zuschneiden",
+     "items": [
+      "Schneide 2 Aussen- und 2 Futterteile von 18 × 24 cm zu. Schneide auch die kleinen Teile für die Reissverschluss-Enden und die Seitenschlaufen."
+     ]
+    },
+    {
+     "e": "Vorbereiten",
+     "t": "Reissverschluss vorbereiten",
+     "items": [
+      "Nähe die Stoff-Enden an beide Seiten des Reissverschlusses. Gut bügeln, damit sie flach liegen."
+     ]
+    },
+    {
+     "e": "Reissverschluss",
+     "t": "Erste Seite nähen",
+     "items": [
+      "Aussenstoff und Reissverschluss rechts auf rechts legen. Futter auf die andere Seite des Reissverschlusses legen und die drei Lagen mit dem Reissverschlussfuss nähen."
+     ]
+    },
+    {
+     "e": "Wiederholen",
+     "t": "Auf der anderen Seite wiederholen",
+     "items": [
+      "Das zweite Aussen- und Futterteil an die andere Seite des Reissverschlusses nähen. Stoffe aufklappen und nah am Reissverschluss absteppen."
+     ]
+    },
+    {
+     "e": "Schlaufen",
+     "t": "Schlaufen anbringen",
+     "items": [
+      "Die kleinen Streifen zu Schlaufen falten und seitlich fixieren, nach innen zeigend."
+     ]
+    },
+    {
+     "e": "Schliessen",
+     "t": "Täschchen schliessen",
+     "items": [
+      "Reissverschluss halb öffnen. Aussen auf Aussen und Futter auf Futter legen. Rundum nähen und im Futter eine Wendeöffnung lassen."
+     ]
+    },
+    {
+     "e": "Wenden",
+     "t": "Wenden und fertigstellen",
+     "items": [
+      "Durch die Futteröffnung wenden, mit einer Naht schliessen und bügeln."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Zip pouch · pochette plate zippée",
+   "materials": [
+    [
+     "Extérieur",
+     "2 pièces · 18 × 24 cm"
+    ],
+    [
+     "Doublure",
+     "2 pièces · 18 × 24 cm"
+    ],
+    [
+     "Entoilage",
+     "2 pièces · optionnel"
+    ],
+    [
+     "Fermeture",
+     "Nylon · selon patron"
+    ],
+    [
+     "Embouts",
+     "2 embouts de fermeture + 2 passants latéraux"
+    ],
+    [
+     "Marge",
+     "1 cm inclus dans le patron"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe les pièces",
+     "items": [
+      "Coupe 2 pièces extérieures et 2 de doublure de 18 × 24 cm. Coupe aussi les petites pièces pour les embouts de fermeture et les passants."
+     ]
+    },
+    {
+     "e": "Préparer",
+     "t": "Prépare la fermeture",
+     "items": [
+      "Ajoute les embouts en tissu aux deux extrémités de la fermeture. Repasse bien pour qu’ils soient plats."
+     ]
+    },
+    {
+     "e": "Fermeture",
+     "t": "Monte le premier côté",
+     "items": [
+      "Place extérieur et fermeture endroit contre endroit. Ajoute la doublure sur l’autre face de la fermeture et couds les trois épaisseurs au pied fermeture."
+     ]
+    },
+    {
+     "e": "Répéter",
+     "t": "Répète de l’autre côté",
+     "items": [
+      "Monte l’autre extérieur et la doublure de l’autre côté de la fermeture. Ouvre les tissus et surpique près de la fermeture."
+     ]
+    },
+    {
+     "e": "Passants",
+     "t": "Ajoute les passants",
+     "items": [
+      "Plie les petites bandes pour former les passants et fixe-les sur les côtés, orientés vers l’intérieur."
+     ]
+    },
+    {
+     "e": "Fermer",
+     "t": "Ferme la pochette",
+     "items": [
+      "Ouvre la fermeture à moitié. Superpose extérieur contre extérieur et doublure contre doublure. Couds tout le tour en laissant une ouverture dans la doublure."
+     ]
+    },
+    {
+     "e": "Retourner",
+     "t": "Retourne et termine",
+     "items": [
+      "Retourne la pochette par l’ouverture de la doublure, referme-la d’une piqûre et repasse."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Zip pouch · astuccio piatto con cerniera",
+   "materials": [
+    [
+     "Esterno",
+     "2 pezzi · 18 × 24 cm"
+    ],
+    [
+     "Fodera",
+     "2 pezzi · 18 × 24 cm"
+    ],
+    [
+     "Interfodera",
+     "2 pezzi · opzionale"
+    ],
+    [
+     "Cerniera",
+     "In nylon · secondo il cartamodello"
+    ],
+    [
+     "Terminali",
+     "2 terminali per cerniera + 2 passanti laterali"
+    ],
+    [
+     "Margine",
+     "1 cm incluso nel cartamodello"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia i pezzi",
+     "items": [
+      "Taglia 2 pezzi esterni e 2 di fodera da 18 × 24 cm. Taglia anche i pezzi piccoli per i terminali della cerniera e i passanti laterali."
+     ]
+    },
+    {
+     "e": "Preparare",
+     "t": "Prepara la cerniera",
+     "items": [
+      "Aggiungi i terminali di stoffa alle due estremità della cerniera. Stira bene perché restino piatti."
+     ]
+    },
+    {
+     "e": "Cerniera",
+     "t": "Monta il primo lato",
+     "items": [
+      "Metti esterno e cerniera dritto contro dritto. Aggiungi la fodera sull’altra faccia della cerniera e cuci i tre strati con il piedino per cerniere."
+     ]
+    },
+    {
+     "e": "Ripetere",
+     "t": "Ripeti sull’altro lato",
+     "items": [
+      "Monta l’altro esterno e la fodera sull’altro lato della cerniera. Apri i tessuti e fai un’impuntura vicino alla cerniera."
+     ]
+    },
+    {
+     "e": "Passanti",
+     "t": "Aggiungi i passanti",
+     "items": [
+      "Piega le strisce piccole per formare i passanti e fissali ai lati, rivolti verso l’interno."
+     ]
+    },
+    {
+     "e": "Chiudere",
+     "t": "Chiudi l’astuccio",
+     "items": [
+      "Apri la cerniera a metà. Affronta esterno con esterno e fodera con fodera. Cuci tutto il contorno lasciando un’apertura nella fodera."
+     ]
+    },
+    {
+     "e": "Rivoltare",
+     "t": "Rivolta e finisci",
+     "items": [
+      "Rivolta l’astuccio dall’apertura della fodera, chiudila con un’impuntura e stira."
+     ]
+    }
+   ]
+  }
+ }
+}

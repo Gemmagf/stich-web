@@ -1,0 +1,56 @@
+[
+ {
+  "id": "s20260926",
+  "date": "2026-09-26",
+  "format": "sat",
+  "kits": [
+   "tote",
+   "toiletry",
+   "apron"
+  ],
+  "capacity": 6,
+  "seats": 6,
+  "status": "open",
+  "note": ""
+ },
+ {
+  "id": "s20261017",
+  "date": "2026-10-17",
+  "format": "short",
+  "kits": [
+   "glasses",
+   "mitts",
+   "lunch"
+  ],
+  "capacity": 6,
+  "seats": 4,
+  "status": "open",
+  "note": ""
+ },
+ {
+  "id": "s20261107",
+  "date": "2026-11-07",
+  "format": "sat",
+  "kits": [
+   "basic",
+   "laptop",
+   "cubes"
+  ],
+  "capacity": 6,
+  "seats": 6,
+  "status": "open",
+  "note": ""
+ },
+ {
+  "id": "s20261128",
+  "date": "2026-11-28",
+  "format": "long",
+  "kits": [
+   "backpack"
+  ],
+  "capacity": 6,
+  "seats": 5,
+  "status": "open",
+  "note": ""
+ }
+]

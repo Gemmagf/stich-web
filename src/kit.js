@@ -1,5 +1,5 @@
 /* ===== Kit page: catalogue info is public, the step guide unlocks after a (simulated) purchase. ===== */
-(function(){
+(async function(){
   const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
   const LOCALE={de:"de-CH",en:"en-GB",fr:"fr-CH",it:"it-CH",ca:"ca-ES",es:"es-ES"};
   const STEPBG=["#F6DDD7","#F7E6A8","#DCE7D8","#DDE5EF","#F5E4DA","#E8E1F0"];
@@ -8,8 +8,9 @@
   const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
   function detectLang(){try{const s=localStorage.getItem("stich-lang"); if(s&&LANGS.includes(s)) return s;}catch(e){} const nav=(navigator.languages||[navigator.language||""]).map(l=>l.slice(0,2).toLowerCase()); return nav.find(l=>LANGS.includes(l))||DEFAULT_LANG;}
   const id=new URLSearchParams(location.search).get("id");
+  const __D=await loadData({guide:id}); applyData(__D);
   const kit=KITS.find(k=>k.id===id)||KITS[0];
-  const guide=GUIDES[kit.id];
+  const guide=__D.guide;
   const dk=k=>k+"_"+((guide&&guide.defaults)||"default");
   const owned=()=>{try{return JSON.parse(localStorage.getItem("stich-owned")||"[]").includes(kit.id);}catch(e){return false;}};
   const setOwned=v=>{try{let a=JSON.parse(localStorage.getItem("stich-owned")||"[]"); a=a.filter(x=>x!==kit.id); if(v)a.push(kit.id); localStorage.setItem("stich-owned",JSON.stringify(a));}catch(e){}};

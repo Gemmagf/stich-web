@@ -1,0 +1,500 @@
+{
+ "badge": "KIT 13",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws",
+ "src": [
+  "Sewspiratrice",
+  "https://sewspiratrice.com/diy-foldable-shopping-tote-bag-free-pattern/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Bossa de la compra plegable",
+   "materials": [
+    [
+     "Tela",
+     "aprox. 1 m"
+    ],
+    [
+     "Patró",
+     "PDF gratuït de la font"
+    ],
+    [
+     "Butxaca",
+     "1 peça segons patró"
+    ],
+    [
+     "Cos",
+     "Peces segons patró"
+    ],
+    [
+     "Nanses",
+     "Integrades al patró"
+    ],
+    [
+     "Tancament",
+     "Sense peces metàl·liques"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla les peces",
+     "items": [
+      "Imprimeix el patró al 100% i talla totes les peces transferint les marques i piquets."
+     ]
+    },
+    {
+     "e": "Butxaca",
+     "t": "Prepara la butxaca",
+     "items": [
+      "Doblega la secció curta de la butxaca sobre la llarga, revés amb revés, i marca el plec amb la planxa."
+     ]
+    },
+    {
+     "e": "Vora",
+     "t": "Acaba la vora",
+     "items": [
+      "Doblega la vora superior curta 1 cm dues vegades i fes un repunt per formar un acabat net."
+     ]
+    },
+    {
+     "e": "Plegat",
+     "t": "Forma la butxaca de plegat",
+     "items": [
+      "Torna a plegar la butxaca sobre la marca inicial i cus segons les marques del patró."
+     ]
+    },
+    {
+     "e": "Cos",
+     "t": "Munta el cos de la bossa",
+     "items": [
+      "Uneix les peces principals, cosint laterals i base segons el tutorial. Remata els marges."
+     ]
+    },
+    {
+     "e": "Nanses",
+     "t": "Acaba les nanses",
+     "items": [
+      "Planxa i cus els marges de les nanses perquè quedin nets i resistents."
+     ]
+    },
+    {
+     "e": "Plegar",
+     "t": "Plega dins la butxaca",
+     "items": [
+      "Un cop acabada, gira i plega la bossa dins de la butxaca integrada."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Bolsa de la compra plegable",
+   "materials": [
+    [
+     "Tela",
+     "aprox. 1 m"
+    ],
+    [
+     "Patrón",
+     "PDF gratuito de la fuente"
+    ],
+    [
+     "Bolsillo",
+     "1 pieza según patrón"
+    ],
+    [
+     "Cuerpo",
+     "Piezas según patrón"
+    ],
+    [
+     "Asas",
+     "Integradas en el patrón"
+    ],
+    [
+     "Cierre",
+     "Sin piezas metálicas"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta las piezas",
+     "items": [
+      "Imprime el patrón al 100 % y corta todas las piezas transfiriendo marcas y piquetes."
+     ]
+    },
+    {
+     "e": "Bolsillo",
+     "t": "Prepara el bolsillo",
+     "items": [
+      "Dobla la sección corta del bolsillo sobre la larga, revés con revés, y marca el pliegue con la plancha."
+     ]
+    },
+    {
+     "e": "Dobladillo",
+     "t": "Acaba el borde",
+     "items": [
+      "Dobla el borde superior corto 1 cm dos veces y haz un pespunte para un acabado limpio."
+     ]
+    },
+    {
+     "e": "Plegado",
+     "t": "Forma el bolsillo de plegado",
+     "items": [
+      "Vuelve a plegar el bolsillo sobre la marca inicial y cose según las marcas del patrón."
+     ]
+    },
+    {
+     "e": "Cuerpo",
+     "t": "Monta el cuerpo de la bolsa",
+     "items": [
+      "Une las piezas principales, cosiendo laterales y base según el tutorial. Remata los márgenes."
+     ]
+    },
+    {
+     "e": "Asas",
+     "t": "Acaba las asas",
+     "items": [
+      "Plancha y cose los márgenes de las asas para que queden limpias y resistentes."
+     ]
+    },
+    {
+     "e": "Plegar",
+     "t": "Pliega dentro del bolsillo",
+     "items": [
+      "Una vez acabada, gira y pliega la bolsa dentro del bolsillo integrado."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Foldable shopping bag",
+   "materials": [
+    [
+     "Fabric",
+     "approx. 1 m"
+    ],
+    [
+     "Pattern",
+     "Free PDF from the source"
+    ],
+    [
+     "Pocket",
+     "1 piece as per pattern"
+    ],
+    [
+     "Body",
+     "Pieces as per pattern"
+    ],
+    [
+     "Handles",
+     "Built into the pattern"
+    ],
+    [
+     "Closure",
+     "No hardware"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the pieces",
+     "items": [
+      "Print the pattern at 100% and cut all the pieces, transferring marks and notches."
+     ]
+    },
+    {
+     "e": "Pocket",
+     "t": "Prepare the pocket",
+     "items": [
+      "Fold the short section of the pocket over the long one, wrong sides together, and press the fold."
+     ]
+    },
+    {
+     "e": "Hem",
+     "t": "Finish the edge",
+     "items": [
+      "Fold the short top edge 1 cm twice and topstitch for a clean finish."
+     ]
+    },
+    {
+     "e": "Fold",
+     "t": "Form the folding pocket",
+     "items": [
+      "Fold the pocket again on the first crease and sew following the pattern marks."
+     ]
+    },
+    {
+     "e": "Body",
+     "t": "Assemble the bag body",
+     "items": [
+      "Join the main pieces, sewing sides and base as in the tutorial. Finish the allowances."
+     ]
+    },
+    {
+     "e": "Handles",
+     "t": "Finish the handles",
+     "items": [
+      "Press and sew the handle allowances so they are neat and strong."
+     ]
+    },
+    {
+     "e": "Fold",
+     "t": "Fold into the pocket",
+     "items": [
+      "Once finished, turn and fold the bag into its built-in pocket."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Faltbarer Einkaufsbeutel",
+   "materials": [
+    [
+     "Stoff",
+     "ca. 1 m"
+    ],
+    [
+     "Schnitt",
+     "Gratis-PDF der Quelle"
+    ],
+    [
+     "Tasche",
+     "1 Teil nach Schnitt"
+    ],
+    [
+     "Körper",
+     "Teile nach Schnitt"
+    ],
+    [
+     "Henkel",
+     "Im Schnitt integriert"
+    ],
+    [
+     "Verschluss",
+     "Ohne Metallteile"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Teile zuschneiden",
+     "items": [
+      "Schnitt bei 100 % drucken und alle Teile zuschneiden, Markierungen und Knipse übertragen."
+     ]
+    },
+    {
+     "e": "Tasche",
+     "t": "Tasche vorbereiten",
+     "items": [
+      "Den kurzen Taschenteil links auf links über den langen falten und die Kante bügeln."
+     ]
+    },
+    {
+     "e": "Saum",
+     "t": "Kante fertigstellen",
+     "items": [
+      "Die kurze Oberkante zweimal 1 cm umschlagen und absteppen."
+     ]
+    },
+    {
+     "e": "Falten",
+     "t": "Falttasche formen",
+     "items": [
+      "Die Tasche wieder an der ersten Kante falten und nach den Schnittmarkierungen nähen."
+     ]
+    },
+    {
+     "e": "Körper",
+     "t": "Beutelkörper zusammensetzen",
+     "items": [
+      "Hauptteile verbinden, Seiten und Boden wie in der Anleitung nähen. Nahtzugaben versäubern."
+     ]
+    },
+    {
+     "e": "Henkel",
+     "t": "Henkel fertigstellen",
+     "items": [
+      "Nahtzugaben der Henkel bügeln und nähen, damit sie sauber und stabil sind."
+     ]
+    },
+    {
+     "e": "Falten",
+     "t": "In die Tasche falten",
+     "items": [
+      "Zum Schluss den Beutel wenden und in die integrierte Tasche falten."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac à provisions pliable",
+   "materials": [
+    [
+     "Tissu",
+     "env. 1 m"
+    ],
+    [
+     "Patron",
+     "PDF gratuit de la source"
+    ],
+    [
+     "Poche",
+     "1 pièce selon patron"
+    ],
+    [
+     "Corps",
+     "Pièces selon patron"
+    ],
+    [
+     "Anses",
+     "Intégrées au patron"
+    ],
+    [
+     "Fermeture",
+     "Sans pièces métalliques"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe les pièces",
+     "items": [
+      "Imprime le patron à 100 % et coupe toutes les pièces en reportant repères et crans."
+     ]
+    },
+    {
+     "e": "Poche",
+     "t": "Prépare la poche",
+     "items": [
+      "Plie la section courte de la poche sur la longue, envers contre envers, et marque le pli au fer."
+     ]
+    },
+    {
+     "e": "Ourlet",
+     "t": "Finis le bord",
+     "items": [
+      "Plie le bord supérieur court deux fois de 1 cm et surpique pour une finition nette."
+     ]
+    },
+    {
+     "e": "Pliage",
+     "t": "Forme la poche de pliage",
+     "items": [
+      "Replie la poche sur le premier pli et couds selon les repères du patron."
+     ]
+    },
+    {
+     "e": "Corps",
+     "t": "Monte le corps du sac",
+     "items": [
+      "Assemble les pièces principales, côtés et fond selon le tutoriel. Surfile les marges."
+     ]
+    },
+    {
+     "e": "Anses",
+     "t": "Finis les anses",
+     "items": [
+      "Repasse et couds les marges des anses pour qu’elles soient nettes et solides."
+     ]
+    },
+    {
+     "e": "Plier",
+     "t": "Plie dans la poche",
+     "items": [
+      "Une fois terminé, retourne et plie le sac dans sa poche intégrée."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Borsa della spesa pieghevole",
+   "materials": [
+    [
+     "Tessuto",
+     "circa 1 m"
+    ],
+    [
+     "Cartamodello",
+     "PDF gratuito della fonte"
+    ],
+    [
+     "Tasca",
+     "1 pezzo secondo cartamodello"
+    ],
+    [
+     "Corpo",
+     "Pezzi secondo cartamodello"
+    ],
+    [
+     "Manici",
+     "Integrati nel cartamodello"
+    ],
+    [
+     "Chiusura",
+     "Senza parti metalliche"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia i pezzi",
+     "items": [
+      "Stampa il cartamodello al 100% e taglia tutti i pezzi riportando segni e tacche."
+     ]
+    },
+    {
+     "e": "Tasca",
+     "t": "Prepara la tasca",
+     "items": [
+      "Piega la sezione corta della tasca sulla lunga, rovescio contro rovescio, e segna la piega con il ferro."
+     ]
+    },
+    {
+     "e": "Orlo",
+     "t": "Rifinisci il bordo",
+     "items": [
+      "Piega il bordo superiore corto di 1 cm due volte e fai un’impuntura per una finitura pulita."
+     ]
+    },
+    {
+     "e": "Piega",
+     "t": "Forma la tasca di ripiegatura",
+     "items": [
+      "Ripiega la tasca sulla prima piega e cuci seguendo i segni del cartamodello."
+     ]
+    },
+    {
+     "e": "Corpo",
+     "t": "Monta il corpo della borsa",
+     "items": [
+      "Unisci i pezzi principali cucendo lati e base come nel tutorial. Rifinisci i margini."
+     ]
+    },
+    {
+     "e": "Manici",
+     "t": "Rifinisci i manici",
+     "items": [
+      "Stira e cuci i margini dei manici perché siano puliti e resistenti."
+     ]
+    },
+    {
+     "e": "Piegare",
+     "t": "Ripiega nella tasca",
+     "items": [
+      "Una volta finita, rivolta e ripiega la borsa nella tasca integrata."
+     ]
+    }
+   ]
+  }
+ }
+}

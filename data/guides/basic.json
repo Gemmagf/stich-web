@@ -1,0 +1,305 @@
+{
+ "badge": "KIT 06",
+ "hours": 2,
+ "imgs": [
+  1,
+  2,
+  3
+ ],
+ "L": {
+  "ca": {
+   "title": "Bossa amb base",
+   "materials": [
+    [
+     "Interior",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Exterior",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Nanses",
+     "2 tires · 37 × 8 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Donem forma a les dues bosses",
+     "items": [
+      "Sobre una peça de 37 × 37 cm, alinea la tira de 15 × 108 cm a tres costats, cara bonica amb cara bonica.",
+      "Cus a 1 cm i remata amb zig-zag.",
+      "Afegeix l’altra peça de 37 × 37 cm.",
+      "Repeteix amb el folre, deixant un forat en un lateral per girar la bossa."
+     ],
+     "cap": "Pàgina 1 · cos de la bossa"
+    },
+    {
+     "t": "Fem les nanses",
+     "items": [
+      "Doblega cada tira per la meitat, amb la cara bonica a dins.",
+      "Cus el costat llarg i un costat curt.",
+      "Gira, planxa i fes un repunt de càrrega als dos costats llargs.",
+      "Marca el centre de la peça i situa les nanses a 5 cm a cada costat del centre."
+     ],
+     "cap": "Pàgina 2 · nanses"
+    },
+    {
+     "t": "Muntem la bossa",
+     "items": [
+      "Posa la bossa exterior dins la bossa interior, amb les cares boniques encarades.",
+      "Fes coincidir les costures i cus tot el contorn superior a 1 cm.",
+      "Gira pel forat del folre i tanca’l amb punt amagat.",
+      "Planxa i fes un repunt de càrrega a tot el contorn superior."
+     ],
+     "cap": "Pàgina 2–3 · muntatge"
+    }
+   ]
+  },
+  "es": {
+   "title": "Bolso con base",
+   "materials": [
+    [
+     "Interior",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Exterior",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Asas",
+     "2 tiras · 37 × 8 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Damos forma a las dos bolsas",
+     "items": [
+      "Sobre una pieza de 37 × 37 cm, alinea la tira de 15 × 108 cm en tres lados, derecho con derecho.",
+      "Cose a 1 cm y remata con zigzag.",
+      "Añade la otra pieza de 37 × 37 cm.",
+      "Repite con el forro, dejando un hueco en un lateral para girar el bolso."
+     ],
+     "cap": "Página 1 · cuerpo del bolso"
+    },
+    {
+     "t": "Hacemos las asas",
+     "items": [
+      "Dobla cada tira por la mitad, con el derecho hacia dentro.",
+      "Cose el lado largo y un lado corto.",
+      "Gira, plancha y haz un pespunte de carga en los dos lados largos.",
+      "Marca el centro de la pieza y sitúa las asas a 5 cm a cada lado del centro."
+     ],
+     "cap": "Página 2 · asas"
+    },
+    {
+     "t": "Montamos el bolso",
+     "items": [
+      "Mete el bolso exterior dentro del interior, con los derechos enfrentados.",
+      "Haz coincidir las costuras y cose todo el contorno superior a 1 cm.",
+      "Gira por el hueco del forro y ciérralo con punto invisible.",
+      "Plancha y haz un pespunte de carga en todo el contorno superior."
+     ],
+     "cap": "Página 2–3 · montaje"
+    }
+   ]
+  },
+  "en": {
+   "title": "Basic bag",
+   "materials": [
+    [
+     "Lining",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Outer",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Handles",
+     "2 strips · 37 × 8 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Shape the two bags",
+     "items": [
+      "On one 37 × 37 cm piece, align the 15 × 108 cm strip along three sides, right sides together.",
+      "Sew at 1 cm and finish with a zigzag.",
+      "Add the other 37 × 37 cm piece.",
+      "Repeat with the lining, leaving a gap in one side to turn the bag."
+     ],
+     "cap": "Page 1 · bag body"
+    },
+    {
+     "t": "Make the handles",
+     "items": [
+      "Fold each strip in half, right side inside.",
+      "Sew the long side and one short side.",
+      "Turn, press and topstitch both long sides.",
+      "Mark the centre of the piece and place the handles 5 cm either side of it."
+     ],
+     "cap": "Page 2 · handles"
+    },
+    {
+     "t": "Assemble the bag",
+     "items": [
+      "Put the outer bag inside the lining bag, right sides facing.",
+      "Match the seams and sew all around the top at 1 cm.",
+      "Turn through the gap in the lining and close it with a slip stitch.",
+      "Press and topstitch all around the top."
+     ],
+     "cap": "Page 2–3 · assembly"
+    }
+   ]
+  },
+  "de": {
+   "title": "Basic-Tasche",
+   "materials": [
+    [
+     "Futter",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Aussenstoff",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Henkel",
+     "2 Streifen · 37 × 8 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Die beiden Taschen formen",
+     "items": [
+      "Lege den Streifen 15 × 108 cm rechts auf rechts an drei Seiten eines 37 × 37 cm Teils an.",
+      "Nähe bei 1 cm und versäubere mit Zickzack.",
+      "Setze das zweite 37 × 37 cm Teil an.",
+      "Wiederhole das mit dem Futter und lass an einer Seite eine Wendeöffnung."
+     ],
+     "cap": "Seite 1 · Taschenkörper"
+    },
+    {
+     "t": "Henkel nähen",
+     "items": [
+      "Falte jeden Streifen zur Hälfte, rechte Seite innen.",
+      "Nähe die lange Seite und eine kurze Seite.",
+      "Wende, bügle und steppe beide langen Seiten ab.",
+      "Markiere die Mitte des Teils und setze die Henkel 5 cm links und rechts davon."
+     ],
+     "cap": "Seite 2 · Henkel"
+    },
+    {
+     "t": "Tasche zusammensetzen",
+     "items": [
+      "Stecke die Aussentasche rechts auf rechts in die Futtertasche.",
+      "Lege die Nähte aufeinander und nähe die Oberkante rundum bei 1 cm.",
+      "Wende durch die Futteröffnung und schliesse sie mit dem Matratzenstich.",
+      "Bügle und steppe die Oberkante rundum ab."
+     ],
+     "cap": "Seite 2–3 · Montage"
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac de base",
+   "materials": [
+    [
+     "Doublure",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Extérieur",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Anses",
+     "2 bandes · 37 × 8 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Former les deux sacs",
+     "items": [
+      "Sur une pièce de 37 × 37 cm, aligne la bande de 15 × 108 cm sur trois côtés, endroit contre endroit.",
+      "Couds à 1 cm et surfile au zigzag.",
+      "Ajoute l’autre pièce de 37 × 37 cm.",
+      "Répète avec la doublure en laissant une ouverture sur un côté pour retourner."
+     ],
+     "cap": "Page 1 · corps du sac"
+    },
+    {
+     "t": "Faire les anses",
+     "items": [
+      "Plie chaque bande en deux, endroit à l’intérieur.",
+      "Couds le grand côté et un petit côté.",
+      "Retourne, repasse et surpique les deux grands côtés.",
+      "Marque le centre de la pièce et place les anses à 5 cm de chaque côté du centre."
+     ],
+     "cap": "Page 2 · anses"
+    },
+    {
+     "t": "Monter le sac",
+     "items": [
+      "Glisse le sac extérieur dans le sac doublure, endroit contre endroit.",
+      "Fais coïncider les coutures et couds tout le tour du haut à 1 cm.",
+      "Retourne par l’ouverture de la doublure et referme-la au point invisible.",
+      "Repasse et surpique tout le tour du haut."
+     ],
+     "cap": "Page 2–3 · montage"
+    }
+   ]
+  },
+  "it": {
+   "title": "Borsa base",
+   "materials": [
+    [
+     "Fodera",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Esterno",
+     "2 × 37 × 37 cm · 1 × 15 × 108 cm"
+    ],
+    [
+     "Manici",
+     "2 strisce · 37 × 8 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Diamo forma alle due borse",
+     "items": [
+      "Su un pezzo di 37 × 37 cm, allinea la striscia di 15 × 108 cm su tre lati, dritto contro dritto.",
+      "Cuci a 1 cm e rifinisci con zigzag.",
+      "Aggiungi l’altro pezzo di 37 × 37 cm.",
+      "Ripeti con la fodera lasciando un’apertura su un lato per rivoltare."
+     ],
+     "cap": "Pagina 1 · corpo della borsa"
+    },
+    {
+     "t": "Facciamo i manici",
+     "items": [
+      "Piega ogni striscia a metà, con il dritto all’interno.",
+      "Cuci il lato lungo e un lato corto.",
+      "Rivolta, stira e fai un’impuntura sui due lati lunghi.",
+      "Segna il centro del pezzo e posiziona i manici a 5 cm da ogni lato del centro."
+     ],
+     "cap": "Pagina 2 · manici"
+    },
+    {
+     "t": "Montiamo la borsa",
+     "items": [
+      "Infila la borsa esterna in quella interna, dritto contro dritto.",
+      "Fai combaciare le cuciture e cuci tutto il bordo superiore a 1 cm.",
+      "Rivolta dall’apertura della fodera e chiudila con punto invisibile.",
+      "Stira e fai un’impuntura su tutto il bordo superiore."
+     ],
+     "cap": "Pagina 2–3 · montaggio"
+    }
+   ]
+  }
+ }
+}

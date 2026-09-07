@@ -2,6 +2,13 @@
 # Builds index.html (standalone, self-contained) from src/
 set -e
 cd "$(dirname "$0")"
+# JSON data inlined as fallback (see src/data.js)
+node -e '
+const fs=require("fs");const r=f=>JSON.parse(fs.readFileSync(f,"utf8"));
+const guides={};for(const f of fs.readdirSync("data/guides"))guides[f.replace(".json","")]=r("data/guides/"+f);
+fs.writeFileSync("src/_inline-site.js","const __INLINE="+JSON.stringify({kits:r("data/kits.json"),sessions:r("data/sessions.json"),settings:r("data/settings.json")})+";\n");
+fs.writeFileSync("src/_inline-kit.js","const __INLINE="+JSON.stringify({kits:r("data/kits.json"),sessions:r("data/sessions.json"),settings:r("data/settings.json"),guides})+";\n");
+'
 FONTS='<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet">'
 {
   echo '<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -22,7 +29,7 @@ def sub(m):
     return re.sub(r"\n\s*"," ",svg)
 print(re.sub(r"<!--picto:([^>]+)-->",sub,body),end="")
 PYEOF
-  echo '<script>'; cat src/i18n.js src/kits.js src/icons.js src/app.js; echo '</script>'
+  echo '<script>'; cat src/i18n.js src/_inline-site.js src/data.js src/icons.js src/app.js; echo '</script>'
   echo '</body></html>'
 } > index.html
 {
@@ -31,7 +38,16 @@ PYEOF
   echo "$FONTS"
   echo '<style>'; cat src/styles.css; echo '</style></head><body>'
   cat src/kit-body.html
-  echo '<script>'; cat src/i18n.js src/kits.js src/icons.js src/guides-a.js src/guides-b.js src/guides-c.js src/guides-d.js src/guides-e.js src/kit.js; echo '</script>'
+  echo '<script>'; cat src/i18n.js src/_inline-kit.js src/data.js src/icons.js src/kit.js; echo '</script>'
   echo '</body></html>'
 } > kit.html
-echo "built index.html ($(wc -c < index.html) bytes) and kit.html ($(wc -c < kit.html) bytes)"
+{
+  echo '<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+  echo '<title>STICH · Administració</title><meta name="robots" content="noindex,nofollow">'
+  echo "$FONTS"
+  echo '<style>'; cat src/styles.css; echo '</style></head><body>'
+  cat src/admin-body.html
+  echo '<script>'; cat src/admin.js; echo '</script>'
+  echo '</body></html>'
+} > admin.html
+echo "built index.html ($(wc -c < index.html) bytes), kit.html ($(wc -c < kit.html) bytes), admin.html ($(wc -c < admin.html) bytes)"

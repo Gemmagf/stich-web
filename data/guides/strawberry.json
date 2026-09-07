@@ -1,0 +1,347 @@
+{
+ "badge": "KIT 05",
+ "hours": 1.5,
+ "imgs": [
+  1,
+  2,
+  3
+ ],
+ "L": {
+  "ca": {
+   "title": "Bossa maduixa / bossa per mudes",
+   "materials": [
+    [
+     "Cos de la bossa",
+     "2 peces · 65 × 55 cm"
+    ],
+    [
+     "Peça maduixa",
+     "1 peça · 17 × 17 cm"
+    ],
+    [
+     "Tires",
+     "2 tires · 6 × 16 cm"
+    ],
+    [
+     "Cordonet",
+     "50 cm"
+    ],
+    [
+     "Fre",
+     "1 unitat"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Calquem el patró",
+     "items": [
+      "Posa les dues teles encarades.",
+      "Calca el patró al revés de la tela.",
+      "Retalla les dues capes seguint la línia del patró."
+     ],
+     "cap": "Pàgina 1 · patró"
+    },
+    {
+     "t": "Fem la maduixeta",
+     "items": [
+      "Fes un doble plec als extrems de les tires de 6 cm i fixa’l amb un repunt.",
+      "Doblega les tires per la meitat al llarg, cara bonica a fora, i fixa amb zig-zag.",
+      "Fes un plec d’1 cm al costat llarg dels triangles.",
+      "Col·loca triangle i tira a una punta inferior de cada cos, mirant que coincideixin quan encaris les dues teles."
+     ],
+     "cap": "Pàgina 1 · maduixeta"
+    },
+    {
+     "t": "Cosim la bossa",
+     "items": [
+      "Encara les dues teles, cara bonica amb cara bonica.",
+      "Cus laterals i nanses amb repunt i zig-zag.",
+      "Col·loca el biaix al voltant de les nanses en dos passos: primer pel revés i després per la cara bonica.",
+      "Passa el cordonet per les tires amb una agulla imperdible i afegeix el fre."
+     ],
+     "cap": "Pàgina 2 · muntatge final"
+    }
+   ]
+  },
+  "es": {
+   "title": "Bolsa fresa / bolsa para mudas",
+   "materials": [
+    [
+     "Cuerpo de la bolsa",
+     "2 piezas · 65 × 55 cm"
+    ],
+    [
+     "Pieza fresa",
+     "1 pieza · 17 × 17 cm"
+    ],
+    [
+     "Tiras",
+     "2 tiras · 6 × 16 cm"
+    ],
+    [
+     "Cordón",
+     "50 cm"
+    ],
+    [
+     "Tope",
+     "1 unidad"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Calcamos el patrón",
+     "items": [
+      "Enfrenta las dos telas.",
+      "Calca el patrón en el revés de la tela.",
+      "Recorta las dos capas siguiendo la línea del patrón."
+     ],
+     "cap": "Página 1 · patrón"
+    },
+    {
+     "t": "Hacemos la fresita",
+     "items": [
+      "Haz un doble pliegue en los extremos de las tiras de 6 cm y fíjalo con un pespunte.",
+      "Dobla las tiras por la mitad a lo largo, derecho hacia fuera, y fija con zigzag.",
+      "Haz un pliegue de 1 cm en el lado largo de los triángulos.",
+      "Coloca triángulo y tira en una punta inferior de cada cuerpo, comprobando que coincidan al enfrentar las dos telas."
+     ],
+     "cap": "Página 1 · fresita"
+    },
+    {
+     "t": "Cosemos la bolsa",
+     "items": [
+      "Enfrenta las dos telas, derecho con derecho.",
+      "Cose laterales y asas con pespunte y zigzag.",
+      "Coloca el bies alrededor de las asas en dos pasos: primero por el revés y después por el derecho.",
+      "Pasa el cordón por las tiras con un imperdible y añade el tope."
+     ],
+     "cap": "Página 2 · montaje final"
+    }
+   ]
+  },
+  "en": {
+   "title": "Strawberry bag / spare-clothes bag",
+   "materials": [
+    [
+     "Bag body",
+     "2 pieces · 65 × 55 cm"
+    ],
+    [
+     "Strawberry piece",
+     "1 piece · 17 × 17 cm"
+    ],
+    [
+     "Strips",
+     "2 strips · 6 × 16 cm"
+    ],
+    [
+     "Cord",
+     "50 cm"
+    ],
+    [
+     "Cord stopper",
+     "1"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Trace the pattern",
+     "items": [
+      "Put the two fabrics facing each other.",
+      "Trace the pattern on the wrong side of the fabric.",
+      "Cut both layers following the pattern line."
+     ],
+     "cap": "Page 1 · pattern"
+    },
+    {
+     "t": "Make the little strawberry",
+     "items": [
+      "Double-fold the ends of the 6 cm strips and fix with a line of stitching.",
+      "Fold the strips in half lengthwise, right side out, and fix with a zigzag.",
+      "Fold 1 cm along the long side of the triangles.",
+      "Place triangle and strip at a lower corner of each body so they match when you face the two fabrics."
+     ],
+     "cap": "Page 1 · strawberry"
+    },
+    {
+     "t": "Sew the bag",
+     "items": [
+      "Face the two fabrics, right sides together.",
+      "Sew sides and handles with a straight stitch and a zigzag.",
+      "Bind the handles in two passes: first from the wrong side, then from the right side.",
+      "Thread the cord through the strips with a safety pin and add the stopper."
+     ],
+     "cap": "Page 2 · final assembly"
+    }
+   ]
+  },
+  "de": {
+   "title": "Erdbeer-Beutel / Wäschebeutel",
+   "materials": [
+    [
+     "Beutelkörper",
+     "2 Teile · 65 × 55 cm"
+    ],
+    [
+     "Erdbeerteil",
+     "1 Teil · 17 × 17 cm"
+    ],
+    [
+     "Streifen",
+     "2 Streifen · 6 × 16 cm"
+    ],
+    [
+     "Kordel",
+     "50 cm"
+    ],
+    [
+     "Kordelstopper",
+     "1 Stück"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Schnitt übertragen",
+     "items": [
+      "Lege die beiden Stoffe aufeinander.",
+      "Übertrage den Schnitt auf die linke Stoffseite.",
+      "Schneide beide Lagen entlang der Schnittlinie zu."
+     ],
+     "cap": "Seite 1 · Schnitt"
+    },
+    {
+     "t": "Die kleine Erdbeere nähen",
+     "items": [
+      "Die Enden der 6-cm-Streifen doppelt einschlagen und mit einer Naht fixieren.",
+      "Die Streifen der Länge nach falten, rechte Seite aussen, und mit Zickzack fixieren.",
+      "An der langen Seite der Dreiecke 1 cm einschlagen.",
+      "Dreieck und Streifen an eine untere Ecke jedes Körpers setzen, so dass sie beim Aufeinanderlegen zusammenpassen."
+     ],
+     "cap": "Seite 1 · Erdbeere"
+    },
+    {
+     "t": "Beutel nähen",
+     "items": [
+      "Die beiden Stoffe rechts auf rechts legen.",
+      "Seiten und Henkel mit Geradstich und Zickzack nähen.",
+      "Die Henkel in zwei Durchgängen einfassen: erst von links, dann von rechts.",
+      "Die Kordel mit einer Sicherheitsnadel durch die Streifen ziehen und den Stopper anbringen."
+     ],
+     "cap": "Seite 2 · Endmontage"
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac fraise / sac à rechange",
+   "materials": [
+    [
+     "Corps du sac",
+     "2 pièces · 65 × 55 cm"
+    ],
+    [
+     "Pièce fraise",
+     "1 pièce · 17 × 17 cm"
+    ],
+    [
+     "Bandes",
+     "2 bandes · 6 × 16 cm"
+    ],
+    [
+     "Cordelette",
+     "50 cm"
+    ],
+    [
+     "Stop-cordon",
+     "1"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Décalquer le patron",
+     "items": [
+      "Superpose les deux tissus.",
+      "Décalque le patron sur l’envers du tissu.",
+      "Découpe les deux épaisseurs en suivant la ligne du patron."
+     ],
+     "cap": "Page 1 · patron"
+    },
+    {
+     "t": "Faire la petite fraise",
+     "items": [
+      "Fais un double repli aux extrémités des bandes de 6 cm et fixe-le d’une piqûre.",
+      "Plie les bandes en deux dans la longueur, endroit dehors, et fixe au zigzag.",
+      "Fais un repli de 1 cm sur le grand côté des triangles.",
+      "Place triangle et bande à un coin inférieur de chaque corps, en vérifiant qu’ils coïncident quand tu superposes les tissus."
+     ],
+     "cap": "Page 1 · fraise"
+    },
+    {
+     "t": "Coudre le sac",
+     "items": [
+      "Superpose les deux tissus endroit contre endroit.",
+      "Couds les côtés et les anses au point droit puis au zigzag.",
+      "Pose le biais autour des anses en deux temps : d’abord sur l’envers, puis sur l’endroit.",
+      "Passe la cordelette dans les bandes avec une épingle à nourrice et ajoute le stop-cordon."
+     ],
+     "cap": "Page 2 · montage final"
+    }
+   ]
+  },
+  "it": {
+   "title": "Borsa fragola / sacca per il cambio",
+   "materials": [
+    [
+     "Corpo della borsa",
+     "2 pezzi · 65 × 55 cm"
+    ],
+    [
+     "Pezzo fragola",
+     "1 pezzo · 17 × 17 cm"
+    ],
+    [
+     "Strisce",
+     "2 strisce · 6 × 16 cm"
+    ],
+    [
+     "Cordoncino",
+     "50 cm"
+    ],
+    [
+     "Fermacorda",
+     "1"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Ricalchiamo il cartamodello",
+     "items": [
+      "Affronta i due tessuti.",
+      "Ricalca il cartamodello sul rovescio del tessuto.",
+      "Taglia i due strati seguendo la linea del cartamodello."
+     ],
+     "cap": "Pagina 1 · cartamodello"
+    },
+    {
+     "t": "Facciamo la fragolina",
+     "items": [
+      "Fai una doppia piega alle estremità delle strisce da 6 cm e fissala con un’impuntura.",
+      "Piega le strisce a metà per il lungo, dritto all’esterno, e fissa con zigzag.",
+      "Fai una piega di 1 cm sul lato lungo dei triangoli.",
+      "Posiziona triangolo e striscia in un angolo inferiore di ogni corpo, controllando che combacino quando affronti i tessuti."
+     ],
+     "cap": "Pagina 1 · fragolina"
+    },
+    {
+     "t": "Cuciamo la borsa",
+     "items": [
+      "Affronta i due tessuti, dritto contro dritto.",
+      "Cuci lati e manici con punto dritto e zigzag.",
+      "Applica lo sbieco intorno ai manici in due passaggi: prima dal rovescio, poi dal dritto.",
+      "Infila il cordoncino nelle strisce con una spilla da balia e aggiungi il fermacorda."
+     ],
+     "cap": "Pagina 2 · montaggio finale"
+    }
+   ]
+  }
+ }
+}

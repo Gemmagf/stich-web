@@ -1,0 +1,457 @@
+{
+ "badge": "KIT 17",
+ "hours": 4,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "SewCanShe",
+  "https://sewcanshe.com/sew-a-diy-casserole-carrier-free-pattern-with-insulated-batting/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Funda porta-cassoles i pastissos",
+   "materials": [
+    [
+     "Exterior",
+     "1 rectangle · aprox. 46 × 76 cm"
+    ],
+    [
+     "Folre",
+     "1 rectangle · aprox. 46 × 76 cm"
+    ],
+    [
+     "Guata tèrmica",
+     "1 rectangle · aprox. 46 × 76 cm"
+    ],
+    [
+     "Tires",
+     "2 × 13 × 100 cm"
+    ],
+    [
+     "Opcional",
+     "Snap o velcro"
+    ],
+    [
+     "Peça final",
+     "aprox. 43 × 33 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Sandvitx",
+     "t": "Munta el panell",
+     "items": [
+      "Encara exterior i folre i posa la guata tèrmica a sobre. Cus el contorn deixant una obertura de gir."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira i repunta",
+     "items": [
+      "Retalla cantonades, gira, planxa i fes un repunt al voltant per tancar l’obertura."
+     ]
+    },
+    {
+     "e": "Tires",
+     "t": "Prepara les tires",
+     "items": [
+      "Doblega cada tira com un biaix llarg, uneix els extrems si cal i repunta els dos costats."
+     ]
+    },
+    {
+     "e": "Col·locar",
+     "t": "Posiciona les nanses",
+     "items": [
+      "Col·loca les tires sobre el panell segons les marques, dividint-lo en terços, i reforça-les amb rectangles de costura."
+     ]
+    },
+    {
+     "e": "Formar",
+     "t": "Forma el porta-cassoles",
+     "items": [
+      "Plega les solapes laterals seguint el tutorial i reforça els punts on s’uneixen."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Tancament",
+     "items": [
+      "Afegeix snap o velcro opcional. Utilitza guata específica per a ús tèrmic i segueix les instruccions del fabricant."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Funda para cazuelas y pasteles",
+   "materials": [
+    [
+     "Exterior",
+     "1 rectángulo · aprox. 46 × 76 cm"
+    ],
+    [
+     "Forro",
+     "1 rectángulo · aprox. 46 × 76 cm"
+    ],
+    [
+     "Guata térmica",
+     "1 rectángulo · aprox. 46 × 76 cm"
+    ],
+    [
+     "Tiras",
+     "2 × 13 × 100 cm"
+    ],
+    [
+     "Opcional",
+     "Snap o velcro"
+    ],
+    [
+     "Pieza final",
+     "aprox. 43 × 33 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Sándwich",
+     "t": "Monta el panel",
+     "items": [
+      "Enfrenta exterior y forro y pon la guata térmica encima. Cose el contorno dejando una abertura para girar."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira y pespuntea",
+     "items": [
+      "Recorta esquinas, gira, plancha y pespuntea alrededor para cerrar la abertura."
+     ]
+    },
+    {
+     "e": "Tiras",
+     "t": "Prepara las tiras",
+     "items": [
+      "Dobla cada tira como un bies largo, une los extremos si hace falta y pespuntea los dos lados."
+     ]
+    },
+    {
+     "e": "Colocar",
+     "t": "Posiciona las asas",
+     "items": [
+      "Coloca las tiras sobre el panel según las marcas, dividiéndolo en tercios, y refuérzalas con rectángulos de costura."
+     ]
+    },
+    {
+     "e": "Formar",
+     "t": "Forma el porta-cazuelas",
+     "items": [
+      "Pliega las solapas laterales siguiendo el tutorial y refuerza los puntos de unión."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Cierre",
+     "items": [
+      "Añade snap o velcro opcional. Usa guata específica para uso térmico y sigue las instrucciones del fabricante."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Casserole & cake carrier",
+   "materials": [
+    [
+     "Outer",
+     "1 rectangle · approx. 46 × 76 cm"
+    ],
+    [
+     "Lining",
+     "1 rectangle · approx. 46 × 76 cm"
+    ],
+    [
+     "Thermal batting",
+     "1 rectangle · approx. 46 × 76 cm"
+    ],
+    [
+     "Straps",
+     "2 × 13 × 100 cm"
+    ],
+    [
+     "Optional",
+     "Snap or velcro"
+    ],
+    [
+     "Finished piece",
+     "approx. 43 × 33 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Sandwich",
+     "t": "Assemble the panel",
+     "items": [
+      "Face outer and lining and lay the thermal batting on top. Sew around leaving a gap to turn."
+     ]
+    },
+    {
+     "e": "Turn",
+     "t": "Turn and topstitch",
+     "items": [
+      "Trim the corners, turn, press and topstitch around to close the gap."
+     ]
+    },
+    {
+     "e": "Straps",
+     "t": "Prepare the straps",
+     "items": [
+      "Fold each strap like long binding, join the ends if needed and topstitch both sides."
+     ]
+    },
+    {
+     "e": "Place",
+     "t": "Position the handles",
+     "items": [
+      "Place the straps on the panel following the marks, dividing it in thirds, and reinforce with stitched rectangles."
+     ]
+    },
+    {
+     "e": "Form",
+     "t": "Form the carrier",
+     "items": [
+      "Fold the side flaps as in the tutorial and reinforce the points where they meet."
+     ]
+    },
+    {
+     "e": "Finish",
+     "t": "Closure",
+     "items": [
+      "Add an optional snap or velcro. Use batting made for heat and follow the manufacturer's instructions."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Topf- & Kuchentasche",
+   "materials": [
+    [
+     "Aussenstoff",
+     "1 Rechteck · ca. 46 × 76 cm"
+    ],
+    [
+     "Futter",
+     "1 Rechteck · ca. 46 × 76 cm"
+    ],
+    [
+     "Thermovlies",
+     "1 Rechteck · ca. 46 × 76 cm"
+    ],
+    [
+     "Bänder",
+     "2 × 13 × 100 cm"
+    ],
+    [
+     "Optional",
+     "Druckknopf oder Klett"
+    ],
+    [
+     "Fertiges Teil",
+     "ca. 43 × 33 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Sandwich",
+     "t": "Panel zusammensetzen",
+     "items": [
+      "Aussenstoff und Futter aufeinanderlegen und das Thermovlies darauf. Rundum nähen und eine Wendeöffnung lassen."
+     ]
+    },
+    {
+     "e": "Wenden",
+     "t": "Wenden und absteppen",
+     "items": [
+      "Ecken kürzen, wenden, bügeln und rundum absteppen, um die Öffnung zu schliessen."
+     ]
+    },
+    {
+     "e": "Bänder",
+     "t": "Bänder vorbereiten",
+     "items": [
+      "Jedes Band wie ein langes Einfassband falten, bei Bedarf die Enden verbinden und beide Seiten absteppen."
+     ]
+    },
+    {
+     "e": "Platzieren",
+     "t": "Griffe platzieren",
+     "items": [
+      "Die Bänder nach den Markierungen auf das Panel legen, es in Drittel teilen, und mit Steppnaht-Rechtecken verstärken."
+     ]
+    },
+    {
+     "e": "Formen",
+     "t": "Tasche formen",
+     "items": [
+      "Die seitlichen Klappen nach Tutorial falten und die Treffpunkte verstärken."
+     ]
+    },
+    {
+     "e": "Fertigstellen",
+     "t": "Verschluss",
+     "items": [
+      "Optional Druckknopf oder Klett anbringen. Hitzegeeignetes Vlies verwenden und die Herstellerangaben beachten."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac à plat et à gâteau",
+   "materials": [
+    [
+     "Extérieur",
+     "1 rectangle · env. 46 × 76 cm"
+    ],
+    [
+     "Doublure",
+     "1 rectangle · env. 46 × 76 cm"
+    ],
+    [
+     "Molleton thermique",
+     "1 rectangle · env. 46 × 76 cm"
+    ],
+    [
+     "Bandes",
+     "2 × 13 × 100 cm"
+    ],
+    [
+     "Optionnel",
+     "Pression ou velcro"
+    ],
+    [
+     "Pièce finie",
+     "env. 43 × 33 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Sandwich",
+     "t": "Monte le panneau",
+     "items": [
+      "Superpose extérieur et doublure et pose le molleton thermique dessus. Couds le tour en laissant une ouverture."
+     ]
+    },
+    {
+     "e": "Retourner",
+     "t": "Retourne et surpique",
+     "items": [
+      "Recoupe les coins, retourne, repasse et surpique le tour pour fermer l’ouverture."
+     ]
+    },
+    {
+     "e": "Bandes",
+     "t": "Prépare les bandes",
+     "items": [
+      "Plie chaque bande comme un long biais, assemble les extrémités si besoin et surpique les deux côtés."
+     ]
+    },
+    {
+     "e": "Placer",
+     "t": "Positionne les anses",
+     "items": [
+      "Place les bandes sur le panneau selon les repères, en le divisant en tiers, et renforce par des rectangles de piqûre."
+     ]
+    },
+    {
+     "e": "Former",
+     "t": "Forme le sac",
+     "items": [
+      "Plie les rabats latéraux selon le tutoriel et renforce les points de jonction."
+     ]
+    },
+    {
+     "e": "Finir",
+     "t": "Fermeture",
+     "items": [
+      "Ajoute une pression ou un velcro en option. Utilise un molleton conçu pour la chaleur et suis les indications du fabricant."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Porta-teglie e torte",
+   "materials": [
+    [
+     "Esterno",
+     "1 rettangolo · circa 46 × 76 cm"
+    ],
+    [
+     "Fodera",
+     "1 rettangolo · circa 46 × 76 cm"
+    ],
+    [
+     "Imbottitura termica",
+     "1 rettangolo · circa 46 × 76 cm"
+    ],
+    [
+     "Strisce",
+     "2 × 13 × 100 cm"
+    ],
+    [
+     "Opzionale",
+     "Bottone automatico o velcro"
+    ],
+    [
+     "Pezzo finito",
+     "circa 43 × 33 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Sandwich",
+     "t": "Monta il pannello",
+     "items": [
+      "Affronta esterno e fodera e metti sopra l’imbottitura termica. Cuci il contorno lasciando un’apertura per rivoltare."
+     ]
+    },
+    {
+     "e": "Rivoltare",
+     "t": "Rivolta e impuntura",
+     "items": [
+      "Rifila gli angoli, rivolta, stira e fai un’impuntura intorno per chiudere l’apertura."
+     ]
+    },
+    {
+     "e": "Strisce",
+     "t": "Prepara le strisce",
+     "items": [
+      "Piega ogni striscia come uno sbieco lungo, unisci le estremità se serve e impuntura i due lati."
+     ]
+    },
+    {
+     "e": "Posizionare",
+     "t": "Posiziona i manici",
+     "items": [
+      "Metti le strisce sul pannello seguendo i segni, dividendolo in terzi, e rinforza con rettangoli di cucitura."
+     ]
+    },
+    {
+     "e": "Formare",
+     "t": "Forma il porta-teglie",
+     "items": [
+      "Piega le alette laterali seguendo il tutorial e rinforza i punti in cui si uniscono."
+     ]
+    },
+    {
+     "e": "Finire",
+     "t": "Chiusura",
+     "items": [
+      "Aggiungi bottone automatico o velcro opzionale. Usa un’imbottitura specifica per il calore e segui le istruzioni del produttore."
+     ]
+    }
+   ]
+  }
+ }
+}

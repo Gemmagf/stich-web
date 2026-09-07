@@ -1,5 +1,6 @@
 /* ===== App ===== */
-(function(){
+(async function(){
+  const __D=await loadData(); applyData(__D);
   const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
   const LOCALE={de:"de-CH",en:"en-GB",fr:"fr-CH",it:"it-CH",ca:"ca-ES",es:"es-ES"};
 
@@ -38,11 +39,10 @@
   function setLang(l){lang=LANGS.includes(l)?l:DEFAULT_LANG; try{localStorage.setItem("stich-lang",lang);}catch(e){} applyI18n();}
 
   /* --- catalogue --- */
-  const FEATURED=["tote","toiletry","apron","basic"];
   let showAll=false;
   const filter={format:"all",level:"all"};
   function renderGrid(){
-    const grid=$("#grid"); const shown=showAll?KITS.filter(k=>(filter.format==="all"||k.format===filter.format)&&(filter.level==="all"||String(k.level)===filter.level)):FEATURED.map(id=>KITS.find(k=>k.id===id));
+    const grid=$("#grid"); const shown=showAll?KITS.filter(k=>(filter.format==="all"||k.format===filter.format)&&(filter.level==="all"||String(k.level)===filter.level)):FEATURED.map(id=>KITS.find(k=>k.id===id)).filter(Boolean);
     $("#filters").hidden=!showAll; const tb=$("#toggle-all"); tb.setAttribute("aria-expanded",String(showAll)); tb.querySelector("span").textContent=t(showAll?"kits_less":"kits_all");
     grid.innerHTML=shown.map(k=>{
       const f=FORMATS[k.format], d=nextDateFor(k.id);

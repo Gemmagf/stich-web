@@ -1,0 +1,25 @@
+{
+ "email": "hallo@stich-zuerich.ch",
+ "kitPrice": 32,
+ "formats": {
+  "short": {
+   "price": 85,
+   "hours": 2.5
+  },
+  "sat": {
+   "price": 135,
+   "hours": 4
+  },
+  "long": {
+   "price": 175,
+   "hours": 5.5
+  }
+ },
+ "featured": [
+  "tote",
+  "toiletry",
+  "apron",
+  "basic"
+ ],
+ "photos": []
+}

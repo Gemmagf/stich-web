@@ -1,0 +1,409 @@
+{
+ "badge": "KIT 16",
+ "hours": 4,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "KOKKA",
+  "https://kokka-fabric.com/en/recipe/bouquetbag/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Funda porta-flors",
+   "materials": [
+    [
+     "Exterior",
+     "aprox. 110 × 50 cm"
+    ],
+    [
+     "Folre",
+     "aprox. 110 × 50 cm"
+    ],
+    [
+     "Snap",
+     "1 parell · aprox. 13 mm"
+    ],
+    [
+     "Mida acabada",
+     "aprox. 22 × 44 cm, sense nanses"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla",
+     "items": [
+      "Descarrega el tutorial gratuït i talla exterior i folre segons les mides indicades."
+     ]
+    },
+    {
+     "e": "Exterior",
+     "t": "Munta l’exterior",
+     "items": [
+      "Cus els panells exteriors formant la silueta estreta a la base i ampla a la boca."
+     ]
+    },
+    {
+     "e": "Folre",
+     "t": "Munta el folre",
+     "items": [
+      "Repeteix la construcció amb el folre, deixant l’obertura necessària per girar."
+     ]
+    },
+    {
+     "e": "Nanses",
+     "t": "Forma les nanses",
+     "items": [
+      "Prepara i posiciona les nanses perquè quedin simètriques i reforça els punts d’ancoratge."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Uneix exterior i folre",
+     "items": [
+      "Encara les dues bosses per la boca, cus el contorn i gira."
+     ]
+    },
+    {
+     "e": "Snap",
+     "t": "Acaba",
+     "items": [
+      "Planxa, repunta la boca si cal i col·loca el snap a les marques."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Funda porta-flores",
+   "materials": [
+    [
+     "Exterior",
+     "aprox. 110 × 50 cm"
+    ],
+    [
+     "Forro",
+     "aprox. 110 × 50 cm"
+    ],
+    [
+     "Snap",
+     "1 par · aprox. 13 mm"
+    ],
+    [
+     "Medida acabada",
+     "aprox. 22 × 44 cm, sin asas"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta",
+     "items": [
+      "Descarga el tutorial gratuito y corta exterior y forro según las medidas indicadas."
+     ]
+    },
+    {
+     "e": "Exterior",
+     "t": "Monta el exterior",
+     "items": [
+      "Cose los paneles exteriores formando la silueta estrecha en la base y ancha en la boca."
+     ]
+    },
+    {
+     "e": "Forro",
+     "t": "Monta el forro",
+     "items": [
+      "Repite la construcción con el forro, dejando la abertura necesaria para girar."
+     ]
+    },
+    {
+     "e": "Asas",
+     "t": "Forma las asas",
+     "items": [
+      "Prepara y posiciona las asas para que queden simétricas y refuerza los puntos de anclaje."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Une exterior y forro",
+     "items": [
+      "Enfrenta las dos bolsas por la boca, cose el contorno y gira."
+     ]
+    },
+    {
+     "e": "Snap",
+     "t": "Acaba",
+     "items": [
+      "Plancha, pespuntea la boca si hace falta y coloca el snap en las marcas."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Flower carrier",
+   "materials": [
+    [
+     "Outer",
+     "approx. 110 × 50 cm"
+    ],
+    [
+     "Lining",
+     "approx. 110 × 50 cm"
+    ],
+    [
+     "Snap",
+     "1 pair · approx. 13 mm"
+    ],
+    [
+     "Finished size",
+     "approx. 22 × 44 cm, without handles"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut",
+     "items": [
+      "Download the free tutorial and cut outer and lining to the given measurements."
+     ]
+    },
+    {
+     "e": "Outer",
+     "t": "Assemble the outer",
+     "items": [
+      "Sew the outer panels into the shape that is narrow at the base and wide at the mouth."
+     ]
+    },
+    {
+     "e": "Lining",
+     "t": "Assemble the lining",
+     "items": [
+      "Repeat the construction with the lining, leaving the gap you need to turn."
+     ]
+    },
+    {
+     "e": "Handles",
+     "t": "Form the handles",
+     "items": [
+      "Prepare and position the handles symmetrically and reinforce the anchor points."
+     ]
+    },
+    {
+     "e": "Join",
+     "t": "Join outer and lining",
+     "items": [
+      "Face the two bags at the mouth, sew around and turn."
+     ]
+    },
+    {
+     "e": "Snap",
+     "t": "Finish",
+     "items": [
+      "Press, topstitch the mouth if needed and fit the snap on the marks."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Blumentasche",
+   "materials": [
+    [
+     "Aussenstoff",
+     "ca. 110 × 50 cm"
+    ],
+    [
+     "Futter",
+     "ca. 110 × 50 cm"
+    ],
+    [
+     "Druckknopf",
+     "1 Paar · ca. 13 mm"
+    ],
+    [
+     "Fertige Grösse",
+     "ca. 22 × 44 cm, ohne Henkel"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Zuschneiden",
+     "items": [
+      "Gratis-Tutorial laden und Aussenstoff und Futter nach den angegebenen Massen zuschneiden."
+     ]
+    },
+    {
+     "e": "Aussen",
+     "t": "Aussenteil zusammensetzen",
+     "items": [
+      "Die Aussenteile zu der Form nähen, die unten schmal und oben weit ist."
+     ]
+    },
+    {
+     "e": "Futter",
+     "t": "Futter zusammensetzen",
+     "items": [
+      "Den Aufbau mit dem Futter wiederholen und eine Wendeöffnung lassen."
+     ]
+    },
+    {
+     "e": "Henkel",
+     "t": "Henkel formen",
+     "items": [
+      "Henkel vorbereiten, symmetrisch platzieren und die Ansatzpunkte verstärken."
+     ]
+    },
+    {
+     "e": "Verbinden",
+     "t": "Aussen und Futter verbinden",
+     "items": [
+      "Beide Taschen an der Öffnung aufeinanderlegen, rundum nähen und wenden."
+     ]
+    },
+    {
+     "e": "Druckknopf",
+     "t": "Fertigstellen",
+     "items": [
+      "Bügeln, bei Bedarf die Öffnung absteppen und den Druckknopf an den Markierungen anbringen."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac à fleurs",
+   "materials": [
+    [
+     "Extérieur",
+     "env. 110 × 50 cm"
+    ],
+    [
+     "Doublure",
+     "env. 110 × 50 cm"
+    ],
+    [
+     "Pression",
+     "1 paire · env. 13 mm"
+    ],
+    [
+     "Taille finie",
+     "env. 22 × 44 cm, sans les anses"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe",
+     "items": [
+      "Télécharge le tutoriel gratuit et coupe extérieur et doublure aux dimensions indiquées."
+     ]
+    },
+    {
+     "e": "Extérieur",
+     "t": "Monte l’extérieur",
+     "items": [
+      "Couds les panneaux extérieurs pour former la silhouette étroite en bas et large en haut."
+     ]
+    },
+    {
+     "e": "Doublure",
+     "t": "Monte la doublure",
+     "items": [
+      "Répète la construction avec la doublure, en laissant l’ouverture pour retourner."
+     ]
+    },
+    {
+     "e": "Anses",
+     "t": "Forme les anses",
+     "items": [
+      "Prépare et positionne les anses symétriquement et renforce les points d’ancrage."
+     ]
+    },
+    {
+     "e": "Assembler",
+     "t": "Assemble extérieur et doublure",
+     "items": [
+      "Superpose les deux sacs par l’ouverture, couds le tour et retourne."
+     ]
+    },
+    {
+     "e": "Pression",
+     "t": "Termine",
+     "items": [
+      "Repasse, surpique l’ouverture si besoin et pose la pression sur les repères."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Porta-fiori",
+   "materials": [
+    [
+     "Esterno",
+     "circa 110 × 50 cm"
+    ],
+    [
+     "Fodera",
+     "circa 110 × 50 cm"
+    ],
+    [
+     "Bottone automatico",
+     "1 paio · circa 13 mm"
+    ],
+    [
+     "Misura finita",
+     "circa 22 × 44 cm, senza manici"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia",
+     "items": [
+      "Scarica il tutorial gratuito e taglia esterno e fodera secondo le misure indicate."
+     ]
+    },
+    {
+     "e": "Esterno",
+     "t": "Monta l’esterno",
+     "items": [
+      "Cuci i pannelli esterni formando la sagoma stretta alla base e larga all’apertura."
+     ]
+    },
+    {
+     "e": "Fodera",
+     "t": "Monta la fodera",
+     "items": [
+      "Ripeti la costruzione con la fodera lasciando l’apertura necessaria per rivoltare."
+     ]
+    },
+    {
+     "e": "Manici",
+     "t": "Forma i manici",
+     "items": [
+      "Prepara e posiziona i manici in modo simmetrico e rinforza i punti di ancoraggio."
+     ]
+    },
+    {
+     "e": "Unire",
+     "t": "Unisci esterno e fodera",
+     "items": [
+      "Affronta le due borse sull’apertura, cuci il contorno e rivolta."
+     ]
+    },
+    {
+     "e": "Bottone",
+     "t": "Finisci",
+     "items": [
+      "Stira, impuntura l’apertura se serve e applica il bottone automatico sui segni."
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,433 @@
+{
+ "badge": "KIT 05",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Quilters Candy",
+  "https://quilterscandy.com/fabric-alphabet-banner"
+ ],
+ "L": {
+  "ca": {
+   "title": "Garlanda amb lletres",
+   "materials": [
+    [
+     "Retalls",
+     "Davant i darrere de cada lletra"
+    ],
+    [
+     "Guata",
+     "Retalls"
+    ],
+    [
+     "Plantilles",
+     "Lletres gratuïtes"
+    ],
+    [
+     "Cinta",
+     "Cotó o cinta de sarja"
+    ],
+    [
+     "Opcional",
+     "Tisores de zig-zag"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Imprimir",
+     "t": "Prepara les lletres",
+     "items": [
+      "Imprimeix les lletres necessàries a la mida desitjada i retalla les plantilles de paper."
+     ]
+    },
+    {
+     "e": "Sandvitx",
+     "t": "Fes els sandvitxos",
+     "items": [
+      "Per cada lletra: tela del darrere cara avall + guata + tela del davant cara amunt + plantilla de paper."
+     ]
+    },
+    {
+     "e": "Resseguir",
+     "t": "Cus el contorn",
+     "items": [
+      "Redueix una mica la llargada de puntada i cus directament sobre el contorn de cada lletra."
+     ]
+    },
+    {
+     "e": "Retallar",
+     "t": "Retalla",
+     "items": [
+      "Retira el paper i talla a uns 5–6 mm de la costura; amb tisora de zig-zag l’acabat queda més gràfic."
+     ]
+    },
+    {
+     "e": "Ordenar",
+     "t": "Ordena el text",
+     "items": [
+      "Col·loca les lletres en l’ordre final i ajusta l’espai entre elles abans de cosir."
+     ]
+    },
+    {
+     "e": "Cinta",
+     "t": "Munta la garlanda",
+     "items": [
+      "Fixa les lletres sobre la cinta i cus-les mantenint totes les parts superiors alineades."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Guirnalda con letras",
+   "materials": [
+    [
+     "Retales",
+     "Delante y detrás de cada letra"
+    ],
+    [
+     "Guata",
+     "Retales"
+    ],
+    [
+     "Plantillas",
+     "Letras gratuitas"
+    ],
+    [
+     "Cinta",
+     "Algodón o cinta de sarga"
+    ],
+    [
+     "Opcional",
+     "Tijeras de zigzag"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Imprimir",
+     "t": "Prepara las letras",
+     "items": [
+      "Imprime las letras necesarias al tamaño deseado y recorta las plantillas de papel."
+     ]
+    },
+    {
+     "e": "Sándwich",
+     "t": "Haz los sándwiches",
+     "items": [
+      "Por cada letra: tela de atrás boca abajo + guata + tela de delante boca arriba + plantilla de papel."
+     ]
+    },
+    {
+     "e": "Repasar",
+     "t": "Cose el contorno",
+     "items": [
+      "Reduce un poco el largo de puntada y cose directamente sobre el contorno de cada letra."
+     ]
+    },
+    {
+     "e": "Recortar",
+     "t": "Recorta",
+     "items": [
+      "Retira el papel y corta a unos 5–6 mm de la costura; con tijera de zigzag el acabado queda más gráfico."
+     ]
+    },
+    {
+     "e": "Ordenar",
+     "t": "Ordena el texto",
+     "items": [
+      "Coloca las letras en el orden final y ajusta el espacio entre ellas antes de coser."
+     ]
+    },
+    {
+     "e": "Cinta",
+     "t": "Monta la guirnalda",
+     "items": [
+      "Fija las letras sobre la cinta y cóselas manteniendo todas las partes superiores alineadas."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Letter bunting",
+   "materials": [
+    [
+     "Scraps",
+     "Front and back of each letter"
+    ],
+    [
+     "Batting",
+     "Scraps"
+    ],
+    [
+     "Templates",
+     "Free letters"
+    ],
+    [
+     "Tape",
+     "Cotton or twill tape"
+    ],
+    [
+     "Optional",
+     "Pinking shears"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Print",
+     "t": "Prepare the letters",
+     "items": [
+      "Print the letters you need at the desired size and cut out the paper templates."
+     ]
+    },
+    {
+     "e": "Sandwich",
+     "t": "Make the sandwiches",
+     "items": [
+      "For each letter: back fabric face down + batting + front fabric face up + paper template."
+     ]
+    },
+    {
+     "e": "Trace",
+     "t": "Sew the outline",
+     "items": [
+      "Shorten the stitch a little and sew directly along the outline of each letter."
+     ]
+    },
+    {
+     "e": "Trim",
+     "t": "Trim",
+     "items": [
+      "Remove the paper and cut about 5–6 mm from the seam; pinking shears give a more graphic finish."
+     ]
+    },
+    {
+     "e": "Layout",
+     "t": "Arrange the text",
+     "items": [
+      "Lay the letters in their final order and adjust the spacing before sewing."
+     ]
+    },
+    {
+     "e": "Tape",
+     "t": "Assemble the bunting",
+     "items": [
+      "Fix the letters on the tape and sew them keeping all the tops aligned."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Buchstaben-Wimpelkette",
+   "materials": [
+    [
+     "Stoffreste",
+     "Vorder- und Rückseite jedes Buchstabens"
+    ],
+    [
+     "Volumenvlies",
+     "Reste"
+    ],
+    [
+     "Vorlagen",
+     "Gratis-Buchstaben"
+    ],
+    [
+     "Band",
+     "Baumwoll- oder Köperband"
+    ],
+    [
+     "Optional",
+     "Zickzackschere"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Drucken",
+     "t": "Buchstaben vorbereiten",
+     "items": [
+      "Die benötigten Buchstaben in der gewünschten Grösse drucken und die Papiervorlagen ausschneiden."
+     ]
+    },
+    {
+     "e": "Sandwich",
+     "t": "Sandwiches bauen",
+     "items": [
+      "Pro Buchstabe: Rückseitenstoff links oben + Vlies + Vorderseitenstoff rechts oben + Papiervorlage."
+     ]
+    },
+    {
+     "e": "Nachfahren",
+     "t": "Kontur nähen",
+     "items": [
+      "Stichlänge etwas verkürzen und direkt auf der Kontur jedes Buchstabens nähen."
+     ]
+    },
+    {
+     "e": "Zurückschneiden",
+     "t": "Zurückschneiden",
+     "items": [
+      "Papier entfernen und etwa 5–6 mm neben der Naht abschneiden; mit der Zickzackschere wirkt es grafischer."
+     ]
+    },
+    {
+     "e": "Anordnen",
+     "t": "Text anordnen",
+     "items": [
+      "Die Buchstaben in die endgültige Reihenfolge legen und die Abstände vor dem Nähen anpassen."
+     ]
+    },
+    {
+     "e": "Band",
+     "t": "Wimpelkette zusammensetzen",
+     "items": [
+      "Die Buchstaben auf dem Band fixieren und annähen, alle Oberkanten auf einer Linie."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Guirlande de lettres",
+   "materials": [
+    [
+     "Chutes",
+     "Devant et dos de chaque lettre"
+    ],
+    [
+     "Molleton",
+     "Chutes"
+    ],
+    [
+     "Gabarits",
+     "Lettres gratuites"
+    ],
+    [
+     "Ruban",
+     "Coton ou sergé"
+    ],
+    [
+     "Optionnel",
+     "Ciseaux cranteurs"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Imprimer",
+     "t": "Prépare les lettres",
+     "items": [
+      "Imprime les lettres nécessaires à la taille voulue et découpe les gabarits en papier."
+     ]
+    },
+    {
+     "e": "Sandwich",
+     "t": "Fais les sandwichs",
+     "items": [
+      "Pour chaque lettre : tissu du dos face en bas + molleton + tissu du devant face en haut + gabarit papier."
+     ]
+    },
+    {
+     "e": "Suivre",
+     "t": "Couds le contour",
+     "items": [
+      "Réduis un peu la longueur de point et couds directement sur le contour de chaque lettre."
+     ]
+    },
+    {
+     "e": "Recouper",
+     "t": "Recoupe",
+     "items": [
+      "Retire le papier et coupe à 5–6 mm de la couture ; aux ciseaux cranteurs, la finition est plus graphique."
+     ]
+    },
+    {
+     "e": "Disposer",
+     "t": "Ordonne le texte",
+     "items": [
+      "Dispose les lettres dans l’ordre final et ajuste l’espacement avant de coudre."
+     ]
+    },
+    {
+     "e": "Ruban",
+     "t": "Monte la guirlande",
+     "items": [
+      "Fixe les lettres sur le ruban et couds-les en gardant tous les hauts alignés."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Festone con lettere",
+   "materials": [
+    [
+     "Ritagli",
+     "Davanti e dietro di ogni lettera"
+    ],
+    [
+     "Imbottitura",
+     "Ritagli"
+    ],
+    [
+     "Sagome",
+     "Lettere gratuite"
+    ],
+    [
+     "Nastro",
+     "Cotone o fettuccia twill"
+    ],
+    [
+     "Opzionale",
+     "Forbici a zigzag"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Stampare",
+     "t": "Prepara le lettere",
+     "items": [
+      "Stampa le lettere necessarie nella misura desiderata e ritaglia le sagome di carta."
+     ]
+    },
+    {
+     "e": "Sandwich",
+     "t": "Fai i sandwich",
+     "items": [
+      "Per ogni lettera: tessuto del retro a faccia in giù + imbottitura + tessuto del davanti a faccia in su + sagoma di carta."
+     ]
+    },
+    {
+     "e": "Ricalcare",
+     "t": "Cuci il contorno",
+     "items": [
+      "Riduci un po’ la lunghezza del punto e cuci direttamente sul contorno di ogni lettera."
+     ]
+    },
+    {
+     "e": "Rifilare",
+     "t": "Rifila",
+     "items": [
+      "Togli la carta e taglia a 5–6 mm dalla cucitura; con le forbici a zigzag la finitura è più grafica."
+     ]
+    },
+    {
+     "e": "Ordinare",
+     "t": "Ordina il testo",
+     "items": [
+      "Disponi le lettere nell’ordine finale e regola lo spazio tra loro prima di cucire."
+     ]
+    },
+    {
+     "e": "Nastro",
+     "t": "Monta il festone",
+     "items": [
+      "Fissa le lettere sul nastro e cucile mantenendo tutti i bordi superiori allineati."
+     ]
+    }
+   ]
+  }
+ }
+}

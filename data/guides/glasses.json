@@ -1,0 +1,433 @@
+{
+ "badge": "KIT 01",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Life Sew Savory",
+  "https://lifesewsavory.com/glasses-case-sewing-tutorial/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Funda d’ulleres",
+   "materials": [
+    [
+     "Tela exterior",
+     "Retalls o fat quarter"
+    ],
+    [
+     "Folre",
+     "Retalls o fat quarter"
+    ],
+    [
+     "Foam termoadhesiu",
+     "1 peça segons patró"
+    ],
+    [
+     "Tancament",
+     "1 snap"
+    ],
+    [
+     "Fil",
+     "A joc"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla les peces",
+     "items": [
+      "Imprimeix el patró de referència al 100% i talla exterior, folre i foam. Transfereix les marques del tancament."
+     ]
+    },
+    {
+     "e": "Fixar",
+     "t": "Estabilitza",
+     "items": [
+      "Planxa el foam al revers de la tela exterior, seguint les instruccions del fabricant."
+     ]
+    },
+    {
+     "e": "Solapa",
+     "t": "Prepara la solapa",
+     "items": [
+      "Encara exterior i folre de la zona superior, cus la corba i retalla una mica el marge perquè giri net."
+     ]
+    },
+    {
+     "e": "Cos",
+     "t": "Forma la funda",
+     "items": [
+      "Encara exterior amb exterior i folre amb folre. Cus el contorn deixant una obertura al folre."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira i planxa",
+     "items": [
+      "Gira pel forat, treu bé les puntes i planxa fent que la costura quedi exactament al cantell."
+     ]
+    },
+    {
+     "e": "Snap",
+     "t": "Acaba",
+     "items": [
+      "Tanca l’obertura, fes el repunt superior i col·loca el snap a les marques."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Funda de gafas",
+   "materials": [
+    [
+     "Tela exterior",
+     "Retales o fat quarter"
+    ],
+    [
+     "Forro",
+     "Retales o fat quarter"
+    ],
+    [
+     "Foam termoadhesivo",
+     "1 pieza según patrón"
+    ],
+    [
+     "Cierre",
+     "1 snap"
+    ],
+    [
+     "Hilo",
+     "A juego"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta las piezas",
+     "items": [
+      "Imprime el patrón de referencia al 100 % y corta exterior, forro y foam. Transfiere las marcas del cierre."
+     ]
+    },
+    {
+     "e": "Fijar",
+     "t": "Estabiliza",
+     "items": [
+      "Plancha el foam en el revés de la tela exterior, siguiendo las instrucciones del fabricante."
+     ]
+    },
+    {
+     "e": "Solapa",
+     "t": "Prepara la solapa",
+     "items": [
+      "Enfrenta exterior y forro de la zona superior, cose la curva y recorta un poco el margen para que gire limpio."
+     ]
+    },
+    {
+     "e": "Cuerpo",
+     "t": "Forma la funda",
+     "items": [
+      "Enfrenta exterior con exterior y forro con forro. Cose el contorno dejando una abertura en el forro."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira y plancha",
+     "items": [
+      "Gira por el hueco, saca bien las puntas y plancha de modo que la costura quede justo en el canto."
+     ]
+    },
+    {
+     "e": "Snap",
+     "t": "Acaba",
+     "items": [
+      "Cierra la abertura, haz el pespunte superior y coloca el snap en las marcas."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Glasses case",
+   "materials": [
+    [
+     "Outer fabric",
+     "Scraps or a fat quarter"
+    ],
+    [
+     "Lining",
+     "Scraps or a fat quarter"
+    ],
+    [
+     "Fusible foam",
+     "1 piece as per pattern"
+    ],
+    [
+     "Closure",
+     "1 snap"
+    ],
+    [
+     "Thread",
+     "Matching"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the pieces",
+     "items": [
+      "Print the reference pattern at 100% and cut outer, lining and foam. Transfer the closure marks."
+     ]
+    },
+    {
+     "e": "Fuse",
+     "t": "Stabilise",
+     "items": [
+      "Fuse the foam to the wrong side of the outer fabric following the manufacturer's instructions."
+     ]
+    },
+    {
+     "e": "Flap",
+     "t": "Prepare the flap",
+     "items": [
+      "Face outer and lining of the top area, sew the curve and trim the allowance a little so it turns cleanly."
+     ]
+    },
+    {
+     "e": "Body",
+     "t": "Form the case",
+     "items": [
+      "Face outer with outer and lining with lining. Sew around leaving a gap in the lining."
+     ]
+    },
+    {
+     "e": "Turn",
+     "t": "Turn and press",
+     "items": [
+      "Turn through the gap, push the corners out and press so the seam sits right on the edge."
+     ]
+    },
+    {
+     "e": "Snap",
+     "t": "Finish",
+     "items": [
+      "Close the gap, topstitch the top and fit the snap on the marks."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Brillenetui",
+   "materials": [
+    [
+     "Aussenstoff",
+     "Reste oder ein Fat Quarter"
+    ],
+    [
+     "Futter",
+     "Reste oder ein Fat Quarter"
+    ],
+    [
+     "Aufbügelbarer Foam",
+     "1 Teil nach Schnitt"
+    ],
+    [
+     "Verschluss",
+     "1 Druckknopf"
+    ],
+    [
+     "Garn",
+     "passend"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Teile zuschneiden",
+     "items": [
+      "Referenzschnitt bei 100 % drucken und Aussenstoff, Futter und Foam zuschneiden. Verschlussmarkierungen übertragen."
+     ]
+    },
+    {
+     "e": "Bügeln",
+     "t": "Verstärken",
+     "items": [
+      "Foam nach Herstellerangaben auf die linke Seite des Aussenstoffs bügeln."
+     ]
+    },
+    {
+     "e": "Klappe",
+     "t": "Klappe vorbereiten",
+     "items": [
+      "Aussenstoff und Futter im oberen Bereich aufeinanderlegen, die Rundung nähen und die Zugabe etwas zurückschneiden."
+     ]
+    },
+    {
+     "e": "Körper",
+     "t": "Etui formen",
+     "items": [
+      "Aussen auf Aussen und Futter auf Futter legen. Rundum nähen, im Futter eine Wendeöffnung lassen."
+     ]
+    },
+    {
+     "e": "Wenden",
+     "t": "Wenden und bügeln",
+     "items": [
+      "Durch die Öffnung wenden, Ecken ausformen und so bügeln, dass die Naht genau an der Kante liegt."
+     ]
+    },
+    {
+     "e": "Druckknopf",
+     "t": "Fertigstellen",
+     "items": [
+      "Öffnung schliessen, Oberkante absteppen und den Druckknopf an den Markierungen anbringen."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Étui à lunettes",
+   "materials": [
+    [
+     "Tissu extérieur",
+     "Chutes ou un fat quarter"
+    ],
+    [
+     "Doublure",
+     "Chutes ou un fat quarter"
+    ],
+    [
+     "Mousse thermocollante",
+     "1 pièce selon patron"
+    ],
+    [
+     "Fermeture",
+     "1 pression"
+    ],
+    [
+     "Fil",
+     "Assorti"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe les pièces",
+     "items": [
+      "Imprime le patron de référence à 100 % et coupe extérieur, doublure et mousse. Reporte les repères de la pression."
+     ]
+    },
+    {
+     "e": "Thermocoller",
+     "t": "Stabilise",
+     "items": [
+      "Thermocolle la mousse sur l’envers du tissu extérieur selon les indications du fabricant."
+     ]
+    },
+    {
+     "e": "Rabat",
+     "t": "Prépare le rabat",
+     "items": [
+      "Superpose extérieur et doublure de la partie haute, couds la courbe et recoupe un peu la marge pour un retournement net."
+     ]
+    },
+    {
+     "e": "Corps",
+     "t": "Forme l’étui",
+     "items": [
+      "Superpose extérieur contre extérieur et doublure contre doublure. Couds le tour en laissant une ouverture dans la doublure."
+     ]
+    },
+    {
+     "e": "Retourner",
+     "t": "Retourne et repasse",
+     "items": [
+      "Retourne par l’ouverture, sors bien les pointes et repasse pour que la couture soit exactement au bord."
+     ]
+    },
+    {
+     "e": "Pression",
+     "t": "Termine",
+     "items": [
+      "Referme l’ouverture, surpique le haut et pose la pression sur les repères."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Custodia per occhiali",
+   "materials": [
+    [
+     "Tessuto esterno",
+     "Ritagli o un fat quarter"
+    ],
+    [
+     "Fodera",
+     "Ritagli o un fat quarter"
+    ],
+    [
+     "Foam termoadesivo",
+     "1 pezzo secondo cartamodello"
+    ],
+    [
+     "Chiusura",
+     "1 bottone automatico"
+    ],
+    [
+     "Filo",
+     "In tinta"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia i pezzi",
+     "items": [
+      "Stampa il cartamodello di riferimento al 100% e taglia esterno, fodera e foam. Riporta i segni della chiusura."
+     ]
+    },
+    {
+     "e": "Stirare",
+     "t": "Stabilizza",
+     "items": [
+      "Stira il foam sul rovescio del tessuto esterno seguendo le istruzioni del produttore."
+     ]
+    },
+    {
+     "e": "Patta",
+     "t": "Prepara la patta",
+     "items": [
+      "Affronta esterno e fodera della parte superiore, cuci la curva e rifila un po’ il margine perché si rivolti pulita."
+     ]
+    },
+    {
+     "e": "Corpo",
+     "t": "Forma la custodia",
+     "items": [
+      "Affronta esterno con esterno e fodera con fodera. Cuci il contorno lasciando un’apertura nella fodera."
+     ]
+    },
+    {
+     "e": "Rivoltare",
+     "t": "Rivolta e stira",
+     "items": [
+      "Rivolta dall’apertura, tira fuori bene le punte e stira in modo che la cucitura resti esattamente sul bordo."
+     ]
+    },
+    {
+     "e": "Bottone",
+     "t": "Finisci",
+     "items": [
+      "Chiudi l’apertura, fai l’impuntura superiore e applica il bottone automatico sui segni."
+     ]
+    }
+   ]
+  }
+ }
+}

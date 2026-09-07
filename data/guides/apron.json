@@ -1,0 +1,457 @@
+{
+ "badge": "KIT 10",
+ "hours": 4,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Jennifer Maker",
+  "https://jennifermaker.com/how-to-make-an-apron/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Davantal",
+   "materials": [
+    [
+     "Tela",
+     "Cotó, canvas lleuger o denim fi"
+    ],
+    [
+     "Patró",
+     "PDF gratuït"
+    ],
+    [
+     "Pitrall",
+     "Segons patró"
+    ],
+    [
+     "Tires",
+     "Coll i cintura"
+    ],
+    [
+     "Butxaques",
+     "Segons variant"
+    ],
+    [
+     "Biaix",
+     "Si el model el requereix"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla",
+     "items": [
+      "Imprimeix el patró al 100%, munta les pàgines i talla davantal, pitrall, tires i butxaques."
+     ]
+    },
+    {
+     "e": "Butxaques",
+     "t": "Butxaques",
+     "items": [
+      "Planxa els marges, acaba la part superior i posiciona les butxaques de manera simètrica."
+     ]
+    },
+    {
+     "e": "Tires",
+     "t": "Tires",
+     "items": [
+      "Plega les tires llargues com un biaix, cus-les i planxa-les ben planes."
+     ]
+    },
+    {
+     "e": "Cos",
+     "t": "Munta el cos",
+     "items": [
+      "Uneix pitrall i faldilla o segueix la forma d’una sola peça, segons la variant escollida."
+     ]
+    },
+    {
+     "e": "Vores",
+     "t": "Acaba els marges",
+     "items": [
+      "Fes doble plec o biaix als laterals i escot, mantenint les corbes netes."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Baix i repunt",
+     "items": [
+      "Fes el baix, reforça els punts de les tires i dona una planxada final."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Delantal",
+   "materials": [
+    [
+     "Tela",
+     "Algodón, canvas ligero o denim fino"
+    ],
+    [
+     "Patrón",
+     "PDF gratuito"
+    ],
+    [
+     "Peto",
+     "Según patrón"
+    ],
+    [
+     "Tiras",
+     "Cuello y cintura"
+    ],
+    [
+     "Bolsillos",
+     "Según variante"
+    ],
+    [
+     "Bies",
+     "Si el modelo lo requiere"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta",
+     "items": [
+      "Imprime el patrón al 100 %, monta las páginas y corta delantal, peto, tiras y bolsillos."
+     ]
+    },
+    {
+     "e": "Bolsillos",
+     "t": "Bolsillos",
+     "items": [
+      "Plancha los márgenes, acaba la parte superior y posiciona los bolsillos de forma simétrica."
+     ]
+    },
+    {
+     "e": "Tiras",
+     "t": "Tiras",
+     "items": [
+      "Pliega las tiras largas como un bies, cóselas y plánchalas bien planas."
+     ]
+    },
+    {
+     "e": "Cuerpo",
+     "t": "Monta el cuerpo",
+     "items": [
+      "Une peto y falda o sigue la forma de una sola pieza, según la variante elegida."
+     ]
+    },
+    {
+     "e": "Bordes",
+     "t": "Acaba los márgenes",
+     "items": [
+      "Haz doble pliegue o bies en laterales y escote, manteniendo las curvas limpias."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Bajo y pespunte",
+     "items": [
+      "Haz el bajo, refuerza los puntos de las tiras y da un planchado final."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Apron",
+   "materials": [
+    [
+     "Fabric",
+     "Cotton, light canvas or fine denim"
+    ],
+    [
+     "Pattern",
+     "Free PDF"
+    ],
+    [
+     "Bib",
+     "As per pattern"
+    ],
+    [
+     "Straps",
+     "Neck and waist"
+    ],
+    [
+     "Pockets",
+     "Depending on version"
+    ],
+    [
+     "Bias binding",
+     "If the model needs it"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut",
+     "items": [
+      "Print the pattern at 100%, assemble the pages and cut apron, bib, straps and pockets."
+     ]
+    },
+    {
+     "e": "Pockets",
+     "t": "Pockets",
+     "items": [
+      "Press the allowances, finish the top edge and place the pockets symmetrically."
+     ]
+    },
+    {
+     "e": "Straps",
+     "t": "Straps",
+     "items": [
+      "Fold the long straps like binding, sew them and press them flat."
+     ]
+    },
+    {
+     "e": "Body",
+     "t": "Assemble the body",
+     "items": [
+      "Join bib and skirt or follow the one-piece shape, depending on the version."
+     ]
+    },
+    {
+     "e": "Edges",
+     "t": "Finish the edges",
+     "items": [
+      "Double-fold or bind the sides and neckline, keeping the curves clean."
+     ]
+    },
+    {
+     "e": "Finish",
+     "t": "Hem and topstitch",
+     "items": [
+      "Hem, reinforce the strap points and give it a final press."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Schürze",
+   "materials": [
+    [
+     "Stoff",
+     "Baumwolle, leichter Canvas oder dünner Denim"
+    ],
+    [
+     "Schnitt",
+     "Gratis-PDF"
+    ],
+    [
+     "Latz",
+     "nach Schnitt"
+    ],
+    [
+     "Bänder",
+     "Nacken und Taille"
+    ],
+    [
+     "Taschen",
+     "je nach Variante"
+    ],
+    [
+     "Schrägband",
+     "falls das Modell es braucht"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Zuschneiden",
+     "items": [
+      "Schnitt bei 100 % drucken, Seiten zusammenkleben und Schürze, Latz, Bänder und Taschen zuschneiden."
+     ]
+    },
+    {
+     "e": "Taschen",
+     "t": "Taschen",
+     "items": [
+      "Zugaben bügeln, Oberkante versäubern und die Taschen symmetrisch platzieren."
+     ]
+    },
+    {
+     "e": "Bänder",
+     "t": "Bänder",
+     "items": [
+      "Die langen Bänder wie ein Einfassband falten, nähen und flach bügeln."
+     ]
+    },
+    {
+     "e": "Körper",
+     "t": "Körper zusammensetzen",
+     "items": [
+      "Latz und Rock verbinden oder der einteiligen Form folgen, je nach Variante."
+     ]
+    },
+    {
+     "e": "Kanten",
+     "t": "Kanten versäubern",
+     "items": [
+      "Seiten und Ausschnitt doppelt einschlagen oder einfassen, Rundungen sauber halten."
+     ]
+    },
+    {
+     "e": "Fertigstellen",
+     "t": "Saum und Absteppen",
+     "items": [
+      "Saum nähen, Bandansätze verstärken und zum Schluss bügeln."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Tablier",
+   "materials": [
+    [
+     "Tissu",
+     "Coton, toile légère ou denim fin"
+    ],
+    [
+     "Patron",
+     "PDF gratuit"
+    ],
+    [
+     "Bavette",
+     "Selon patron"
+    ],
+    [
+     "Liens",
+     "Cou et taille"
+    ],
+    [
+     "Poches",
+     "Selon la variante"
+    ],
+    [
+     "Biais",
+     "Si le modèle le demande"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe",
+     "items": [
+      "Imprime le patron à 100 %, assemble les pages et coupe tablier, bavette, liens et poches."
+     ]
+    },
+    {
+     "e": "Poches",
+     "t": "Poches",
+     "items": [
+      "Repasse les marges, finis le haut et place les poches symétriquement."
+     ]
+    },
+    {
+     "e": "Liens",
+     "t": "Liens",
+     "items": [
+      "Plie les longs liens comme un biais, couds-les et repasse-les bien à plat."
+     ]
+    },
+    {
+     "e": "Corps",
+     "t": "Monte le corps",
+     "items": [
+      "Assemble bavette et jupe ou suis la forme en une pièce, selon la variante."
+     ]
+    },
+    {
+     "e": "Bords",
+     "t": "Finis les bords",
+     "items": [
+      "Double repli ou biais sur les côtés et l’encolure, en gardant les courbes nettes."
+     ]
+    },
+    {
+     "e": "Finir",
+     "t": "Ourlet et surpiqûre",
+     "items": [
+      "Fais l’ourlet, renforce les points d’attache des liens et repasse une dernière fois."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Grembiule",
+   "materials": [
+    [
+     "Tessuto",
+     "Cotone, canvas leggero o denim sottile"
+    ],
+    [
+     "Cartamodello",
+     "PDF gratuito"
+    ],
+    [
+     "Pettorina",
+     "Secondo cartamodello"
+    ],
+    [
+     "Lacci",
+     "Collo e vita"
+    ],
+    [
+     "Tasche",
+     "Secondo la variante"
+    ],
+    [
+     "Sbieco",
+     "Se il modello lo richiede"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia",
+     "items": [
+      "Stampa il cartamodello al 100%, assembla le pagine e taglia grembiule, pettorina, lacci e tasche."
+     ]
+    },
+    {
+     "e": "Tasche",
+     "t": "Tasche",
+     "items": [
+      "Stira i margini, rifinisci il bordo superiore e posiziona le tasche in modo simmetrico."
+     ]
+    },
+    {
+     "e": "Lacci",
+     "t": "Lacci",
+     "items": [
+      "Piega i lacci lunghi come uno sbieco, cucili e stirali ben piatti."
+     ]
+    },
+    {
+     "e": "Corpo",
+     "t": "Monta il corpo",
+     "items": [
+      "Unisci pettorina e gonna o segui la forma in un solo pezzo, secondo la variante."
+     ]
+    },
+    {
+     "e": "Bordi",
+     "t": "Rifinisci i bordi",
+     "items": [
+      "Doppia piega o sbieco su lati e scollo, mantenendo le curve pulite."
+     ]
+    },
+    {
+     "e": "Finire",
+     "t": "Orlo e impuntura",
+     "items": [
+      "Fai l’orlo, rinforza i punti dei lacci e stira per finire."
+     ]
+    }
+   ]
+  }
+ }
+}

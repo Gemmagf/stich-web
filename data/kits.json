@@ -1,0 +1,627 @@
+[
+ {
+  "id": "glasses",
+  "n": 1,
+  "format": "short",
+  "level": 1,
+  "accent": "sage",
+  "icon": "case",
+  "active": true,
+  "name": {
+   "ca": "Funda d'ulleres",
+   "es": "Funda de gafas",
+   "de": "Brillenetui",
+   "en": "Glasses case",
+   "fr": "Étui à lunettes",
+   "it": "Custodia per occhiali"
+  },
+  "desc": {
+   "ca": "Funda tova amb folre encoixinat. El projecte més petit del programa.",
+   "es": "Funda blanda con forro acolchado. El proyecto más pequeño del programa.",
+   "de": "Weiches Etui mit gepolstertem Futter. Das kleinste Projekt im Programm.",
+   "en": "Soft case with padded lining. The smallest project in the programme.",
+   "fr": "Étui souple avec doublure matelassée. Le plus petit projet du programme.",
+   "it": "Custodia morbida con fodera imbottita. Il progetto più piccolo del programma."
+  }
+ },
+ {
+  "id": "passport",
+  "n": 2,
+  "format": "short",
+  "level": 1,
+  "accent": "blue",
+  "icon": "case",
+  "active": true,
+  "name": {
+   "ca": "Funda de passaport",
+   "es": "Funda de pasaporte",
+   "de": "Passhülle",
+   "en": "Passport cover",
+   "fr": "Étui à passeport",
+   "it": "Porta-passaporto"
+  },
+  "desc": {
+   "ca": "Teixit plastificat, dues butxaques interiors. Hi cap el passaport i la targeta d'embarcament.",
+   "es": "Tejido plastificado, dos bolsillos interiores. Caben el pasaporte y la tarjeta de embarque.",
+   "de": "Beschichteter Stoff, zwei Innentaschen. Platz für Pass und Bordkarte.",
+   "en": "Coated fabric, two inner pockets. Fits passport and boarding pass.",
+   "fr": "Tissu enduit, deux poches intérieures. Passeport et carte d'embarquement y tiennent.",
+   "it": "Tessuto plastificato, due tasche interne. Ci stanno passaporto e carta d'imbarco."
+  }
+ },
+ {
+  "id": "hen",
+  "n": 3,
+  "format": "short",
+  "level": 1,
+  "accent": "mustard",
+  "icon": "hen",
+  "active": true,
+  "name": {
+   "ca": "Gallina decorativa",
+   "es": "Gallina decorativa",
+   "de": "Deko-Huhn",
+   "en": "Decorative hen",
+   "fr": "Poule décorative",
+   "it": "Gallina decorativa"
+  },
+  "desc": {
+   "ca": "El projecte farcit amb caràcter. Bona pràctica de corbes i obertures per girar.",
+   "es": "El proyecto relleno con carácter. Buena práctica de curvas y aberturas para girar.",
+   "de": "Das gefüllte Projekt mit Charakter. Gute Übung für Rundungen und Wendeöffnungen.",
+   "en": "The stuffed project with character. Good practice for curves and turning openings.",
+   "fr": "Le projet rembourré qui a du caractère. Bon exercice de courbes et d'ouvertures de retournement.",
+   "it": "Il progetto imbottito con carattere. Buona pratica di curve e aperture per rivoltare."
+  }
+ },
+ {
+  "id": "crown",
+  "n": 4,
+  "format": "short",
+  "level": 1,
+  "accent": "yellow",
+  "icon": "crown",
+  "active": true,
+  "name": {
+   "ca": "Corona d'aniversari",
+   "es": "Corona de cumpleaños",
+   "de": "Geburtstagskrone",
+   "en": "Birthday crown",
+   "fr": "Couronne d'anniversaire",
+   "it": "Corona di compleanno"
+  },
+  "desc": {
+   "ca": "Ajustable, reutilitzable, una per nen i per any.",
+   "es": "Ajustable, reutilizable, una por niño y por año.",
+   "de": "Verstellbar, wiederverwendbar, eine pro Kind und Jahr.",
+   "en": "Adjustable, reusable, one per child and per year.",
+   "fr": "Ajustable, réutilisable, une par enfant et par année.",
+   "it": "Regolabile, riutilizzabile, una per bambino e per anno."
+  }
+ },
+ {
+  "id": "bunting",
+  "n": 5,
+  "format": "short",
+  "level": 1,
+  "accent": "pink",
+  "icon": "bunting",
+  "active": true,
+  "name": {
+   "ca": "Garlanda amb lletres",
+   "es": "Guirnalda con letras",
+   "de": "Buchstaben-Wimpelkette",
+   "en": "Letter bunting",
+   "fr": "Guirlande de lettres",
+   "it": "Festone con lettere"
+  },
+  "desc": {
+   "ca": "La teva paraula o el teu nom, aplicat sobre lli. Un metre de garlanda.",
+   "es": "Tu palabra o tu nombre, aplicado sobre lino. Un metro de guirnalda.",
+   "de": "Dein Wort oder dein Name, appliziert auf Leinen. Ein Meter Wimpelkette.",
+   "en": "Your word or your name, appliquéd on linen. One metre of bunting.",
+   "fr": "Ton mot ou ton prénom, appliqué sur du lin. Un mètre de guirlande.",
+   "it": "La tua parola o il tuo nome, applicato su lino. Un metro di festone."
+  }
+ },
+ {
+  "id": "laundry",
+  "n": 6,
+  "format": "short",
+  "level": 1,
+  "accent": "sage",
+  "icon": "pouch",
+  "active": true,
+  "name": {
+   "ca": "Bossa per a roba interior",
+   "es": "Bolsa para ropa interior",
+   "de": "Wäschebeutel",
+   "en": "Laundry & lingerie bag",
+   "fr": "Pochette à lingerie",
+   "it": "Sacchetto per biancheria"
+  },
+  "desc": {
+   "ca": "Jareta i cordó. Per a roba interior i sabates dins la maleta.",
+   "es": "Jareta y cordón. Para ropa interior y zapatos dentro de la maleta.",
+   "de": "Tunnelzug und Kordel. Für Wäsche und Schuhe im Koffer.",
+   "en": "Drawstring channel and cord. For underwear and shoes inside the suitcase.",
+   "fr": "Coulisse et cordon. Pour la lingerie et les chaussures dans la valise.",
+   "it": "Passante e cordoncino. Per biancheria e scarpe in valigia."
+  }
+ },
+ {
+  "id": "mitts",
+  "n": 7,
+  "format": "short",
+  "level": 2,
+  "accent": "coral",
+  "icon": "mitt",
+  "active": true,
+  "name": {
+   "ca": "Guants de cuina",
+   "es": "Guantes de cocina",
+   "de": "Topfhandschuhe",
+   "en": "Oven mitts",
+   "fr": "Maniques",
+   "it": "Presine"
+  },
+  "desc": {
+   "ca": "Parell, amb entretela tèrmica i vora esbiaixada.",
+   "es": "Par, con entretela térmica y ribete al bies.",
+   "de": "Paar, mit Thermoeinlage und Schrägbandkante.",
+   "en": "A pair, with thermal interfacing and bias-bound edge.",
+   "fr": "La paire, avec entoilage thermique et bord en biais.",
+   "it": "Coppia, con interfodera termica e bordo in sbieco."
+  }
+ },
+ {
+  "id": "lunch",
+  "n": 8,
+  "format": "short",
+  "level": 2,
+  "accent": "blue",
+  "icon": "lunch",
+  "active": true,
+  "name": {
+   "ca": "Carmanyola / bossa del berenar",
+   "es": "Bolsa de la merienda",
+   "de": "Znünitasche",
+   "en": "Lunch bag",
+   "fr": "Sac à goûter",
+   "it": "Porta-merenda"
+  },
+  "desc": {
+   "ca": "Folre plastificat, tancament de velcro, rentable. Dura tot un curs.",
+   "es": "Forro plastificado, cierre de velcro, lavable. Dura todo un curso.",
+   "de": "Beschichtetes Futter, Klettverschluss, waschbar. Hält ein ganzes Schuljahr.",
+   "en": "Coated lining, velcro closure, washable. Lasts a whole school year.",
+   "fr": "Doublure enduite, fermeture velcro, lavable. Tient toute une année scolaire.",
+   "it": "Fodera plastificata, chiusura in velcro, lavabile. Dura tutto l'anno scolastico."
+  }
+ },
+ {
+  "id": "tote",
+  "n": 9,
+  "format": "sat",
+  "level": 1,
+  "accent": "coral",
+  "icon": "tote",
+  "active": true,
+  "name": {
+   "ca": "Totebag",
+   "es": "Bolso tote",
+   "de": "Totebag",
+   "en": "Tote bag",
+   "fr": "Tote bag",
+   "it": "Tote bag"
+  },
+  "desc": {
+   "ca": "El clàssic, amb nanses reforçades i butxaca interior.",
+   "es": "El clásico, con asas reforzadas y bolsillo interior.",
+   "de": "Der Klassiker, mit verstärkten Henkeln und Innentasche.",
+   "en": "The classic, with reinforced handles and an inner pocket.",
+   "fr": "Le classique, avec anses renforcées et poche intérieure.",
+   "it": "Il classico, con manici rinforzati e tasca interna."
+  }
+ },
+ {
+  "id": "apron",
+  "n": 10,
+  "format": "sat",
+  "level": 1,
+  "accent": "mustard",
+  "icon": "apron",
+  "active": true,
+  "name": {
+   "ca": "Davantal",
+   "es": "Delantal",
+   "de": "Schürze",
+   "en": "Apron",
+   "fr": "Tablier",
+   "it": "Grembiule"
+  },
+  "desc": {
+   "ca": "Cinta de coll ajustable, dues butxaques. Cuina o taller.",
+   "es": "Cinta de cuello ajustable, dos bolsillos. Cocina o taller.",
+   "de": "Verstellbares Nackenband, zwei Taschen. Küche oder Werkstatt.",
+   "en": "Adjustable neck strap, two pockets. Kitchen or workshop.",
+   "fr": "Tour de cou ajustable, deux poches. Cuisine ou atelier.",
+   "it": "Laccio al collo regolabile, due tasche. Cucina o laboratorio."
+  }
+ },
+ {
+  "id": "basic",
+  "n": 11,
+  "format": "sat",
+  "level": 2,
+  "accent": "blue",
+  "icon": "bucket",
+  "active": true,
+  "name": {
+   "ca": "Bossa base",
+   "es": "Bolso base",
+   "de": "Basic-Tasche",
+   "en": "Basic bag",
+   "fr": "Sac de base",
+   "it": "Borsa base"
+  },
+  "desc": {
+   "ca": "La forma bàsica de la qual surt tota la resta. Amb folre i base plana.",
+   "es": "La forma básica de la que sale todo lo demás. Con forro y base plana.",
+   "de": "Die Grundform, aus der alles andere entsteht. Gefüttert, mit flachem Boden.",
+   "en": "The basic shape everything else grows from. Lined, with a flat base.",
+   "fr": "La forme de base dont tout le reste découle. Doublé, avec fond plat.",
+   "it": "La forma base da cui nasce tutto il resto. Foderata, con fondo piatto."
+  }
+ },
+ {
+  "id": "toiletry",
+  "n": 12,
+  "format": "sat",
+  "level": 2,
+  "accent": "sage",
+  "icon": "pouch",
+  "active": true,
+  "name": {
+   "ca": "Necesser",
+   "es": "Neceser",
+   "de": "Necessaire",
+   "en": "Toiletry bag",
+   "fr": "Trousse de toilette",
+   "it": "Beauty case"
+  },
+  "desc": {
+   "ca": "Canvas a fora, folre plastificat a dins, cremallera contínua.",
+   "es": "Canvas por fuera, forro plastificado por dentro, cremallera continua.",
+   "de": "Canvas aussen, beschichtetes Futter innen, Endlos-Reissverschluss.",
+   "en": "Canvas outside, coated lining inside, continuous zip.",
+   "fr": "Toile à l'extérieur, doublure enduite à l'intérieur, fermeture au mètre.",
+   "it": "Canvas fuori, fodera plastificata dentro, cerniera continua."
+  }
+ },
+ {
+  "id": "shopper",
+  "n": 13,
+  "format": "sat",
+  "level": 2,
+  "accent": "pink",
+  "icon": "tote",
+  "active": true,
+  "name": {
+   "ca": "Bossa de la compra plegable",
+   "es": "Bolsa de la compra plegable",
+   "de": "Faltbarer Einkaufsbeutel",
+   "en": "Foldable shopping bag",
+   "fr": "Sac à provisions pliable",
+   "it": "Borsa della spesa pieghevole"
+  },
+  "desc": {
+   "ca": "Es plega dins la seva pròpia butxaca interior. Cap a qualsevol butxaca.",
+   "es": "Se pliega dentro de su propio bolsillo interior. Cabe en cualquier bolsillo.",
+   "de": "Faltet sich in die eigene Innentasche. Passt in jede Jackentasche.",
+   "en": "Folds into its own inner pocket. Fits in any pocket.",
+   "fr": "Se replie dans sa propre poche intérieure. Tient dans n'importe quelle poche.",
+   "it": "Si ripiega nella sua tasca interna. Sta in qualsiasi tasca."
+  }
+ },
+ {
+  "id": "cubes",
+  "n": 14,
+  "format": "sat",
+  "level": 2,
+  "accent": "yellow",
+  "icon": "cube",
+  "active": true,
+  "name": {
+   "ca": "Cubs de viatge (joc de 2)",
+   "es": "Cubos de viaje (juego de 2)",
+   "de": "Packwürfel-Set",
+   "en": "Packing cube set",
+   "fr": "Cubes de rangement",
+   "it": "Organizer da viaggio"
+  },
+  "desc": {
+   "ca": "Dues mides amb tapa de xarxa. La maleta ja no torna a ser la mateixa.",
+   "es": "Dos tamaños con tapa de malla. La maleta ya no vuelve a ser la misma.",
+   "de": "Zwei Grössen mit Netzdeckel. Der Koffer ist danach nie mehr derselbe.",
+   "en": "Two sizes with mesh tops. Your suitcase will never be the same.",
+   "fr": "Deux tailles avec dessus en filet. La valise ne sera plus jamais la même.",
+   "it": "Due misure con coperchio in rete. La valigia non sarà più la stessa."
+  }
+ },
+ {
+  "id": "laptop",
+  "n": 15,
+  "format": "sat",
+  "level": 2,
+  "accent": "blue",
+  "icon": "laptop",
+  "active": true,
+  "name": {
+   "ca": "Funda d'ordinador",
+   "es": "Funda de portátil",
+   "de": "Laptophülle",
+   "en": "Laptop sleeve",
+   "fr": "Housse d'ordinateur",
+   "it": "Custodia per laptop"
+  },
+  "desc": {
+   "ca": "Tallada a la mida del teu portàtil, amb escuma i solapa.",
+   "es": "Cortada a la medida de tu portátil, con espuma y solapa.",
+   "de": "Auf dein Laptop zugeschnitten, mit Schaumstoff und Klappe.",
+   "en": "Cut to your laptop's size, with foam and a flap.",
+   "fr": "Coupée à la taille de ton ordinateur, avec mousse et rabat.",
+   "it": "Tagliata su misura per il tuo portatile, con schiuma e patta."
+  }
+ },
+ {
+  "id": "flowers",
+  "n": 16,
+  "format": "sat",
+  "level": 2,
+  "accent": "pink",
+  "icon": "flowers",
+  "active": true,
+  "name": {
+   "ca": "Funda porta-flors",
+   "es": "Funda porta-flores",
+   "de": "Blumentasche",
+   "en": "Flower carrier",
+   "fr": "Sac à fleurs",
+   "it": "Porta-fiori"
+  },
+  "desc": {
+   "ca": "Folre impermeable i molta alçada, per portar el ram amb bici.",
+   "es": "Forro impermeable y mucha altura, para llevar el ramo en bici.",
+   "de": "Wasserdichtes Futter und viel Höhe, für den Strauss auf dem Velo.",
+   "en": "Waterproof lining and lots of height, to carry the bouquet by bike.",
+   "fr": "Doublure imperméable et beaucoup de hauteur, pour le bouquet à vélo.",
+   "it": "Fodera impermeabile e molta altezza, per portare il mazzo in bici."
+  }
+ },
+ {
+  "id": "casserole",
+  "n": 17,
+  "format": "sat",
+  "level": 3,
+  "accent": "coral",
+  "icon": "casserole",
+  "active": true,
+  "name": {
+   "ca": "Funda porta-cassoles i pastissos",
+   "es": "Funda para cazuelas y pasteles",
+   "de": "Topf- & Kuchentasche",
+   "en": "Casserole & cake carrier",
+   "fr": "Sac à plat et à gâteau",
+   "it": "Porta-teglie e torte"
+  },
+  "desc": {
+   "ca": "Aïllant, amb base rígida i tapa. El gratinat arriba sencer.",
+   "es": "Aislante, con base rígida y tapa. El gratinado llega entero.",
+   "de": "Isoliert, mit festem Boden und Deckel. Der Auflauf kommt heil an.",
+   "en": "Insulated, with rigid base and lid. The gratin arrives in one piece.",
+   "fr": "Isolant, avec fond rigide et couvercle. Le gratin arrive entier.",
+   "it": "Isolante, con base rigida e coperchio. Il gratin arriva intero."
+  }
+ },
+ {
+  "id": "banana",
+  "n": 18,
+  "format": "sat",
+  "level": 3,
+  "accent": "mustard",
+  "icon": "banana",
+  "active": true,
+  "name": {
+   "ca": "Bossa banana",
+   "es": "Riñonera",
+   "de": "Bauchtasche",
+   "en": "Crossbody bag",
+   "fr": "Sacoche banane",
+   "it": "Marsupio"
+  },
+  "desc": {
+   "ca": "La bossa rodona creuada, amb costura corba i cremallera amagada.",
+   "es": "La bolsa redonda cruzada, con costura curva y cremallera oculta.",
+   "de": "Die runde Umhängetasche, mit Rundnaht und verdecktem Reissverschluss.",
+   "en": "The rounded crossbody bag, with a curved seam and hidden zip.",
+   "fr": "Le sac rond en bandoulière, avec couture courbe et fermeture cachée.",
+   "it": "La borsa rotonda a tracolla, con cucitura curva e cerniera nascosta."
+  }
+ },
+ {
+  "id": "backpack",
+  "n": 19,
+  "format": "long",
+  "level": 3,
+  "accent": "sage",
+  "icon": "backpack",
+  "active": true,
+  "name": {
+   "ca": "Motxilla escolar",
+   "es": "Mochila escolar",
+   "de": "Kinderrucksack",
+   "en": "Kids' school backpack",
+   "fr": "Sac à dos d'école",
+   "it": "Zainetto per la scuola"
+  },
+  "desc": {
+   "ca": "Folrada, amb etiqueta de nom, tirants ajustables i butxaca frontal.",
+   "es": "Forrada, con etiqueta de nombre, tirantes ajustables y bolsillo frontal.",
+   "de": "Gefüttert, mit Namensetikett, verstellbaren Trägern und Fronttasche.",
+   "en": "Lined, with name label, adjustable straps and front pocket.",
+   "fr": "Doublé, avec étiquette de nom, bretelles réglables et poche avant.",
+   "it": "Foderato, con etichetta per il nome, spallacci regolabili e tasca frontale."
+  }
+ },
+ {
+  "id": "strawberry",
+  "n": 20,
+  "format": "short",
+  "level": 1,
+  "accent": "coral",
+  "icon": "pouch",
+  "active": true,
+  "name": {
+   "ca": "Bossa maduixa / bossa per mudes",
+   "es": "Bolsa fresa / bolsa para mudas",
+   "de": "Erdbeer-Beutel",
+   "en": "Strawberry bag",
+   "fr": "Sac fraise",
+   "it": "Borsa fragola"
+  },
+  "desc": {
+   "ca": "Bossa lleugera amb nanses i cordó, amb una maduixeta a la punta. Per a mudes, roba d’esport o el que vulguis.",
+   "es": "Bolsa ligera con asas y cordón, con una fresita en la punta. Para mudas, ropa de deporte o lo que quieras.",
+   "de": "Leichter Beutel mit Henkeln und Kordel und einer kleinen Erdbeere an der Ecke. Für Wechselkleider, Sportsachen oder was du willst.",
+   "en": "Light bag with handles and cord, with a little strawberry at the corner. For spare clothes, sports kit or anything else.",
+   "fr": "Sac léger avec anses et cordelette, et une petite fraise au coin. Pour le linge de rechange, le sport ou ce que tu veux.",
+   "it": "Borsa leggera con manici e cordoncino, con una fragolina all’angolo. Per il cambio, lo sport o quello che vuoi."
+  }
+ },
+ {
+  "id": "ruffle",
+  "n": 21,
+  "format": "sat",
+  "level": 2,
+  "accent": "pink",
+  "icon": "tote",
+  "active": true,
+  "name": {
+   "ca": "Bossa amb volant",
+   "es": "Bolso con volante",
+   "de": "Tasche mit Rüsche",
+   "en": "Ruffle bag",
+   "fr": "Sac à volant",
+   "it": "Borsa con balza"
+  },
+  "desc": {
+   "ca": "Bossa folrada amb volant arrissat, butxaca amb cremallera i tancament de botó. El projecte més complet del format Dissabte.",
+   "es": "Bolso forrado con volante fruncido, bolsillo con cremallera y cierre de botón. El proyecto más completo del formato Sábado.",
+   "de": "Gefütterte Tasche mit gekräuselter Rüsche, Reissverschlusstasche und Knopfverschluss. Das umfangreichste Projekt im Samstagsformat.",
+   "en": "Lined bag with a gathered ruffle, zip pocket and button closure. The most complete Saturday project.",
+   "fr": "Sac doublé avec volant froncé, poche zippée et fermeture à bouton. Le projet le plus complet du format Samedi.",
+   "it": "Borsa foderata con balza arricciata, tasca con cerniera e chiusura a bottone. Il progetto più completo del formato Sabato."
+  }
+ },
+ {
+  "id": "zippouch",
+  "n": 22,
+  "format": "short",
+  "level": 1,
+  "accent": "pink",
+  "icon": "case",
+  "active": true,
+  "name": {
+   "ca": "Zip pouch",
+   "es": "Zip pouch",
+   "de": "Zip Pouch",
+   "en": "Zip pouch",
+   "fr": "Zip pouch",
+   "it": "Zip pouch"
+  },
+  "desc": {
+   "ca": "Funda plana amb cremallera, folre i travetes laterals. El projecte ideal per estrenar la pota de cremallera.",
+   "es": "Funda plana con cremallera, forro y trabillas laterales. El proyecto ideal para estrenar el prensatelas de cremallera.",
+   "de": "Flaches Täschchen mit Reissverschluss, Futter und Seitenschlaufen. Ideal, um den Reissverschlussfuss kennenzulernen.",
+   "en": "Flat zipped pouch with lining and side loops. The ideal first project with the zipper foot.",
+   "fr": "Pochette plate zippée, doublée, avec passants latéraux. Le projet idéal pour apprivoiser le pied fermeture.",
+   "it": "Astuccio piatto con cerniera, fodera e passanti laterali. Il progetto ideale per iniziare con il piedino per cerniere."
+  }
+ },
+ {
+  "id": "boxpouch",
+  "n": 23,
+  "format": "sat",
+  "level": 2,
+  "accent": "mustard",
+  "icon": "pouch",
+  "active": true,
+  "name": {
+   "ca": "Box pouch · necesser 3D",
+   "es": "Box pouch · neceser 3D",
+   "de": "Box Pouch · 3D-Necessaire",
+   "en": "Box pouch",
+   "fr": "Box pouch · trousse 3D",
+   "it": "Box pouch · beauty case 3D"
+  },
+  "desc": {
+   "ca": "Necesser amb forma de caixa, cremallera al llarg i cantonades cosides. Canvas a fora, cotó a dins.",
+   "es": "Neceser con forma de caja, cremallera a lo largo y esquinas cosidas. Canvas por fuera, algodón por dentro.",
+   "de": "Kastenförmiges Necessaire mit langem Reissverschluss und abgenähten Ecken. Canvas aussen, Baumwolle innen.",
+   "en": "Box-shaped pouch with a long zip and boxed corners. Canvas outside, cotton inside.",
+   "fr": "Trousse en forme de boîte, fermeture sur la longueur et coins cousus. Toile dehors, coton dedans.",
+   "it": "Beauty case a scatola con cerniera lungo il lato e angoli cuciti. Canvas fuori, cotone dentro."
+  }
+ },
+ {
+  "id": "boho",
+  "n": 24,
+  "format": "sat",
+  "level": 2,
+  "accent": "sage",
+  "icon": "bucket",
+  "active": true,
+  "name": {
+   "ca": "Boho bag",
+   "es": "Boho bag",
+   "de": "Boho Bag",
+   "en": "Boho bag",
+   "fr": "Boho bag",
+   "it": "Boho bag"
+  },
+  "desc": {
+   "ca": "Tote relaxada, folrada, amb butxaca interior i nanses llargues. Cantonades amb profunditat.",
+   "es": "Tote relajada, forrada, con bolsillo interior y asas largas. Esquinas con profundidad.",
+   "de": "Lässige, gefütterte Tote mit Innentasche und langen Henkeln. Ecken mit Tiefe.",
+   "en": "Relaxed lined tote with inner pocket and long handles. Boxed corners for depth.",
+   "fr": "Tote décontracté, doublé, avec poche intérieure et longues anses. Coins en volume.",
+   "it": "Tote rilassata, foderata, con tasca interna e manici lunghi. Angoli con profondità."
+  }
+ },
+ {
+  "id": "shoebag",
+  "n": 25,
+  "format": "short",
+  "level": 1,
+  "accent": "blue",
+  "icon": "pouch",
+  "active": true,
+  "name": {
+   "ca": "Bossa de sabates",
+   "es": "Bolsa de zapatos",
+   "de": "Schuhbeutel",
+   "en": "Shoe bag",
+   "fr": "Sac à chaussures",
+   "it": "Sacca per scarpe"
+  },
+  "desc": {
+   "ca": "Bossa amb cremallera i folre impermeable per a les sabates dins la maleta. Acabats amb biaix.",
+   "es": "Bolsa con cremallera y forro impermeable para los zapatos en la maleta. Acabados con bies.",
+   "de": "Beutel mit Reissverschluss und wasserdichtem Futter für Schuhe im Koffer. Kanten eingefasst.",
+   "en": "Zipped bag with waterproof lining for shoes in the suitcase. Bound finishes.",
+   "fr": "Sac zippé à doublure imperméable pour les chaussures dans la valise. Finitions au biais.",
+   "it": "Sacca con cerniera e fodera impermeabile per le scarpe in valigia. Rifiniture a sbieco."
+  }
+ }
+]

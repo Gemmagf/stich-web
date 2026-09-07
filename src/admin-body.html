@@ -1,0 +1,36 @@
+<main class="adm wrap">
+  <header class="adm__head">
+    <a class="logo" href="index.html" aria-label="STICH"><div class="logo__mark">S<span>T</span><span class="colon">:</span>C<span>H</span></div><div class="logo__sub">Administració</div></a>
+    <div class="adm__auth">
+      <input type="password" id="token" placeholder="Token de GitHub" autocomplete="off" spellcheck="false">
+      <button class="btn btn--sm" type="button" id="token-save">Connecta</button>
+      <span class="adm__status" id="status">Sense connectar. Sense token pots mirar, no desar.</span>
+    </div>
+  </header>
+
+  <nav class="adm__tabs" role="tablist">
+    <button class="adm__tab is-on" data-tab="sessions" type="button">Sessions</button>
+    <button class="adm__tab" data-tab="kits" type="button">Kits</button>
+    <button class="adm__tab" data-tab="settings" type="button">Configuració</button>
+    <a class="adm__tab adm__tab--link" href="index.html" target="_blank">Veure la web ↗</a>
+  </nav>
+
+  <section class="adm__panel" id="panel-sessions">
+    <div class="adm__bar"><h2>Sessions</h2><div><button class="btn btn--ghost btn--sm" type="button" id="session-add">+ Nova sessió</button> <button class="btn btn--sage btn--sm" type="button" data-save="sessions">Desa sessions</button></div></div>
+    <p class="adm__hint">Les sessions amb data passada o estat "feta" no surten a la web. "Places" són les lliures de la capacitat.</p>
+    <div id="sessions-list" class="adm__list"></div>
+  </section>
+
+  <section class="adm__panel" id="panel-kits" hidden>
+    <div class="adm__bar"><h2>Kits</h2><div><button class="btn btn--ghost btn--sm" type="button" id="kit-add">+ Nou kit</button> <button class="btn btn--sage btn--sm" type="button" data-save="kits">Desa kits</button></div></div>
+    <p class="adm__hint">Un kit desactivat desapareix de la web sense esborrar-lo. La guia pas a pas és un fitxer a part (<code>data/guides/&lt;id&gt;.json</code>); si no n'hi ha, la pàgina del kit diu que està en preparació.</p>
+    <div id="kits-list" class="adm__list"></div>
+  </section>
+
+  <section class="adm__panel" id="panel-settings" hidden>
+    <div class="adm__bar"><h2>Configuració</h2><button class="btn btn--sage btn--sm" type="button" data-save="settings">Desa configuració</button></div>
+    <div id="settings-form" class="adm__form"></div>
+  </section>
+
+  <div class="adm__toast" id="toast" hidden></div>
+</main>

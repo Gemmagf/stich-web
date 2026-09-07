@@ -1,0 +1,433 @@
+{
+ "badge": "KIT 15",
+ "hours": 4,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Stitched by Sarah",
+  "https://stitchednz.com/blogs/news/free-basic-sleeve-sewing-pattern-large-size-laptop-tablet-or-book-sleeve-pdf-tutorial"
+ ],
+ "L": {
+  "ca": {
+   "title": "Funda d’ordinador",
+   "materials": [
+    [
+     "Exterior",
+     "Segons mida del dispositiu"
+    ],
+    [
+     "Folre",
+     "Mateixa mida"
+    ],
+    [
+     "Encoixinat",
+     "Foam o fleece termoadhesiu"
+    ],
+    [
+     "Tancament",
+     "Snap o velcro opcional"
+    ],
+    [
+     "Patró",
+     "PDF gratuït"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Mesurar",
+     "t": "Tria mida",
+     "items": [
+      "Mesura l’ordinador i comprova la mida final del patró abans de tallar."
+     ]
+    },
+    {
+     "e": "Tallar",
+     "t": "Talla i estabilitza",
+     "items": [
+      "Talla exterior, folre i encoixinat. Fixa l’encoixinat al revers de l’exterior."
+     ]
+    },
+    {
+     "e": "Exterior",
+     "t": "Exterior",
+     "items": [
+      "Cus els laterals i la base de l’exterior, formant la petita base si el patró la inclou."
+     ]
+    },
+    {
+     "e": "Folre",
+     "t": "Folre",
+     "items": [
+      "Munta el folre deixant una obertura per girar."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Uneix",
+     "items": [
+      "Col·loca exterior i folre cara bonica amb cara bonica i cus tota la boca."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira i acaba",
+     "items": [
+      "Gira, tanca el folre i fes un repunt superior. Prova l’ordinador abans d’afegir cap tancament."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Funda de portátil",
+   "materials": [
+    [
+     "Exterior",
+     "Según tamaño del dispositivo"
+    ],
+    [
+     "Forro",
+     "Mismo tamaño"
+    ],
+    [
+     "Acolchado",
+     "Foam o fleece termoadhesivo"
+    ],
+    [
+     "Cierre",
+     "Snap o velcro opcional"
+    ],
+    [
+     "Patrón",
+     "PDF gratuito"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Medir",
+     "t": "Elige el tamaño",
+     "items": [
+      "Mide el portátil y comprueba la medida final del patrón antes de cortar."
+     ]
+    },
+    {
+     "e": "Cortar",
+     "t": "Corta y estabiliza",
+     "items": [
+      "Corta exterior, forro y acolchado. Fija el acolchado en el revés del exterior."
+     ]
+    },
+    {
+     "e": "Exterior",
+     "t": "Exterior",
+     "items": [
+      "Cose los laterales y la base del exterior, formando la pequeña base si el patrón la incluye."
+     ]
+    },
+    {
+     "e": "Forro",
+     "t": "Forro",
+     "items": [
+      "Monta el forro dejando una abertura para girar."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Une",
+     "items": [
+      "Coloca exterior y forro derecho con derecho y cose toda la boca."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira y acaba",
+     "items": [
+      "Gira, cierra el forro y haz un pespunte superior. Prueba el portátil antes de añadir cualquier cierre."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Laptop sleeve",
+   "materials": [
+    [
+     "Outer",
+     "To the size of the device"
+    ],
+    [
+     "Lining",
+     "Same size"
+    ],
+    [
+     "Padding",
+     "Fusible foam or fleece"
+    ],
+    [
+     "Closure",
+     "Optional snap or velcro"
+    ],
+    [
+     "Pattern",
+     "Free PDF"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Measure",
+     "t": "Pick the size",
+     "items": [
+      "Measure the laptop and check the finished pattern size before cutting."
+     ]
+    },
+    {
+     "e": "Cut",
+     "t": "Cut and stabilise",
+     "items": [
+      "Cut outer, lining and padding. Fuse the padding to the wrong side of the outer."
+     ]
+    },
+    {
+     "e": "Outer",
+     "t": "Outer",
+     "items": [
+      "Sew the sides and base of the outer, forming the small base if the pattern has one."
+     ]
+    },
+    {
+     "e": "Lining",
+     "t": "Lining",
+     "items": [
+      "Assemble the lining leaving a gap to turn."
+     ]
+    },
+    {
+     "e": "Join",
+     "t": "Join",
+     "items": [
+      "Place outer and lining right sides together and sew all around the opening."
+     ]
+    },
+    {
+     "e": "Turn",
+     "t": "Turn and finish",
+     "items": [
+      "Turn, close the lining and topstitch the top. Try the laptop before adding any closure."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Laptophülle",
+   "materials": [
+    [
+     "Aussenstoff",
+     "nach Gerätegrösse"
+    ],
+    [
+     "Futter",
+     "gleiche Grösse"
+    ],
+    [
+     "Polsterung",
+     "Aufbügelbarer Foam oder Fleece"
+    ],
+    [
+     "Verschluss",
+     "optional Druckknopf oder Klett"
+    ],
+    [
+     "Schnitt",
+     "Gratis-PDF"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Messen",
+     "t": "Grösse wählen",
+     "items": [
+      "Laptop messen und die Endgrösse des Schnitts vor dem Zuschneiden prüfen."
+     ]
+    },
+    {
+     "e": "Zuschneiden",
+     "t": "Zuschneiden und verstärken",
+     "items": [
+      "Aussenstoff, Futter und Polsterung zuschneiden. Polsterung auf die linke Seite des Aussenstoffs bügeln."
+     ]
+    },
+    {
+     "e": "Aussen",
+     "t": "Aussen",
+     "items": [
+      "Seiten und Boden des Aussenteils nähen, bei Bedarf den kleinen Boden nach Schnitt formen."
+     ]
+    },
+    {
+     "e": "Futter",
+     "t": "Futter",
+     "items": [
+      "Futter zusammensetzen und eine Wendeöffnung lassen."
+     ]
+    },
+    {
+     "e": "Verbinden",
+     "t": "Verbinden",
+     "items": [
+      "Aussen und Futter rechts auf rechts legen und die Öffnung rundum nähen."
+     ]
+    },
+    {
+     "e": "Wenden",
+     "t": "Wenden und fertigstellen",
+     "items": [
+      "Wenden, Futter schliessen und Oberkante absteppen. Vor einem Verschluss den Laptop anprobieren."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Housse d’ordinateur",
+   "materials": [
+    [
+     "Extérieur",
+     "Selon la taille de l’appareil"
+    ],
+    [
+     "Doublure",
+     "Même taille"
+    ],
+    [
+     "Rembourrage",
+     "Mousse ou molleton thermocollant"
+    ],
+    [
+     "Fermeture",
+     "Pression ou velcro en option"
+    ],
+    [
+     "Patron",
+     "PDF gratuit"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Mesurer",
+     "t": "Choisis la taille",
+     "items": [
+      "Mesure l’ordinateur et vérifie la taille finale du patron avant de couper."
+     ]
+    },
+    {
+     "e": "Couper",
+     "t": "Coupe et stabilise",
+     "items": [
+      "Coupe extérieur, doublure et rembourrage. Fixe le rembourrage sur l’envers de l’extérieur."
+     ]
+    },
+    {
+     "e": "Extérieur",
+     "t": "Extérieur",
+     "items": [
+      "Couds les côtés et le fond de l’extérieur, en formant le petit fond si le patron le prévoit."
+     ]
+    },
+    {
+     "e": "Doublure",
+     "t": "Doublure",
+     "items": [
+      "Monte la doublure en laissant une ouverture pour retourner."
+     ]
+    },
+    {
+     "e": "Assembler",
+     "t": "Assemble",
+     "items": [
+      "Place extérieur et doublure endroit contre endroit et couds toute l’ouverture."
+     ]
+    },
+    {
+     "e": "Retourner",
+     "t": "Retourne et termine",
+     "items": [
+      "Retourne, ferme la doublure et surpique le haut. Essaie l’ordinateur avant d’ajouter une fermeture."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Custodia per laptop",
+   "materials": [
+    [
+     "Esterno",
+     "Secondo la misura del dispositivo"
+    ],
+    [
+     "Fodera",
+     "Stessa misura"
+    ],
+    [
+     "Imbottitura",
+     "Foam o pile termoadesivo"
+    ],
+    [
+     "Chiusura",
+     "Bottone automatico o velcro opzionale"
+    ],
+    [
+     "Cartamodello",
+     "PDF gratuito"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Misurare",
+     "t": "Scegli la misura",
+     "items": [
+      "Misura il computer e controlla la misura finale del cartamodello prima di tagliare."
+     ]
+    },
+    {
+     "e": "Tagliare",
+     "t": "Taglia e stabilizza",
+     "items": [
+      "Taglia esterno, fodera e imbottitura. Fissa l’imbottitura sul rovescio dell’esterno."
+     ]
+    },
+    {
+     "e": "Esterno",
+     "t": "Esterno",
+     "items": [
+      "Cuci i lati e la base dell’esterno, formando la piccola base se il cartamodello la prevede."
+     ]
+    },
+    {
+     "e": "Fodera",
+     "t": "Fodera",
+     "items": [
+      "Monta la fodera lasciando un’apertura per rivoltare."
+     ]
+    },
+    {
+     "e": "Unire",
+     "t": "Unisci",
+     "items": [
+      "Metti esterno e fodera dritto contro dritto e cuci tutta l’apertura."
+     ]
+    },
+    {
+     "e": "Rivoltare",
+     "t": "Rivolta e finisci",
+     "items": [
+      "Rivolta, chiudi la fodera e fai un’impuntura superiore. Prova il computer prima di aggiungere una chiusura."
+     ]
+    }
+   ]
+  }
+ }
+}

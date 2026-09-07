@@ -1,0 +1,500 @@
+{
+ "badge": "KIT 11",
+ "hours": 3,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws",
+ "src": [
+  "Heather Handmade",
+  "https://www.heatherhandmade.com/box-zipper-pouch-free-sewing-pattern/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Box pouch · necesser 3D",
+   "materials": [
+    [
+     "Exterior",
+     "1 fat quarter de canvas"
+    ],
+    [
+     "Folre",
+     "1 fat quarter de cotó"
+    ],
+    [
+     "Entretela",
+     "Mitjana o gruixuda, termoadhesiva"
+    ],
+    [
+     "Cremallera",
+     "30,5 cm o més"
+    ],
+    [
+     "Opcional",
+     "Entretela de volum termoadhesiva"
+    ],
+    [
+     "Patró",
+     "PDF gratuït de la font"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla i estabilitza",
+     "items": [
+      "Talla exterior, folre i entretela amb el patró. Planxa l’entretela al revers de l’exterior."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Primer costat de cremallera",
+     "items": [
+      "Alinea exterior amb la cara bona de la cremallera i folre amb la cara interior. Cus amb pota de cremallera."
+     ]
+    },
+    {
+     "e": "Repunt",
+     "t": "Obre i repunta",
+     "items": [
+      "Planxa exterior i folre lluny de la cremallera i fes un repunt de càrrega."
+     ]
+    },
+    {
+     "e": "Repetir",
+     "t": "Tanca l’altre costat",
+     "items": [
+      "Repeteix el mateix procés a l’altre costat de la cremallera fins formar un tub."
+     ]
+    },
+    {
+     "e": "Extrems",
+     "t": "Tanca els extrems",
+     "items": [
+      "Centra la cremallera i cus els dos extrems curts. Retalla el sobrant de cremallera."
+     ]
+    },
+    {
+     "e": "Cantonades",
+     "t": "Forma les quatre cantonades",
+     "items": [
+      "Obre completament la cremallera. Aplana cadascuna de les quatre obertures de cantonada, alineant costures, i cus-les."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Remata i gira",
+     "items": [
+      "Acaba els marges amb zig-zag o overlock i gira el necesser per la cremallera."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Box pouch · neceser 3D",
+   "materials": [
+    [
+     "Exterior",
+     "1 fat quarter de canvas"
+    ],
+    [
+     "Forro",
+     "1 fat quarter de algodón"
+    ],
+    [
+     "Entretela",
+     "Media o gruesa, termoadhesiva"
+    ],
+    [
+     "Cremallera",
+     "30,5 cm o más"
+    ],
+    [
+     "Opcional",
+     "Guata termoadhesiva"
+    ],
+    [
+     "Patrón",
+     "PDF gratuito de la fuente"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta y estabiliza",
+     "items": [
+      "Corta exterior, forro y entretela con el patrón. Plancha la entretela en el revés del exterior."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Primer lado de cremallera",
+     "items": [
+      "Alinea el exterior con la cara buena de la cremallera y el forro con la cara interior. Cose con prensatelas de cremallera."
+     ]
+    },
+    {
+     "e": "Pespunte",
+     "t": "Abre y pespuntea",
+     "items": [
+      "Plancha exterior y forro alejados de la cremallera y haz un pespunte de carga."
+     ]
+    },
+    {
+     "e": "Repetir",
+     "t": "Cierra el otro lado",
+     "items": [
+      "Repite el mismo proceso en el otro lado de la cremallera hasta formar un tubo."
+     ]
+    },
+    {
+     "e": "Extremos",
+     "t": "Cierra los extremos",
+     "items": [
+      "Centra la cremallera y cose los dos extremos cortos. Recorta el sobrante de cremallera."
+     ]
+    },
+    {
+     "e": "Esquinas",
+     "t": "Forma las cuatro esquinas",
+     "items": [
+      "Abre del todo la cremallera. Aplana cada una de las cuatro aberturas de esquina, alineando costuras, y cóselas."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Remata y gira",
+     "items": [
+      "Acaba los márgenes con zigzag u overlock y gira el neceser por la cremallera."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Box pouch · 3D toiletry bag",
+   "materials": [
+    [
+     "Outer",
+     "1 fat quarter of canvas"
+    ],
+    [
+     "Lining",
+     "1 fat quarter of quilting cotton"
+    ],
+    [
+     "Interfacing",
+     "Medium or heavy, fusible"
+    ],
+    [
+     "Zip",
+     "30.5 cm or longer"
+    ],
+    [
+     "Optional",
+     "Fusible fleece"
+    ],
+    [
+     "Pattern",
+     "Free PDF from the source"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut and stabilise",
+     "items": [
+      "Cut outer, lining and interfacing with the pattern. Fuse the interfacing to the wrong side of the outer."
+     ]
+    },
+    {
+     "e": "Zip",
+     "t": "First zip side",
+     "items": [
+      "Align the outer with the right side of the zip and the lining with the inner side. Sew with the zipper foot."
+     ]
+    },
+    {
+     "e": "Topstitch",
+     "t": "Open and topstitch",
+     "items": [
+      "Press outer and lining away from the zip and topstitch."
+     ]
+    },
+    {
+     "e": "Repeat",
+     "t": "Close the other side",
+     "items": [
+      "Repeat the same on the other side of the zip until you have a tube."
+     ]
+    },
+    {
+     "e": "Ends",
+     "t": "Close the ends",
+     "items": [
+      "Centre the zip and sew the two short ends. Trim the excess zip."
+     ]
+    },
+    {
+     "e": "Corners",
+     "t": "Box the four corners",
+     "items": [
+      "Open the zip fully. Flatten each of the four corner openings, matching seams, and sew them."
+     ]
+    },
+    {
+     "e": "Finish",
+     "t": "Finish and turn",
+     "items": [
+      "Finish the allowances with a zigzag or overlocker and turn the pouch through the zip."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Box Pouch · 3D-Necessaire",
+   "materials": [
+    [
+     "Aussenstoff",
+     "1 Fat Quarter Canvas"
+    ],
+    [
+     "Futter",
+     "1 Fat Quarter Baumwolle"
+    ],
+    [
+     "Einlage",
+     "Mittel oder fest, aufbügelbar"
+    ],
+    [
+     "Reissverschluss",
+     "30,5 cm oder länger"
+    ],
+    [
+     "Optional",
+     "Aufbügelbares Volumenvlies"
+    ],
+    [
+     "Schnitt",
+     "Gratis-PDF der Quelle"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Zuschneiden und verstärken",
+     "items": [
+      "Aussenstoff, Futter und Einlage nach Schnitt zuschneiden. Einlage auf die linke Seite des Aussenstoffs bügeln."
+     ]
+    },
+    {
+     "e": "Reissverschluss",
+     "t": "Erste Reissverschlussseite",
+     "items": [
+      "Aussenstoff an die rechte Seite des Reissverschlusses legen, Futter an die Innenseite. Mit dem Reissverschlussfuss nähen."
+     ]
+    },
+    {
+     "e": "Absteppen",
+     "t": "Aufklappen und absteppen",
+     "items": [
+      "Aussenstoff und Futter vom Reissverschluss weg bügeln und absteppen."
+     ]
+    },
+    {
+     "e": "Wiederholen",
+     "t": "Andere Seite schliessen",
+     "items": [
+      "Dasselbe auf der anderen Seite des Reissverschlusses wiederholen, bis ein Schlauch entsteht."
+     ]
+    },
+    {
+     "e": "Enden",
+     "t": "Enden schliessen",
+     "items": [
+      "Reissverschluss zentrieren und die beiden kurzen Enden nähen. Überstehenden Reissverschluss abschneiden."
+     ]
+    },
+    {
+     "e": "Ecken",
+     "t": "Vier Ecken formen",
+     "items": [
+      "Reissverschluss ganz öffnen. Jede der vier Eckenöffnungen flach legen, Nähte aufeinander, und nähen."
+     ]
+    },
+    {
+     "e": "Fertigstellen",
+     "t": "Versäubern und wenden",
+     "items": [
+      "Nahtzugaben mit Zickzack oder Overlock versäubern und das Necessaire durch den Reissverschluss wenden."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Box pouch · trousse 3D",
+   "materials": [
+    [
+     "Extérieur",
+     "1 fat quarter de toile"
+    ],
+    [
+     "Doublure",
+     "1 fat quarter de coton"
+    ],
+    [
+     "Entoilage",
+     "Moyen ou épais, thermocollant"
+    ],
+    [
+     "Fermeture",
+     "30,5 cm ou plus"
+    ],
+    [
+     "Optionnel",
+     "Molleton thermocollant"
+    ],
+    [
+     "Patron",
+     "PDF gratuit de la source"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe et entoile",
+     "items": [
+      "Coupe extérieur, doublure et entoilage avec le patron. Thermocolle l’entoilage sur l’envers de l’extérieur."
+     ]
+    },
+    {
+     "e": "Fermeture",
+     "t": "Premier côté de la fermeture",
+     "items": [
+      "Aligne l’extérieur sur l’endroit de la fermeture et la doublure sur l’envers. Couds au pied fermeture."
+     ]
+    },
+    {
+     "e": "Surpiqûre",
+     "t": "Ouvre et surpique",
+     "items": [
+      "Repasse extérieur et doublure à l’opposé de la fermeture et surpique."
+     ]
+    },
+    {
+     "e": "Répéter",
+     "t": "Ferme l’autre côté",
+     "items": [
+      "Répète de l’autre côté de la fermeture jusqu’à former un tube."
+     ]
+    },
+    {
+     "e": "Extrémités",
+     "t": "Ferme les extrémités",
+     "items": [
+      "Centre la fermeture et couds les deux petits côtés. Recoupe le surplus de fermeture."
+     ]
+    },
+    {
+     "e": "Coins",
+     "t": "Forme les quatre coins",
+     "items": [
+      "Ouvre complètement la fermeture. Aplatis chacune des quatre ouvertures de coin, coutures alignées, et couds-les."
+     ]
+    },
+    {
+     "e": "Finir",
+     "t": "Surfile et retourne",
+     "items": [
+      "Surfile les marges au zigzag ou à la surjeteuse et retourne la trousse par la fermeture."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Box pouch · beauty case 3D",
+   "materials": [
+    [
+     "Esterno",
+     "1 fat quarter di canvas"
+    ],
+    [
+     "Fodera",
+     "1 fat quarter di cotone"
+    ],
+    [
+     "Interfodera",
+     "Media o pesante, termoadesiva"
+    ],
+    [
+     "Cerniera",
+     "30,5 cm o più"
+    ],
+    [
+     "Opzionale",
+     "Imbottitura termoadesiva"
+    ],
+    [
+     "Cartamodello",
+     "PDF gratuito della fonte"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia e stabilizza",
+     "items": [
+      "Taglia esterno, fodera e interfodera con il cartamodello. Stira l’interfodera sul rovescio dell’esterno."
+     ]
+    },
+    {
+     "e": "Cerniera",
+     "t": "Primo lato della cerniera",
+     "items": [
+      "Allinea l’esterno con il dritto della cerniera e la fodera con il lato interno. Cuci con il piedino per cerniere."
+     ]
+    },
+    {
+     "e": "Impuntura",
+     "t": "Apri e impuntura",
+     "items": [
+      "Stira esterno e fodera lontano dalla cerniera e fai un’impuntura."
+     ]
+    },
+    {
+     "e": "Ripetere",
+     "t": "Chiudi l’altro lato",
+     "items": [
+      "Ripeti lo stesso sull’altro lato della cerniera fino a formare un tubo."
+     ]
+    },
+    {
+     "e": "Estremità",
+     "t": "Chiudi le estremità",
+     "items": [
+      "Centra la cerniera e cuci le due estremità corte. Rifila la cerniera in eccesso."
+     ]
+    },
+    {
+     "e": "Angoli",
+     "t": "Forma i quattro angoli",
+     "items": [
+      "Apri del tutto la cerniera. Appiattisci ognuna delle quattro aperture d’angolo, allineando le cuciture, e cucile."
+     ]
+    },
+    {
+     "e": "Finire",
+     "t": "Rifinisci e rivolta",
+     "items": [
+      "Rifinisci i margini con zigzag o tagliacuci e rivolta il beauty case dalla cerniera."
+     ]
+    }
+   ]
+  }
+ }
+}

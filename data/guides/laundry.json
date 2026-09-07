@@ -1,0 +1,433 @@
+{
+ "badge": "KIT 06",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "SewCanShe",
+  "https://sewcanshe.com/2018-6-22-drawstring-ditty-bag-free-sewing-pattern/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Bossa per a roba interior",
+   "materials": [
+    [
+     "Tela principal",
+     "2–3 teixits combinats"
+    ],
+    [
+     "Cordó",
+     "2 trams"
+    ],
+    [
+     "Opcional",
+     "Base rígida"
+    ],
+    [
+     "Fil",
+     "A joc"
+    ],
+    [
+     "Mida",
+     "Adaptable al contingut"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla les peces",
+     "items": [
+      "Talla el cos i laterals segons el tutorial. Per a una bossa de roba interior STICH, mantén-la plana i lleugera."
+     ]
+    },
+    {
+     "e": "Cos",
+     "t": "Forma el cos",
+     "items": [
+      "Uneix les peces frontals i posteriors o la peça llarga del cos segons la variant escollida."
+     ]
+    },
+    {
+     "e": "Laterals",
+     "t": "Cus laterals",
+     "items": [
+      "Afegeix els laterals, fent coincidir les cantonades i rematant marges amb zig-zag."
+     ]
+    },
+    {
+     "e": "Canal",
+     "t": "Fes el canal",
+     "items": [
+      "Doblega la part superior dues vegades i cus deixant lliures les obertures laterals del canal."
+     ]
+    },
+    {
+     "e": "Cordó",
+     "t": "Passa els cordons",
+     "items": [
+      "Passa dos cordons en sentits oposats amb una agulla imperdible."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Acaba",
+     "items": [
+      "Fes nusos o afegeix topalls. Si uses base rígida, introdueix-la al final."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Bolsa para ropa interior",
+   "materials": [
+    [
+     "Tela principal",
+     "2–3 tejidos combinados"
+    ],
+    [
+     "Cordón",
+     "2 tramos"
+    ],
+    [
+     "Opcional",
+     "Base rígida"
+    ],
+    [
+     "Hilo",
+     "A juego"
+    ],
+    [
+     "Tamaño",
+     "Adaptable al contenido"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta las piezas",
+     "items": [
+      "Corta el cuerpo y los laterales según el tutorial. Para una bolsa de ropa interior STICH, mantenla plana y ligera."
+     ]
+    },
+    {
+     "e": "Cuerpo",
+     "t": "Forma el cuerpo",
+     "items": [
+      "Une las piezas delantera y trasera o la pieza larga del cuerpo según la variante elegida."
+     ]
+    },
+    {
+     "e": "Laterales",
+     "t": "Cose los laterales",
+     "items": [
+      "Añade los laterales, haciendo coincidir las esquinas y rematando los márgenes con zigzag."
+     ]
+    },
+    {
+     "e": "Canal",
+     "t": "Haz el canal",
+     "items": [
+      "Dobla la parte superior dos veces y cose dejando libres las aberturas laterales del canal."
+     ]
+    },
+    {
+     "e": "Cordón",
+     "t": "Pasa los cordones",
+     "items": [
+      "Pasa dos cordones en sentidos opuestos con un imperdible."
+     ]
+    },
+    {
+     "e": "Acabar",
+     "t": "Acaba",
+     "items": [
+      "Haz nudos o añade topes. Si usas base rígida, introdúcela al final."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Laundry & lingerie bag",
+   "materials": [
+    [
+     "Main fabric",
+     "2–3 mixed fabrics"
+    ],
+    [
+     "Cord",
+     "2 lengths"
+    ],
+    [
+     "Optional",
+     "Stiff base"
+    ],
+    [
+     "Thread",
+     "Matching"
+    ],
+    [
+     "Size",
+     "Adapt to the contents"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the pieces",
+     "items": [
+      "Cut body and sides as in the tutorial. For a STICH lingerie bag, keep it flat and light."
+     ]
+    },
+    {
+     "e": "Body",
+     "t": "Form the body",
+     "items": [
+      "Join front and back pieces or the long body piece, depending on the version you chose."
+     ]
+    },
+    {
+     "e": "Sides",
+     "t": "Sew the sides",
+     "items": [
+      "Add the sides, matching the corners and finishing the allowances with a zigzag."
+     ]
+    },
+    {
+     "e": "Casing",
+     "t": "Make the casing",
+     "items": [
+      "Fold the top twice and sew, leaving the side openings of the casing free."
+     ]
+    },
+    {
+     "e": "Cord",
+     "t": "Thread the cords",
+     "items": [
+      "Thread two cords in opposite directions with a safety pin."
+     ]
+    },
+    {
+     "e": "Finish",
+     "t": "Finish",
+     "items": [
+      "Tie knots or add stoppers. If you use a stiff base, slide it in at the end."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Wäschebeutel",
+   "materials": [
+    [
+     "Hauptstoff",
+     "2–3 kombinierte Stoffe"
+    ],
+    [
+     "Kordel",
+     "2 Stücke"
+    ],
+    [
+     "Optional",
+     "Fester Boden"
+    ],
+    [
+     "Garn",
+     "passend"
+    ],
+    [
+     "Grösse",
+     "An den Inhalt anpassbar"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Teile zuschneiden",
+     "items": [
+      "Körper und Seiten nach Tutorial zuschneiden. Für einen STICH-Wäschebeutel flach und leicht halten."
+     ]
+    },
+    {
+     "e": "Körper",
+     "t": "Körper formen",
+     "items": [
+      "Vorder- und Rückteil oder das lange Körperteil je nach Variante zusammennähen."
+     ]
+    },
+    {
+     "e": "Seiten",
+     "t": "Seiten nähen",
+     "items": [
+      "Seitenteile ansetzen, Ecken aufeinander, Zugaben mit Zickzack versäubern."
+     ]
+    },
+    {
+     "e": "Tunnel",
+     "t": "Tunnel nähen",
+     "items": [
+      "Oberkante zweimal umschlagen und nähen, die seitlichen Tunnelöffnungen frei lassen."
+     ]
+    },
+    {
+     "e": "Kordel",
+     "t": "Kordeln einziehen",
+     "items": [
+      "Zwei Kordeln in gegenläufiger Richtung mit einer Sicherheitsnadel einziehen."
+     ]
+    },
+    {
+     "e": "Fertigstellen",
+     "t": "Fertigstellen",
+     "items": [
+      "Knoten machen oder Stopper anbringen. Bei festem Boden diesen zum Schluss einschieben."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Pochette à lingerie",
+   "materials": [
+    [
+     "Tissu principal",
+     "2–3 tissus assortis"
+    ],
+    [
+     "Cordon",
+     "2 longueurs"
+    ],
+    [
+     "Optionnel",
+     "Fond rigide"
+    ],
+    [
+     "Fil",
+     "Assorti"
+    ],
+    [
+     "Taille",
+     "Adaptable au contenu"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe les pièces",
+     "items": [
+      "Coupe le corps et les côtés selon le tutoriel. Pour une pochette à lingerie STICH, garde-la plate et légère."
+     ]
+    },
+    {
+     "e": "Corps",
+     "t": "Forme le corps",
+     "items": [
+      "Assemble devant et dos ou la longue pièce de corps selon la variante choisie."
+     ]
+    },
+    {
+     "e": "Côtés",
+     "t": "Couds les côtés",
+     "items": [
+      "Ajoute les côtés en faisant coïncider les coins et surfile les marges au zigzag."
+     ]
+    },
+    {
+     "e": "Coulisse",
+     "t": "Fais la coulisse",
+     "items": [
+      "Plie le haut deux fois et couds en laissant libres les ouvertures latérales de la coulisse."
+     ]
+    },
+    {
+     "e": "Cordon",
+     "t": "Passe les cordons",
+     "items": [
+      "Passe deux cordons en sens opposés avec une épingle à nourrice."
+     ]
+    },
+    {
+     "e": "Finir",
+     "t": "Termine",
+     "items": [
+      "Fais des nœuds ou ajoute des stop-cordons. Avec un fond rigide, glisse-le à la fin."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Sacchetto per biancheria",
+   "materials": [
+    [
+     "Tessuto principale",
+     "2–3 tessuti abbinati"
+    ],
+    [
+     "Cordoncino",
+     "2 tratti"
+    ],
+    [
+     "Opzionale",
+     "Base rigida"
+    ],
+    [
+     "Filo",
+     "In tinta"
+    ],
+    [
+     "Misura",
+     "Adattabile al contenuto"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia i pezzi",
+     "items": [
+      "Taglia corpo e lati secondo il tutorial. Per un sacchetto STICH, tienilo piatto e leggero."
+     ]
+    },
+    {
+     "e": "Corpo",
+     "t": "Forma il corpo",
+     "items": [
+      "Unisci davanti e dietro o il pezzo lungo del corpo secondo la variante scelta."
+     ]
+    },
+    {
+     "e": "Lati",
+     "t": "Cuci i lati",
+     "items": [
+      "Aggiungi i lati facendo combaciare gli angoli e rifinisci i margini con zigzag."
+     ]
+    },
+    {
+     "e": "Passante",
+     "t": "Fai il passante",
+     "items": [
+      "Piega il bordo superiore due volte e cuci lasciando libere le aperture laterali del passante."
+     ]
+    },
+    {
+     "e": "Cordoncino",
+     "t": "Infila i cordoncini",
+     "items": [
+      "Infila due cordoncini in direzioni opposte con una spilla da balia."
+     ]
+    },
+    {
+     "e": "Finire",
+     "t": "Finisci",
+     "items": [
+      "Fai dei nodi o aggiungi fermacorda. Se usi la base rigida, inseriscila alla fine."
+     ]
+    }
+   ]
+  }
+ }
+}

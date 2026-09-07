@@ -1,0 +1,1166 @@
+{
+ "badge": "KIT 02",
+ "hours": 3,
+ "imgs": [
+  null,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "L": {
+  "ca": {
+   "title": "Necesser amb volant",
+   "intro": "Una guia visual perquè puguis seguir el projecte pas a pas sense perdre’t. Cada bloc t’indica què has de preparar, què has de cosir i com ha de quedar abans de continuar.",
+   "pills": [
+    "± 3 h",
+    "Cremallera · 45 cm",
+    "Acolxat + folre",
+    "Butxaca interior"
+   ],
+   "materials": [
+    [
+     "Volant",
+     "2 tires · 70 × 11 cm"
+    ],
+    [
+     "Exterior",
+     "2 peces · 31 × 40 cm"
+    ],
+    [
+     "Folre interior",
+     "2 peces · 31 × 40 cm"
+    ],
+    [
+     "Butxaca",
+     "2 peces · 30 × 12 cm"
+    ],
+    [
+     "Estabilitzador / foam",
+     "2 peces · 31 × 40 cm"
+    ],
+    [
+     "Cremallera",
+     "1 unitat · 45 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Exterior",
+     "t": "Acolxem la tela exterior",
+     "items": [
+      [
+       "Col·loca",
+       "Posa cada peça exterior sobre una peça de foam o estabilitzador."
+      ],
+      [
+       "Marca",
+       "Dibuixa línies verticals cada 5 cm amb un bolígraf de planxa."
+      ],
+      [
+       "Cus",
+       "Cus exactament sobre cada línia perquè tela i estabilitzador quedin units."
+      ]
+     ],
+     "check": "Has de tenir dues peces exteriors acolxades abans de passar al volant."
+    },
+    {
+     "e": "Volant",
+     "t": "Fem el farbalà",
+     "items": [
+      [
+       "Doblega i planxa",
+       "Doblega cada tira de 70 × 11 cm per la meitat, al llarg."
+      ],
+      [
+       "Prepara la màquina",
+       "Posa fil de goma a la canilla. Llargada de puntada: 4. Tensió: 0."
+      ],
+      [
+       "Arruga",
+       "Cus un repunt recte pel costat obert, sense atacar. La tela s’anirà arrugant fins a formar el volant."
+      ],
+      [
+       "Fixa",
+       "Col·loca el volant a la part superior de cada peça acolxada i fixa’l amb un zig-zag."
+      ]
+     ],
+     "tip": "Repeteix aquest procés a les dues peces exteriors.",
+     "cap": "Referència · volant"
+    },
+    {
+     "e": "Folre",
+     "t": "Cosim la butxaca",
+     "items": [
+      [
+       "Enfronta",
+       "Posa les dues peces de butxaca cara bonica amb cara bonica."
+      ],
+      [
+       "Cus",
+       "Cus els dos costats llargs a mida de pota."
+      ],
+      [
+       "Gira i planxa",
+       "Gira la peça per un lateral i planxa-la bé."
+      ],
+      [
+       "Repunta",
+       "Fes un repunt a la part superior de la butxaca."
+      ],
+      [
+       "Col·loca",
+       "Centra-la sobre una de les peces de folre i cus només la part inferior."
+      ]
+     ],
+     "cap": "Referència · butxaca"
+    },
+    {
+     "e": "Muntatge",
+     "t": "Muntem la cremallera",
+     "items": [
+      [
+       "Fes el “sandvitx”",
+       "Exterior amb volant + cremallera encarada al volant + folre encarat a l’exterior."
+      ],
+      [
+       "Fixa",
+       "Alinia les tres capes a la part superior i subjecta-les amb agulles."
+      ],
+      [
+       "Cus",
+       "Utilitza la pota de cremallera i cus la part superior del conjunt."
+      ],
+      [
+       "Gira i repunta",
+       "Obre les teles cap a fora, estira-les bé i fes un repunt de càrrega per sota del volant."
+      ],
+      [
+       "Repeteix",
+       "Fes exactament el mateix a l’altre costat de la cremallera."
+      ]
+     ],
+     "warn": "El repunt ha de tapar els fils que han fixat el volant a la tela exterior. Si encara es veuen, entra una mica més el repunt.",
+     "cap": "Referència · cremallera"
+    },
+    {
+     "e": "Tancament",
+     "t": "Tanquem el necesser",
+     "items": [
+      [
+       "Enfronta",
+       "Posa juntes les dues cares exteriors i, per separat, les dues cares interiors, sempre cara bonica amb cara bonica."
+      ],
+      [
+       "Cus els laterals llargs",
+       "Fes un repunt recte i un zig-zag als costats llargs."
+      ],
+      [
+       "Gira",
+       "Gira el necesser perquè el folre quedi a l’exterior."
+      ],
+      [
+       "Centra la cremallera",
+       "Col·loca la cremallera al centre i cus els dos extrems curts."
+      ],
+      [
+       "Acaba els extrems",
+       "Utilitza les tires de 4,5 cm com a biaix: cus a 1 cm, fes doble plec i tanca per la part posterior."
+      ]
+     ],
+     "cap": "Referència · tancament"
+    },
+    {
+     "e": "Volum",
+     "t": "Li donem forma",
+     "items": [
+      [
+       "Forma les cantonades",
+       "Triangula les quatre cantonades."
+      ],
+      [
+       "Mesura",
+       "Marca una línia d’11 cm d’amplada, que correspon a 5,5 cm d’alçada."
+      ],
+      [
+       "Cus",
+       "Cus directament sobre la línia marcada."
+      ],
+      [
+       "Retalla",
+       "Retalla el sobrant deixant 1 cm de marge."
+      ],
+      [
+       "Acaba",
+       "Torna a utilitzar les tires de 4,5 cm com a biaix perquè els costats quedin ben nets."
+      ]
+     ],
+     "warn": "Abans de cosir, comprova que les teles, especialment el folre, estiguin ben planes i sense plecs. Obrir la cremallera et pot ajudar.",
+     "cap": "Referència · cantonades"
+    }
+   ],
+   "outro": "Necesser acabat. Guarda aquestes instruccions amb el teu kit i revisa el “check” del pas anterior si algun pas et genera dubtes."
+  },
+  "es": {
+   "title": "Neceser con volante",
+   "intro": "Una guía visual para seguir el proyecto paso a paso sin perderte. Cada bloque te indica qué preparar, qué coser y cómo debe quedar antes de continuar.",
+   "pills": [
+    "± 3 h",
+    "Cremallera · 45 cm",
+    "Acolchado + forro",
+    "Bolsillo interior"
+   ],
+   "materials": [
+    [
+     "Volante",
+     "2 tiras · 70 × 11 cm"
+    ],
+    [
+     "Exterior",
+     "2 piezas · 31 × 40 cm"
+    ],
+    [
+     "Forro interior",
+     "2 piezas · 31 × 40 cm"
+    ],
+    [
+     "Bolsillo",
+     "2 piezas · 30 × 12 cm"
+    ],
+    [
+     "Estabilizador / foam",
+     "2 piezas · 31 × 40 cm"
+    ],
+    [
+     "Cremallera",
+     "1 unidad · 45 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Exterior",
+     "t": "Acolchamos la tela exterior",
+     "items": [
+      [
+       "Coloca",
+       "Pon cada pieza exterior sobre una pieza de foam o estabilizador."
+      ],
+      [
+       "Marca",
+       "Dibuja líneas verticales cada 5 cm con un bolígrafo de plancha."
+      ],
+      [
+       "Cose",
+       "Cose exactamente sobre cada línea para unir tela y estabilizador."
+      ]
+     ],
+     "check": "Debes tener dos piezas exteriores acolchadas antes de pasar al volante."
+    },
+    {
+     "e": "Volante",
+     "t": "Hacemos el volante",
+     "items": [
+      [
+       "Dobla y plancha",
+       "Dobla cada tira de 70 × 11 cm por la mitad, a lo largo."
+      ],
+      [
+       "Prepara la máquina",
+       "Pon hilo elástico en la canilla. Largo de puntada: 4. Tensión: 0."
+      ],
+      [
+       "Frunce",
+       "Cose un pespunte recto por el lado abierto, sin rematar. La tela se irá frunciendo hasta formar el volante."
+      ],
+      [
+       "Fija",
+       "Coloca el volante en la parte superior de cada pieza acolchada y fíjalo con un zigzag."
+      ]
+     ],
+     "tip": "Repite este proceso en las dos piezas exteriores.",
+     "cap": "Referencia · volante"
+    },
+    {
+     "e": "Forro",
+     "t": "Cosemos el bolsillo",
+     "items": [
+      [
+       "Enfrenta",
+       "Pon las dos piezas de bolsillo derecho con derecho."
+      ],
+      [
+       "Cose",
+       "Cose los dos lados largos a medida de prensatelas."
+      ],
+      [
+       "Gira y plancha",
+       "Gira la pieza por un lateral y plánchala bien."
+      ],
+      [
+       "Pespuntea",
+       "Haz un pespunte en la parte superior del bolsillo."
+      ],
+      [
+       "Coloca",
+       "Céntralo sobre una de las piezas de forro y cose solo la parte inferior."
+      ]
+     ],
+     "cap": "Referencia · bolsillo"
+    },
+    {
+     "e": "Montaje",
+     "t": "Montamos la cremallera",
+     "items": [
+      [
+       "Haz el “sándwich”",
+       "Exterior con volante + cremallera encarada al volante + forro encarado al exterior."
+      ],
+      [
+       "Fija",
+       "Alinea las tres capas por la parte superior y sujétalas con alfileres."
+      ],
+      [
+       "Cose",
+       "Usa el prensatelas de cremallera y cose la parte superior del conjunto."
+      ],
+      [
+       "Gira y pespuntea",
+       "Abre las telas hacia fuera, estíralas bien y haz un pespunte de carga por debajo del volante."
+      ],
+      [
+       "Repite",
+       "Haz exactamente lo mismo al otro lado de la cremallera."
+      ]
+     ],
+     "warn": "El pespunte debe tapar los hilos que fijaron el volante a la tela exterior. Si aún se ven, mete un poco más el pespunte.",
+     "cap": "Referencia · cremallera"
+    },
+    {
+     "e": "Cierre",
+     "t": "Cerramos el neceser",
+     "items": [
+      [
+       "Enfrenta",
+       "Junta las dos caras exteriores y, por separado, las dos interiores, siempre derecho con derecho."
+      ],
+      [
+       "Cose los laterales largos",
+       "Haz un pespunte recto y un zigzag en los lados largos."
+      ],
+      [
+       "Gira",
+       "Gira el neceser para que el forro quede por fuera."
+      ],
+      [
+       "Centra la cremallera",
+       "Coloca la cremallera en el centro y cose los dos extremos cortos."
+      ],
+      [
+       "Remata los extremos",
+       "Usa las tiras de 4,5 cm como bies: cose a 1 cm, haz doble pliegue y cierra por la parte trasera."
+      ]
+     ],
+     "cap": "Referencia · cierre"
+    },
+    {
+     "e": "Volumen",
+     "t": "Le damos forma",
+     "items": [
+      [
+       "Forma las esquinas",
+       "Triangula las cuatro esquinas."
+      ],
+      [
+       "Mide",
+       "Marca una línea de 11 cm de ancho, que corresponde a 5,5 cm de alto."
+      ],
+      [
+       "Cose",
+       "Cose directamente sobre la línea marcada."
+      ],
+      [
+       "Recorta",
+       "Recorta el sobrante dejando 1 cm de margen."
+      ],
+      [
+       "Remata",
+       "Vuelve a usar las tiras de 4,5 cm como bies para que los lados queden limpios."
+      ]
+     ],
+     "warn": "Antes de coser, comprueba que las telas, sobre todo el forro, estén bien planas y sin pliegues. Abrir la cremallera ayuda.",
+     "cap": "Referencia · esquinas"
+    }
+   ],
+   "outro": "Neceser terminado. Guarda estas instrucciones con tu kit y revisa el “check” del paso anterior si alguno te genera dudas."
+  },
+  "en": {
+   "title": "Ruffle toiletry bag",
+   "intro": "A visual guide so you can follow the project step by step without getting lost. Each block tells you what to prepare, what to sew and what it should look like before you carry on.",
+   "pills": [
+    "± 3 h",
+    "Zip · 45 cm",
+    "Quilted + lined",
+    "Inner pocket"
+   ],
+   "materials": [
+    [
+     "Ruffle",
+     "2 strips · 70 × 11 cm"
+    ],
+    [
+     "Outer",
+     "2 pieces · 31 × 40 cm"
+    ],
+    [
+     "Lining",
+     "2 pieces · 31 × 40 cm"
+    ],
+    [
+     "Pocket",
+     "2 pieces · 30 × 12 cm"
+    ],
+    [
+     "Stabiliser / foam",
+     "2 pieces · 31 × 40 cm"
+    ],
+    [
+     "Zip",
+     "1 · 45 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Outer",
+     "t": "Quilt the outer fabric",
+     "items": [
+      [
+       "Place",
+       "Lay each outer piece on a piece of foam or stabiliser."
+      ],
+      [
+       "Mark",
+       "Draw vertical lines every 5 cm with a heat-erasable pen."
+      ],
+      [
+       "Sew",
+       "Sew exactly on each line so fabric and stabiliser are joined."
+      ]
+     ],
+     "check": "You should have two quilted outer pieces before moving on to the ruffle."
+    },
+    {
+     "e": "Ruffle",
+     "t": "Make the ruffle",
+     "items": [
+      [
+       "Fold and press",
+       "Fold each 70 × 11 cm strip in half lengthwise."
+      ],
+      [
+       "Set up the machine",
+       "Put elastic thread in the bobbin. Stitch length: 4. Tension: 0."
+      ],
+      [
+       "Gather",
+       "Sew a straight line along the open edge, without backstitching. The fabric will gather itself into a ruffle."
+      ],
+      [
+       "Attach",
+       "Place the ruffle along the top of each quilted piece and fix it with a zigzag."
+      ]
+     ],
+     "tip": "Repeat this on both outer pieces.",
+     "cap": "Reference · ruffle"
+    },
+    {
+     "e": "Lining",
+     "t": "Sew the pocket",
+     "items": [
+      [
+       "Face",
+       "Put the two pocket pieces right sides together."
+      ],
+      [
+       "Sew",
+       "Sew the two long sides at foot width."
+      ],
+      [
+       "Turn and press",
+       "Turn the piece through one side and press it well."
+      ],
+      [
+       "Topstitch",
+       "Topstitch the upper edge of the pocket."
+      ],
+      [
+       "Place",
+       "Centre it on one lining piece and sew only the bottom edge."
+      ]
+     ],
+     "cap": "Reference · pocket"
+    },
+    {
+     "e": "Assembly",
+     "t": "Fit the zip",
+     "items": [
+      [
+       "Make the “sandwich”",
+       "Outer with ruffle + zip facing the ruffle + lining facing the outer."
+      ],
+      [
+       "Pin",
+       "Align the three layers along the top and pin them."
+      ],
+      [
+       "Sew",
+       "Use the zipper foot and sew the top of the set."
+      ],
+      [
+       "Turn and topstitch",
+       "Open the fabrics outwards, pull them flat and topstitch just below the ruffle."
+      ],
+      [
+       "Repeat",
+       "Do exactly the same on the other side of the zip."
+      ]
+     ],
+     "warn": "The topstitch must cover the threads that fixed the ruffle to the outer fabric. If they still show, move the topstitch in a little.",
+     "cap": "Reference · zip"
+    },
+    {
+     "e": "Closing",
+     "t": "Close the bag",
+     "items": [
+      [
+       "Face",
+       "Put the two outer sides together and, separately, the two lining sides, always right sides together."
+      ],
+      [
+       "Sew the long sides",
+       "Sew a straight line and a zigzag along the long sides."
+      ],
+      [
+       "Turn",
+       "Turn the bag so the lining is on the outside."
+      ],
+      [
+       "Centre the zip",
+       "Place the zip in the middle and sew the two short ends."
+      ],
+      [
+       "Finish the ends",
+       "Use the 4.5 cm strips as binding: sew at 1 cm, double fold and close on the back."
+      ]
+     ],
+     "cap": "Reference · closing"
+    },
+    {
+     "e": "Volume",
+     "t": "Give it shape",
+     "items": [
+      [
+       "Form the corners",
+       "Box the four corners."
+      ],
+      [
+       "Measure",
+       "Mark a line 11 cm wide, which gives 5.5 cm of height."
+      ],
+      [
+       "Sew",
+       "Sew directly on the marked line."
+      ],
+      [
+       "Trim",
+       "Trim the excess leaving a 1 cm allowance."
+      ],
+      [
+       "Finish",
+       "Use the 4.5 cm strips again as binding so the sides are clean."
+      ]
+     ],
+     "warn": "Before sewing, check that the fabrics, especially the lining, are flat and without folds. Opening the zip helps.",
+     "cap": "Reference · corners"
+    }
+   ],
+   "outro": "Toiletry bag done. Keep these instructions with your kit and go back to the previous “check” if a step raises doubts."
+  },
+  "de": {
+   "title": "Necessaire mit Rüsche",
+   "intro": "Eine visuelle Anleitung, damit du das Projekt Schritt für Schritt nachvollziehen kannst. Jeder Block sagt dir, was du vorbereitest, was du nähst und wie es aussehen soll, bevor es weitergeht.",
+   "pills": [
+    "± 3 h",
+    "Reissverschluss · 45 cm",
+    "Gesteppt + gefüttert",
+    "Innentasche"
+   ],
+   "materials": [
+    [
+     "Rüsche",
+     "2 Streifen · 70 × 11 cm"
+    ],
+    [
+     "Aussenstoff",
+     "2 Teile · 31 × 40 cm"
+    ],
+    [
+     "Futter",
+     "2 Teile · 31 × 40 cm"
+    ],
+    [
+     "Tasche",
+     "2 Teile · 30 × 12 cm"
+    ],
+    [
+     "Stabilisator / Foam",
+     "2 Teile · 31 × 40 cm"
+    ],
+    [
+     "Reissverschluss",
+     "1 Stück · 45 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Aussenstoff",
+     "t": "Aussenstoff steppen",
+     "items": [
+      [
+       "Auflegen",
+       "Lege jedes Aussenteil auf ein Stück Foam oder Stabilisator."
+      ],
+      [
+       "Anzeichnen",
+       "Zeichne mit einem Bügelstift alle 5 cm senkrechte Linien."
+      ],
+      [
+       "Nähen",
+       "Nähe genau auf jeder Linie, damit Stoff und Stabilisator verbunden sind."
+      ]
+     ],
+     "check": "Du brauchst zwei gesteppte Aussenteile, bevor es mit der Rüsche weitergeht."
+    },
+    {
+     "e": "Rüsche",
+     "t": "Rüsche nähen",
+     "items": [
+      [
+       "Falten und bügeln",
+       "Falte jeden Streifen von 70 × 11 cm der Länge nach zur Hälfte."
+      ],
+      [
+       "Maschine einstellen",
+       "Gummifaden in die Spule. Stichlänge: 4. Fadenspannung: 0."
+      ],
+      [
+       "Kräuseln",
+       "Nähe eine gerade Naht an der offenen Kante, ohne zu verriegeln. Der Stoff kräuselt sich zur Rüsche."
+      ],
+      [
+       "Fixieren",
+       "Lege die Rüsche an die Oberkante jedes gesteppten Teils und fixiere sie mit Zickzack."
+      ]
+     ],
+     "tip": "Wiederhole das an beiden Aussenteilen.",
+     "cap": "Referenz · Rüsche"
+    },
+    {
+     "e": "Futter",
+     "t": "Tasche nähen",
+     "items": [
+      [
+       "Aufeinanderlegen",
+       "Lege die beiden Taschenteile rechts auf rechts."
+      ],
+      [
+       "Nähen",
+       "Nähe die beiden langen Seiten füsschenbreit."
+      ],
+      [
+       "Wenden und bügeln",
+       "Wende das Teil durch eine Seite und bügle es gut."
+      ],
+      [
+       "Absteppen",
+       "Steppe die Oberkante der Tasche ab."
+      ],
+      [
+       "Platzieren",
+       "Zentriere sie auf einem Futterteil und nähe nur die Unterkante fest."
+      ]
+     ],
+     "cap": "Referenz · Tasche"
+    },
+    {
+     "e": "Montage",
+     "t": "Reissverschluss einsetzen",
+     "items": [
+      [
+       "Das „Sandwich“ bauen",
+       "Aussenteil mit Rüsche + Reissverschluss zur Rüsche gewandt + Futter zum Aussenteil gewandt."
+      ],
+      [
+       "Stecken",
+       "Richte die drei Lagen an der Oberkante aus und stecke sie."
+      ],
+      [
+       "Nähen",
+       "Nähe mit dem Reissverschlussfuss die Oberkante des Pakets."
+      ],
+      [
+       "Wenden und absteppen",
+       "Klappe die Stoffe nach aussen, ziehe sie glatt und steppe knapp unter der Rüsche ab."
+      ],
+      [
+       "Wiederholen",
+       "Mache genau dasselbe auf der anderen Seite des Reissverschlusses."
+      ]
+     ],
+     "warn": "Die Absteppnaht muss die Fäden verdecken, mit denen die Rüsche fixiert wurde. Sieht man sie noch, setze die Naht etwas weiter innen.",
+     "cap": "Referenz · Reissverschluss"
+    },
+    {
+     "e": "Schliessen",
+     "t": "Necessaire schliessen",
+     "items": [
+      [
+       "Aufeinanderlegen",
+       "Lege die beiden Aussenseiten aufeinander und getrennt davon die beiden Futterseiten, immer rechts auf rechts."
+      ],
+      [
+       "Lange Seiten nähen",
+       "Nähe die langen Seiten mit Geradstich und Zickzack."
+      ],
+      [
+       "Wenden",
+       "Wende das Necessaire, sodass das Futter aussen liegt."
+      ],
+      [
+       "Reissverschluss zentrieren",
+       "Lege den Reissverschluss in die Mitte und nähe die beiden kurzen Enden."
+      ],
+      [
+       "Enden versäubern",
+       "Nutze die 4,5-cm-Streifen als Einfassband: bei 1 cm nähen, doppelt falten und auf der Rückseite schliessen."
+      ]
+     ],
+     "cap": "Referenz · Schliessen"
+    },
+    {
+     "e": "Volumen",
+     "t": "Form geben",
+     "items": [
+      [
+       "Ecken formen",
+       "Falte die vier Ecken zu Dreiecken."
+      ],
+      [
+       "Messen",
+       "Zeichne eine 11 cm breite Linie an; das ergibt 5,5 cm Höhe."
+      ],
+      [
+       "Nähen",
+       "Nähe direkt auf der angezeichneten Linie."
+      ],
+      [
+       "Zurückschneiden",
+       "Schneide den Überstand auf 1 cm Nahtzugabe zurück."
+      ],
+      [
+       "Versäubern",
+       "Nutze wieder die 4,5-cm-Streifen als Einfassband, damit die Seiten sauber sind."
+      ]
+     ],
+     "warn": "Prüfe vor dem Nähen, dass die Stoffe, vor allem das Futter, glatt und ohne Falten liegen. Den Reissverschluss zu öffnen hilft.",
+     "cap": "Referenz · Ecken"
+    }
+   ],
+   "outro": "Necessaire fertig. Bewahre diese Anleitung beim Kit auf und schau beim „Check“ des vorherigen Schritts nach, wenn etwas unklar ist."
+  },
+  "fr": {
+   "title": "Trousse à volant",
+   "intro": "Un guide visuel pour suivre le projet pas à pas sans te perdre. Chaque bloc t’indique quoi préparer, quoi coudre et à quoi ça doit ressembler avant de continuer.",
+   "pills": [
+    "± 3 h",
+    "Fermeture · 45 cm",
+    "Matelassé + doublé",
+    "Poche intérieure"
+   ],
+   "materials": [
+    [
+     "Volant",
+     "2 bandes · 70 × 11 cm"
+    ],
+    [
+     "Extérieur",
+     "2 pièces · 31 × 40 cm"
+    ],
+    [
+     "Doublure",
+     "2 pièces · 31 × 40 cm"
+    ],
+    [
+     "Poche",
+     "2 pièces · 30 × 12 cm"
+    ],
+    [
+     "Stabilisateur / mousse",
+     "2 pièces · 31 × 40 cm"
+    ],
+    [
+     "Fermeture à glissière",
+     "1 · 45 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Extérieur",
+     "t": "Matelasser le tissu extérieur",
+     "items": [
+      [
+       "Place",
+       "Pose chaque pièce extérieure sur une pièce de mousse ou de stabilisateur."
+      ],
+      [
+       "Trace",
+       "Trace des lignes verticales tous les 5 cm au stylo effaçable à la chaleur."
+      ],
+      [
+       "Couds",
+       "Couds exactement sur chaque ligne pour solidariser tissu et stabilisateur."
+      ]
+     ],
+     "check": "Tu dois avoir deux pièces extérieures matelassées avant de passer au volant."
+    },
+    {
+     "e": "Volant",
+     "t": "Faire le volant",
+     "items": [
+      [
+       "Plie et repasse",
+       "Plie chaque bande de 70 × 11 cm en deux dans la longueur."
+      ],
+      [
+       "Prépare la machine",
+       "Fil élastique dans la canette. Longueur de point : 4. Tension : 0."
+      ],
+      [
+       "Fronce",
+       "Pique une ligne droite le long du bord ouvert, sans point d’arrêt. Le tissu se fronce tout seul en volant."
+      ],
+      [
+       "Fixe",
+       "Place le volant en haut de chaque pièce matelassée et fixe-le au zigzag."
+      ]
+     ],
+     "tip": "Répète l’opération sur les deux pièces extérieures.",
+     "cap": "Référence · volant"
+    },
+    {
+     "e": "Doublure",
+     "t": "Coudre la poche",
+     "items": [
+      [
+       "Superpose",
+       "Place les deux pièces de poche endroit contre endroit."
+      ],
+      [
+       "Couds",
+       "Couds les deux grands côtés au bord du pied."
+      ],
+      [
+       "Retourne et repasse",
+       "Retourne la pièce par un côté et repasse-la bien."
+      ],
+      [
+       "Surpique",
+       "Surpique le haut de la poche."
+      ],
+      [
+       "Place",
+       "Centre-la sur une pièce de doublure et ne couds que le bas."
+      ]
+     ],
+     "cap": "Référence · poche"
+    },
+    {
+     "e": "Montage",
+     "t": "Poser la fermeture",
+     "items": [
+      [
+       "Fais le « sandwich »",
+       "Extérieur avec volant + fermeture face au volant + doublure face à l’extérieur."
+      ],
+      [
+       "Épingle",
+       "Aligne les trois épaisseurs en haut et épingle."
+      ],
+      [
+       "Couds",
+       "Utilise le pied fermeture et couds le haut de l’ensemble."
+      ],
+      [
+       "Retourne et surpique",
+       "Ouvre les tissus vers l’extérieur, tends-les bien et surpique juste sous le volant."
+      ],
+      [
+       "Répète",
+       "Fais exactement la même chose de l’autre côté de la fermeture."
+      ]
+     ],
+     "warn": "La surpiqûre doit couvrir les fils qui ont fixé le volant au tissu extérieur. S’ils dépassent, rentre un peu la surpiqûre.",
+     "cap": "Référence · fermeture"
+    },
+    {
+     "e": "Fermeture",
+     "t": "Fermer la trousse",
+     "items": [
+      [
+       "Superpose",
+       "Assemble les deux faces extérieures et, séparément, les deux faces intérieures, toujours endroit contre endroit."
+      ],
+      [
+       "Couds les grands côtés",
+       "Une ligne droite puis un zigzag sur les grands côtés."
+      ],
+      [
+       "Retourne",
+       "Retourne la trousse pour que la doublure soit à l’extérieur."
+      ],
+      [
+       "Centre la fermeture",
+       "Place la fermeture au centre et couds les deux petits côtés."
+      ],
+      [
+       "Finis les extrémités",
+       "Utilise les bandes de 4,5 cm comme biais : couds à 1 cm, double pli et referme au dos."
+      ]
+     ],
+     "cap": "Référence · fermeture"
+    },
+    {
+     "e": "Volume",
+     "t": "Donner la forme",
+     "items": [
+      [
+       "Forme les coins",
+       "Triangule les quatre coins."
+      ],
+      [
+       "Mesure",
+       "Trace une ligne de 11 cm de large, soit 5,5 cm de hauteur."
+      ],
+      [
+       "Couds",
+       "Couds directement sur la ligne tracée."
+      ],
+      [
+       "Recoupe",
+       "Recoupe l’excédent en laissant 1 cm de marge."
+      ],
+      [
+       "Finis",
+       "Réutilise les bandes de 4,5 cm comme biais pour des côtés bien nets."
+      ]
+     ],
+     "warn": "Avant de coudre, vérifie que les tissus, surtout la doublure, sont bien à plat et sans plis. Ouvrir la fermeture aide.",
+     "cap": "Référence · coins"
+    }
+   ],
+   "outro": "Trousse terminée. Garde ces instructions avec ton kit et reviens au « check » de l’étape précédente en cas de doute."
+  },
+  "it": {
+   "title": "Beauty case con balza",
+   "intro": "Una guida visiva per seguire il progetto passo dopo passo senza perderti. Ogni blocco ti dice cosa preparare, cosa cucire e come deve risultare prima di continuare.",
+   "pills": [
+    "± 3 h",
+    "Cerniera · 45 cm",
+    "Trapuntato + foderato",
+    "Tasca interna"
+   ],
+   "materials": [
+    [
+     "Balza",
+     "2 strisce · 70 × 11 cm"
+    ],
+    [
+     "Esterno",
+     "2 pezzi · 31 × 40 cm"
+    ],
+    [
+     "Fodera",
+     "2 pezzi · 31 × 40 cm"
+    ],
+    [
+     "Tasca",
+     "2 pezzi · 30 × 12 cm"
+    ],
+    [
+     "Stabilizzatore / foam",
+     "2 pezzi · 31 × 40 cm"
+    ],
+    [
+     "Cerniera",
+     "1 · 45 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Esterno",
+     "t": "Trapuntiamo il tessuto esterno",
+     "items": [
+      [
+       "Posiziona",
+       "Metti ogni pezzo esterno su un pezzo di foam o stabilizzatore."
+      ],
+      [
+       "Segna",
+       "Traccia linee verticali ogni 5 cm con una penna cancellabile col ferro."
+      ],
+      [
+       "Cuci",
+       "Cuci esattamente su ogni linea per unire tessuto e stabilizzatore."
+      ]
+     ],
+     "check": "Devi avere due pezzi esterni trapuntati prima di passare alla balza."
+    },
+    {
+     "e": "Balza",
+     "t": "Facciamo la balza",
+     "items": [
+      [
+       "Piega e stira",
+       "Piega ogni striscia di 70 × 11 cm a metà per il lungo."
+      ],
+      [
+       "Prepara la macchina",
+       "Filo elastico nella spolina. Lunghezza punto: 4. Tensione: 0."
+      ],
+      [
+       "Arriccia",
+       "Cuci una linea dritta sul lato aperto, senza fermare. Il tessuto si arriccia da solo formando la balza."
+      ],
+      [
+       "Fissa",
+       "Posiziona la balza sul bordo superiore di ogni pezzo trapuntato e fissala con uno zigzag."
+      ]
+     ],
+     "tip": "Ripeti su entrambi i pezzi esterni.",
+     "cap": "Riferimento · balza"
+    },
+    {
+     "e": "Fodera",
+     "t": "Cuciamo la tasca",
+     "items": [
+      [
+       "Affronta",
+       "Metti i due pezzi della tasca dritto contro dritto."
+      ],
+      [
+       "Cuci",
+       "Cuci i due lati lunghi a larghezza di piedino."
+      ],
+      [
+       "Rivolta e stira",
+       "Rivolta il pezzo da un lato e stiralo bene."
+      ],
+      [
+       "Impuntura",
+       "Fai un’impuntura sul bordo superiore della tasca."
+      ],
+      [
+       "Posiziona",
+       "Centrala su un pezzo di fodera e cuci solo il bordo inferiore."
+      ]
+     ],
+     "cap": "Riferimento · tasca"
+    },
+    {
+     "e": "Montaggio",
+     "t": "Montiamo la cerniera",
+     "items": [
+      [
+       "Fai il “sandwich”",
+       "Esterno con balza + cerniera rivolta verso la balza + fodera rivolta verso l’esterno."
+      ],
+      [
+       "Fissa",
+       "Allinea i tre strati sul bordo superiore e fermali con gli spilli."
+      ],
+      [
+       "Cuci",
+       "Usa il piedino per cerniere e cuci il bordo superiore dell’insieme."
+      ],
+      [
+       "Rivolta e impuntura",
+       "Apri i tessuti verso l’esterno, tendili bene e fai un’impuntura appena sotto la balza."
+      ],
+      [
+       "Ripeti",
+       "Fai esattamente lo stesso sull’altro lato della cerniera."
+      ]
+     ],
+     "warn": "L’impuntura deve coprire i fili che hanno fissato la balza al tessuto esterno. Se si vedono ancora, sposta l’impuntura un po’ più dentro.",
+     "cap": "Riferimento · cerniera"
+    },
+    {
+     "e": "Chiusura",
+     "t": "Chiudiamo il beauty case",
+     "items": [
+      [
+       "Affronta",
+       "Unisci le due facce esterne e, separatamente, le due interne, sempre dritto contro dritto."
+      ],
+      [
+       "Cuci i lati lunghi",
+       "Una cucitura dritta e uno zigzag sui lati lunghi."
+      ],
+      [
+       "Rivolta",
+       "Rivolta il beauty case in modo che la fodera resti all’esterno."
+      ],
+      [
+       "Centra la cerniera",
+       "Metti la cerniera al centro e cuci le due estremità corte."
+      ],
+      [
+       "Rifinisci le estremità",
+       "Usa le strisce da 4,5 cm come sbieco: cuci a 1 cm, doppia piega e chiudi sul retro."
+      ]
+     ],
+     "cap": "Riferimento · chiusura"
+    },
+    {
+     "e": "Volume",
+     "t": "Diamo la forma",
+     "items": [
+      [
+       "Forma gli angoli",
+       "Triangola i quattro angoli."
+      ],
+      [
+       "Misura",
+       "Segna una linea larga 11 cm, che corrisponde a 5,5 cm di altezza."
+      ],
+      [
+       "Cuci",
+       "Cuci direttamente sulla linea segnata."
+      ],
+      [
+       "Rifila",
+       "Rifila l’eccesso lasciando 1 cm di margine."
+      ],
+      [
+       "Rifinisci",
+       "Usa di nuovo le strisce da 4,5 cm come sbieco per lati puliti."
+      ]
+     ],
+     "warn": "Prima di cucire, controlla che i tessuti, soprattutto la fodera, siano ben piatti e senza pieghe. Aprire la cerniera aiuta.",
+     "cap": "Riferimento · angoli"
+    }
+   ],
+   "outro": "Beauty case finito. Conserva queste istruzioni con il kit e rileggi il “check” del passo precedente se qualcosa non ti torna."
+  }
+ }
+}

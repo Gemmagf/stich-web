@@ -1,0 +1,457 @@
+{
+ "badge": "KIT 02",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Crafty Staci",
+  "https://staci-wendland.squarespace.com/blog/passport-wallet"
+ ],
+ "L": {
+  "ca": {
+   "title": "Funda de passaport",
+   "materials": [
+    [
+     "Cotó",
+     "1/4 de iarda o retalls"
+    ],
+    [
+     "Entretela",
+     "aprox. 18 × 32 cm"
+    ],
+    [
+     "Cremallera",
+     "15 cm"
+    ],
+    [
+     "Cordó elàstic",
+     "aprox. 7,5 cm"
+    ],
+    [
+     "Botó",
+     "1 unitat"
+    ],
+    [
+     "Patró",
+     "Plantilles gratuïtes al tutorial"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla i marca",
+     "items": [
+      "Talla cos exterior i interior i les peces de butxaques segons les plantilles. Planxa l’entretela al cos."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Butxaca amb cremallera",
+     "items": [
+      "Prepara la butxaca amb la cremallera de 15 cm i repunta prop de les dents."
+     ]
+    },
+    {
+     "e": "Butxaques",
+     "t": "Munta les butxaques",
+     "items": [
+      "Planxa els marges i col·loca les butxaques grans i petites sobre la peça interior, seguint les marques."
+     ]
+    },
+    {
+     "e": "Llaç",
+     "t": "Afegeix el llaç",
+     "items": [
+      "Forma un llaç amb el cordó elàstic i fixa’l al centre del costat corbat, cap a dins."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Tanca la funda",
+     "items": [
+      "Posa exterior sobre interior, cara bonica amb cara bonica. Cus el perímetre deixant una obertura."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira i acaba",
+     "items": [
+      "Gira, planxa, repunta el contorn, marca el plec central i cus el botó on arribi el llaç sense tensió."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Funda de pasaporte",
+   "materials": [
+    [
+     "Algodón",
+     "1/4 de yarda o retales"
+    ],
+    [
+     "Entretela",
+     "aprox. 18 × 32 cm"
+    ],
+    [
+     "Cremallera",
+     "15 cm"
+    ],
+    [
+     "Cordón elástico",
+     "aprox. 7,5 cm"
+    ],
+    [
+     "Botón",
+     "1 unidad"
+    ],
+    [
+     "Patrón",
+     "Plantillas gratuitas en el tutorial"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta y marca",
+     "items": [
+      "Corta cuerpo exterior e interior y las piezas de bolsillos según las plantillas. Plancha la entretela en el cuerpo."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Bolsillo con cremallera",
+     "items": [
+      "Prepara el bolsillo con la cremallera de 15 cm y pespuntea cerca de los dientes."
+     ]
+    },
+    {
+     "e": "Bolsillos",
+     "t": "Monta los bolsillos",
+     "items": [
+      "Plancha los márgenes y coloca los bolsillos grandes y pequeños sobre la pieza interior, siguiendo las marcas."
+     ]
+    },
+    {
+     "e": "Lazo",
+     "t": "Añade el lazo",
+     "items": [
+      "Forma un lazo con el cordón elástico y fíjalo en el centro del lado curvo, hacia dentro."
+     ]
+    },
+    {
+     "e": "Unir",
+     "t": "Cierra la funda",
+     "items": [
+      "Pon exterior sobre interior, derecho con derecho. Cose el perímetro dejando una abertura."
+     ]
+    },
+    {
+     "e": "Girar",
+     "t": "Gira y acaba",
+     "items": [
+      "Gira, plancha, pespuntea el contorno, marca el pliegue central y cose el botón donde llegue el lazo sin tensión."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Passport cover",
+   "materials": [
+    [
+     "Cotton",
+     "1/4 yard or scraps"
+    ],
+    [
+     "Interfacing",
+     "approx. 18 × 32 cm"
+    ],
+    [
+     "Zip",
+     "15 cm"
+    ],
+    [
+     "Elastic cord",
+     "approx. 7.5 cm"
+    ],
+    [
+     "Button",
+     "1"
+    ],
+    [
+     "Pattern",
+     "Free templates in the tutorial"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut and mark",
+     "items": [
+      "Cut outer and inner body and the pocket pieces from the templates. Fuse the interfacing to the body."
+     ]
+    },
+    {
+     "e": "Zip",
+     "t": "Zip pocket",
+     "items": [
+      "Make the pocket with the 15 cm zip and topstitch close to the teeth."
+     ]
+    },
+    {
+     "e": "Pockets",
+     "t": "Fit the pockets",
+     "items": [
+      "Press the allowances and place the large and small pockets on the inner piece following the marks."
+     ]
+    },
+    {
+     "e": "Loop",
+     "t": "Add the loop",
+     "items": [
+      "Make a loop with the elastic cord and fix it at the centre of the curved side, pointing inwards."
+     ]
+    },
+    {
+     "e": "Join",
+     "t": "Close the wallet",
+     "items": [
+      "Place outer on inner, right sides together. Sew around leaving a gap."
+     ]
+    },
+    {
+     "e": "Turn",
+     "t": "Turn and finish",
+     "items": [
+      "Turn, press, topstitch around, mark the centre fold and sew the button where the loop reaches without pulling."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Passhülle",
+   "materials": [
+    [
+     "Baumwolle",
+     "1/4 Yard oder Reste"
+    ],
+    [
+     "Einlage",
+     "ca. 18 × 32 cm"
+    ],
+    [
+     "Reissverschluss",
+     "15 cm"
+    ],
+    [
+     "Gummikordel",
+     "ca. 7,5 cm"
+    ],
+    [
+     "Knopf",
+     "1 Stück"
+    ],
+    [
+     "Schnitt",
+     "Gratis-Vorlagen im Tutorial"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Zuschneiden und markieren",
+     "items": [
+      "Aussen- und Innenkörper sowie die Taschenteile nach Vorlage zuschneiden. Einlage auf den Körper bügeln."
+     ]
+    },
+    {
+     "e": "Reissverschluss",
+     "t": "Reissverschlusstasche",
+     "items": [
+      "Die Tasche mit dem 15-cm-Reissverschluss nähen und knapp neben den Zähnen absteppen."
+     ]
+    },
+    {
+     "e": "Taschen",
+     "t": "Taschen anbringen",
+     "items": [
+      "Zugaben bügeln und die grossen und kleinen Taschen nach den Markierungen auf das Innenteil setzen."
+     ]
+    },
+    {
+     "e": "Schlaufe",
+     "t": "Schlaufe anbringen",
+     "items": [
+      "Aus der Gummikordel eine Schlaufe formen und mittig an der runden Seite nach innen zeigend fixieren."
+     ]
+    },
+    {
+     "e": "Verbinden",
+     "t": "Hülle schliessen",
+     "items": [
+      "Aussenteil rechts auf rechts auf das Innenteil legen. Rundum nähen und eine Wendeöffnung lassen."
+     ]
+    },
+    {
+     "e": "Wenden",
+     "t": "Wenden und fertigstellen",
+     "items": [
+      "Wenden, bügeln, rundum absteppen, die Mittelfalte markieren und den Knopf dort annähen, wo die Schlaufe ohne Spannung hinreicht."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Étui à passeport",
+   "materials": [
+    [
+     "Coton",
+     "1/4 yard ou chutes"
+    ],
+    [
+     "Entoilage",
+     "env. 18 × 32 cm"
+    ],
+    [
+     "Fermeture à glissière",
+     "15 cm"
+    ],
+    [
+     "Cordon élastique",
+     "env. 7,5 cm"
+    ],
+    [
+     "Bouton",
+     "1"
+    ],
+    [
+     "Patron",
+     "Gabarits gratuits dans le tutoriel"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe et marque",
+     "items": [
+      "Coupe le corps extérieur et intérieur et les pièces de poches selon les gabarits. Thermocolle l’entoilage sur le corps."
+     ]
+    },
+    {
+     "e": "Fermeture",
+     "t": "Poche zippée",
+     "items": [
+      "Prépare la poche avec la fermeture de 15 cm et surpique près des dents."
+     ]
+    },
+    {
+     "e": "Poches",
+     "t": "Monte les poches",
+     "items": [
+      "Repasse les marges et place les grandes et petites poches sur la pièce intérieure selon les repères."
+     ]
+    },
+    {
+     "e": "Boucle",
+     "t": "Ajoute la boucle",
+     "items": [
+      "Forme une boucle avec le cordon élastique et fixe-la au centre du côté courbe, vers l’intérieur."
+     ]
+    },
+    {
+     "e": "Assembler",
+     "t": "Ferme l’étui",
+     "items": [
+      "Pose l’extérieur sur l’intérieur, endroit contre endroit. Couds le pourtour en laissant une ouverture."
+     ]
+    },
+    {
+     "e": "Retourner",
+     "t": "Retourne et termine",
+     "items": [
+      "Retourne, repasse, surpique le tour, marque le pli central et couds le bouton là où la boucle arrive sans tension."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Porta-passaporto",
+   "materials": [
+    [
+     "Cotone",
+     "1/4 di yard o ritagli"
+    ],
+    [
+     "Interfodera",
+     "circa 18 × 32 cm"
+    ],
+    [
+     "Cerniera",
+     "15 cm"
+    ],
+    [
+     "Cordoncino elastico",
+     "circa 7,5 cm"
+    ],
+    [
+     "Bottone",
+     "1"
+    ],
+    [
+     "Cartamodello",
+     "Sagome gratuite nel tutorial"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia e segna",
+     "items": [
+      "Taglia corpo esterno e interno e i pezzi delle tasche secondo le sagome. Stira l’interfodera sul corpo."
+     ]
+    },
+    {
+     "e": "Cerniera",
+     "t": "Tasca con cerniera",
+     "items": [
+      "Prepara la tasca con la cerniera da 15 cm e fai un’impuntura vicino ai denti."
+     ]
+    },
+    {
+     "e": "Tasche",
+     "t": "Monta le tasche",
+     "items": [
+      "Stira i margini e posiziona le tasche grandi e piccole sul pezzo interno seguendo i segni."
+     ]
+    },
+    {
+     "e": "Asola",
+     "t": "Aggiungi l’asola",
+     "items": [
+      "Forma un’asola con il cordoncino elastico e fissala al centro del lato curvo, verso l’interno."
+     ]
+    },
+    {
+     "e": "Unire",
+     "t": "Chiudi il portadocumenti",
+     "items": [
+      "Metti l’esterno sull’interno, dritto contro dritto. Cuci il perimetro lasciando un’apertura."
+     ]
+    },
+    {
+     "e": "Rivoltare",
+     "t": "Rivolta e finisci",
+     "items": [
+      "Rivolta, stira, impuntura il contorno, segna la piega centrale e cuci il bottone dove arriva l’asola senza tensione."
+     ]
+    }
+   ]
+  }
+ }
+}

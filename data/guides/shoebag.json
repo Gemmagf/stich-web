@@ -1,0 +1,353 @@
+{
+ "badge": "KIT 04b",
+ "hours": 2,
+ "imgs": [
+  1,
+  2,
+  3
+ ],
+ "L": {
+  "ca": {
+   "title": "Bossa de sabates",
+   "materials": [
+    [
+     "Exterior",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm"
+    ],
+    [
+     "Interior",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm (impermeable)"
+    ],
+    [
+     "Cremallera",
+     "1 unitat · 45 cm"
+    ],
+    [
+     "Biaix",
+     "2 peces · 20 × 4 cm"
+    ],
+    [
+     "Cinta de motxilla",
+     "12 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Muntem la cremallera",
+     "items": [
+      "Col·loca una peça interior de 18 × 40 cm amb la cara bonica amunt.",
+      "Alinea la cremallera al costat de 40 cm i posa a sobre la peça exterior, cara bonica cap avall.",
+      "Cus amb pota de cremallera, gira les teles i fes un repunt de càrrega.",
+      "Repeteix el mateix a l’altre costat de la cremallera."
+     ],
+     "cap": "Pàgina 1 · cremallera"
+    },
+    {
+     "t": "Cosim les teles del darrere",
+     "items": [
+      "Posa la peça amb cremallera sobre la peça interior de 36 × 40 cm, cara bonica amb cara bonica.",
+      "A sobre col·loca la peça exterior de 36 × 40 cm, amb les cares boniques encarades.",
+      "Cus els dos laterals de 40 cm i remata amb zig-zag.",
+      "Gira i centra la cremallera; retalla el sobrant si cal."
+     ],
+     "cap": "Pàgina 2 · cos principal"
+    },
+    {
+     "t": "Tanquem i rematem",
+     "items": [
+      "Centra la cremallera i marca 5 cm de plec a cada lateral.",
+      "Fixa els plecs amb agulles i cus el lateral passant per sobre de la cremallera.",
+      "Afegeix la tira de 4 cm al marge per fer l’acabat tipus biaix.",
+      "Repeteix a l’altre costat, gira la bossa i comprova que els acabats quedin nets."
+     ],
+     "cap": "Pàgina 3 · tancament"
+    }
+   ]
+  },
+  "es": {
+   "title": "Bolsa de zapatos",
+   "materials": [
+    [
+     "Exterior",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm"
+    ],
+    [
+     "Interior",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm (impermeable)"
+    ],
+    [
+     "Cremallera",
+     "1 unidad · 45 cm"
+    ],
+    [
+     "Bies",
+     "2 piezas · 20 × 4 cm"
+    ],
+    [
+     "Cinta de mochila",
+     "12 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Montamos la cremallera",
+     "items": [
+      "Coloca una pieza interior de 18 × 40 cm con el derecho hacia arriba.",
+      "Alinea la cremallera en el lado de 40 cm y pon encima la pieza exterior, derecho hacia abajo.",
+      "Cose con prensatelas de cremallera, gira las telas y haz un pespunte de carga.",
+      "Repite lo mismo al otro lado de la cremallera."
+     ],
+     "cap": "Página 1 · cremallera"
+    },
+    {
+     "t": "Cosemos las telas de atrás",
+     "items": [
+      "Pon la pieza con cremallera sobre la pieza interior de 36 × 40 cm, derecho con derecho.",
+      "Encima coloca la pieza exterior de 36 × 40 cm, con los derechos enfrentados.",
+      "Cose los dos laterales de 40 cm y remata con zigzag.",
+      "Gira y centra la cremallera; recorta el sobrante si hace falta."
+     ],
+     "cap": "Página 2 · cuerpo principal"
+    },
+    {
+     "t": "Cerramos y rematamos",
+     "items": [
+      "Centra la cremallera y marca 5 cm de pliegue en cada lateral.",
+      "Fija los pliegues con alfileres y cose el lateral pasando por encima de la cremallera.",
+      "Añade la tira de 4 cm al margen para el acabado tipo bies.",
+      "Repite al otro lado, gira la bolsa y comprueba que los acabados queden limpios."
+     ],
+     "cap": "Página 3 · cierre"
+    }
+   ]
+  },
+  "en": {
+   "title": "Shoe bag",
+   "materials": [
+    [
+     "Outer",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm"
+    ],
+    [
+     "Lining",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm (waterproof)"
+    ],
+    [
+     "Zip",
+     "1 · 45 cm"
+    ],
+    [
+     "Binding",
+     "2 pieces · 20 × 4 cm"
+    ],
+    [
+     "Webbing",
+     "12 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Fit the zip",
+     "items": [
+      "Place one 18 × 40 cm lining piece right side up.",
+      "Align the zip along the 40 cm edge and put the outer piece on top, right side down.",
+      "Sew with the zipper foot, turn the fabrics and topstitch.",
+      "Repeat on the other side of the zip."
+     ],
+     "cap": "Page 1 · zip"
+    },
+    {
+     "t": "Sew the back fabrics",
+     "items": [
+      "Put the zip piece on the 36 × 40 cm lining piece, right sides together.",
+      "On top, place the 36 × 40 cm outer piece, right sides facing.",
+      "Sew the two 40 cm sides and finish with a zigzag.",
+      "Turn and centre the zip; trim the excess if needed."
+     ],
+     "cap": "Page 2 · main body"
+    },
+    {
+     "t": "Close and finish",
+     "items": [
+      "Centre the zip and mark a 5 cm fold on each side.",
+      "Pin the folds and sew the side, passing over the zip.",
+      "Add the 4 cm strip to the allowance for a bound finish.",
+      "Repeat on the other side, turn the bag and check the finishes are clean."
+     ],
+     "cap": "Page 3 · closing"
+    }
+   ]
+  },
+  "de": {
+   "title": "Schuhbeutel",
+   "materials": [
+    [
+     "Aussenstoff",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm"
+    ],
+    [
+     "Futter",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm (wasserdicht)"
+    ],
+    [
+     "Reissverschluss",
+     "1 Stück · 45 cm"
+    ],
+    [
+     "Einfassband",
+     "2 Teile · 20 × 4 cm"
+    ],
+    [
+     "Gurtband",
+     "12 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Reissverschluss einsetzen",
+     "items": [
+      "Ein Futterteil 18 × 40 cm mit der rechten Seite nach oben legen.",
+      "Den Reissverschluss an der 40-cm-Kante ausrichten und das Aussenteil mit der rechten Seite nach unten darauflegen.",
+      "Mit dem Reissverschlussfuss nähen, die Stoffe umklappen und absteppen.",
+      "Dasselbe auf der anderen Seite des Reissverschlusses wiederholen."
+     ],
+     "cap": "Seite 1 · Reissverschluss"
+    },
+    {
+     "t": "Rückseiten nähen",
+     "items": [
+      "Das Teil mit Reissverschluss rechts auf rechts auf das Futterteil 36 × 40 cm legen.",
+      "Darauf das Aussenteil 36 × 40 cm legen, rechte Seiten aufeinander.",
+      "Die beiden 40-cm-Seiten nähen und mit Zickzack versäubern.",
+      "Wenden und den Reissverschluss zentrieren; Überstand bei Bedarf abschneiden."
+     ],
+     "cap": "Seite 2 · Hauptteil"
+    },
+    {
+     "t": "Schliessen und versäubern",
+     "items": [
+      "Den Reissverschluss zentrieren und an jeder Seite 5 cm Falte anzeichnen.",
+      "Die Falten stecken und die Seite über den Reissverschluss hinweg nähen.",
+      "Den 4-cm-Streifen an die Nahtzugabe setzen und als Einfassung verarbeiten.",
+      "Auf der anderen Seite wiederholen, wenden und prüfen, dass die Kanten sauber sind."
+     ],
+     "cap": "Seite 3 · Schliessen"
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac à chaussures",
+   "materials": [
+    [
+     "Extérieur",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm"
+    ],
+    [
+     "Doublure",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm (imperméable)"
+    ],
+    [
+     "Fermeture à glissière",
+     "1 · 45 cm"
+    ],
+    [
+     "Biais",
+     "2 pièces · 20 × 4 cm"
+    ],
+    [
+     "Sangle",
+     "12 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Poser la fermeture",
+     "items": [
+      "Pose une pièce de doublure de 18 × 40 cm endroit vers le haut.",
+      "Aligne la fermeture sur le côté de 40 cm et pose la pièce extérieure par-dessus, endroit vers le bas.",
+      "Couds au pied fermeture, retourne les tissus et surpique.",
+      "Répète de l’autre côté de la fermeture."
+     ],
+     "cap": "Page 1 · fermeture"
+    },
+    {
+     "t": "Coudre les tissus du dos",
+     "items": [
+      "Pose la pièce avec fermeture sur la pièce de doublure de 36 × 40 cm, endroit contre endroit.",
+      "Par-dessus, place la pièce extérieure de 36 × 40 cm, endroits face à face.",
+      "Couds les deux côtés de 40 cm et surfile au zigzag.",
+      "Retourne et centre la fermeture ; recoupe l’excédent si besoin."
+     ],
+     "cap": "Page 2 · corps principal"
+    },
+    {
+     "t": "Fermer et finir",
+     "items": [
+      "Centre la fermeture et marque un pli de 5 cm de chaque côté.",
+      "Épingle les plis et couds le côté en passant sur la fermeture.",
+      "Ajoute la bande de 4 cm sur la marge pour une finition en biais.",
+      "Répète de l’autre côté, retourne le sac et vérifie que les finitions sont nettes."
+     ],
+     "cap": "Page 3 · fermeture"
+    }
+   ]
+  },
+  "it": {
+   "title": "Sacca per scarpe",
+   "materials": [
+    [
+     "Esterno",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm"
+    ],
+    [
+     "Fodera",
+     "2 × 18 × 40 cm · 1 × 36 × 40 cm (impermeabile)"
+    ],
+    [
+     "Cerniera",
+     "1 · 45 cm"
+    ],
+    [
+     "Sbieco",
+     "2 pezzi · 20 × 4 cm"
+    ],
+    [
+     "Fettuccia",
+     "12 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Montiamo la cerniera",
+     "items": [
+      "Posiziona un pezzo di fodera 18 × 40 cm con il dritto verso l’alto.",
+      "Allinea la cerniera al lato di 40 cm e metti sopra il pezzo esterno, dritto verso il basso.",
+      "Cuci con il piedino per cerniere, rivolta i tessuti e fai un’impuntura.",
+      "Ripeti sull’altro lato della cerniera."
+     ],
+     "cap": "Pagina 1 · cerniera"
+    },
+    {
+     "t": "Cuciamo i tessuti del retro",
+     "items": [
+      "Metti il pezzo con la cerniera sul pezzo di fodera 36 × 40 cm, dritto contro dritto.",
+      "Sopra posiziona il pezzo esterno 36 × 40 cm, con i dritti affrontati.",
+      "Cuci i due lati da 40 cm e rifinisci con zigzag.",
+      "Rivolta e centra la cerniera; rifila l’eccesso se serve."
+     ],
+     "cap": "Pagina 2 · corpo principale"
+    },
+    {
+     "t": "Chiudiamo e rifiniamo",
+     "items": [
+      "Centra la cerniera e segna 5 cm di piega su ogni lato.",
+      "Ferma le pieghe con gli spilli e cuci il lato passando sopra la cerniera.",
+      "Aggiungi la striscia da 4 cm al margine per la rifinitura a sbieco.",
+      "Ripeti sull’altro lato, rivolta la sacca e controlla che le rifiniture siano pulite."
+     ],
+     "cap": "Pagina 3 · chiusura"
+    }
+   ]
+  }
+ }
+}

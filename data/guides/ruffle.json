@@ -1,0 +1,584 @@
+{
+ "badge": "KIT 03",
+ "hours": 4,
+ "imgs": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "L": {
+  "ca": {
+   "title": "Bossa amb volant",
+   "materials": [
+    [
+     "Nanses",
+     "2 tires · 65 × 8 cm + 2 tires d’entretela · 65 cm"
+    ],
+    [
+     "Tancament",
+     "1 tira · aprox. 12 × 4 cm + 1 botó"
+    ],
+    [
+     "Volant",
+     "1,70 m de tela · 10 cm d’ample"
+    ],
+    [
+     "Exterior",
+     "2 × 30 × 42 cm · 2 × 6 × 42 cm · 1 × 108 × 17 cm · 2 × 6 × 17 cm"
+    ],
+    [
+     "Folre",
+     "1 × 17 × 108 cm · 2 × 36 × 42 cm"
+    ],
+    [
+     "Butxaca",
+     "2 × 26 × 42 cm · cremallera 45 cm · cinturilla 45 cm"
+    ],
+    [
+     "Foam / estabilitzador",
+     "2 × 36 × 42 cm · 1 × 17 × 100 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Nanses i tancament",
+     "items": [
+      "Planxa l’entretela sobre les tires de 8 × 65 cm.",
+      "Doblega les tires seguint les marques de l’entretela, amagant els marges a l’interior.",
+      "Fes un repunt a cada costat llarg de la nansa.",
+      "Prepara la tira de tancament com un biaix i repunta el costat obert."
+     ],
+     "cap": "Pàgina 1 · nanses i tira de tancament"
+    },
+    {
+     "t": "Volant",
+     "items": [
+      "Uneix les tires fins formar un cercle, cara bonica amb cara bonica.",
+      "Doblega el cercle per la meitat fins obtenir una banda d’uns 5 cm.",
+      "Cus pel costat obert a 1 cm aproximadament.",
+      "Posa la tensió a 0 i fil elàstic a la canilla perquè el volant s’arrugui."
+     ],
+     "cap": "Pàgina 2 · muntatge del volant"
+    },
+    {
+     "t": "Butxaca amb cremallera",
+     "items": [
+      "Prepara les peces de 26 × 42 cm, la cremallera, la cinturilla i una peça interior de 36 × 42 cm.",
+      "Fes el sandvitx de teles i cremallera i cus amb la pota de cremallera.",
+      "Fes un repunt de càrrega molt a prop de la cremallera.",
+      "Col·loca la butxaca sobre la peça interior i fixa la cinturilla a la part superior."
+     ],
+     "cap": "Pàgina 3 · butxaca"
+    },
+    {
+     "t": "Interior de la bossa",
+     "items": [
+      "Fixa les peces al foam amb zig-zag als laterals.",
+      "Cus el contorn de la peça de 36 × 42 cm amb la peça de 17 × 108 cm.",
+      "Afegeix l’altre costat de la bossa.",
+      "Deixa una obertura d’uns 10 cm en un lateral per poder girar la bossa."
+     ],
+     "cap": "Pàgina 4 · interior"
+    },
+    {
+     "t": "Exterior i volant",
+     "items": [
+      "Munta l’exterior igual que l’interior, començant per la peça de 17 cm.",
+      "Uneix les peces de 6 cm entre elles i remata amb zig-zag.",
+      "Reparteix el volant per tota la part superior i fixa’l amb zig-zag.",
+      "Col·loca el cercle de 6 cm sobre el volant, fent coincidir les costures, i cus tot el contorn."
+     ],
+     "cap": "Pàgina 5 · exterior"
+    },
+    {
+     "t": "Muntatge final",
+     "items": [
+      "Centra les nanses: marca el centre i situa cada extrem a 6 cm del centre.",
+      "Col·loca la tira de tancament al costat de la butxaca.",
+      "Posa bossa exterior i interior cara bonica amb cara bonica i cus tot el contorn superior.",
+      "Gira pel forat, tanca’l amb punt ocult, fes un repunt superior i cus el botó."
+     ],
+     "cap": "Pàgina 6 · muntatge final"
+    }
+   ]
+  },
+  "es": {
+   "title": "Bolso con volante",
+   "materials": [
+    [
+     "Asas",
+     "2 tiras · 65 × 8 cm + 2 tiras de entretela · 65 cm"
+    ],
+    [
+     "Cierre",
+     "1 tira · aprox. 12 × 4 cm + 1 botón"
+    ],
+    [
+     "Volante",
+     "1,70 m de tela · 10 cm de ancho"
+    ],
+    [
+     "Exterior",
+     "2 × 30 × 42 cm · 2 × 6 × 42 cm · 1 × 108 × 17 cm · 2 × 6 × 17 cm"
+    ],
+    [
+     "Forro",
+     "1 × 17 × 108 cm · 2 × 36 × 42 cm"
+    ],
+    [
+     "Bolsillo",
+     "2 × 26 × 42 cm · cremallera 45 cm · pretina 45 cm"
+    ],
+    [
+     "Foam / estabilizador",
+     "2 × 36 × 42 cm · 1 × 17 × 100 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Asas y cierre",
+     "items": [
+      "Plancha la entretela sobre las tiras de 8 × 65 cm.",
+      "Dobla las tiras siguiendo las marcas de la entretela, escondiendo los márgenes dentro.",
+      "Haz un pespunte en cada lado largo del asa.",
+      "Prepara la tira de cierre como un bies y pespuntea el lado abierto."
+     ],
+     "cap": "Página 1 · asas y tira de cierre"
+    },
+    {
+     "t": "Volante",
+     "items": [
+      "Une las tiras hasta formar un círculo, derecho con derecho.",
+      "Dobla el círculo por la mitad hasta obtener una banda de unos 5 cm.",
+      "Cose por el lado abierto a 1 cm aproximadamente.",
+      "Pon la tensión a 0 e hilo elástico en la canilla para que el volante se frunza."
+     ],
+     "cap": "Página 2 · montaje del volante"
+    },
+    {
+     "t": "Bolsillo con cremallera",
+     "items": [
+      "Prepara las piezas de 26 × 42 cm, la cremallera, la pretina y una pieza interior de 36 × 42 cm.",
+      "Haz el sándwich de telas y cremallera y cose con el prensatelas de cremallera.",
+      "Haz un pespunte de carga muy cerca de la cremallera.",
+      "Coloca el bolsillo sobre la pieza interior y fija la pretina en la parte superior."
+     ],
+     "cap": "Página 3 · bolsillo"
+    },
+    {
+     "t": "Interior del bolso",
+     "items": [
+      "Fija las piezas al foam con zigzag en los laterales.",
+      "Cose el contorno de la pieza de 36 × 42 cm con la pieza de 17 × 108 cm.",
+      "Añade el otro lado del bolso.",
+      "Deja una abertura de unos 10 cm en un lateral para poder girar el bolso."
+     ],
+     "cap": "Página 4 · interior"
+    },
+    {
+     "t": "Exterior y volante",
+     "items": [
+      "Monta el exterior igual que el interior, empezando por la pieza de 17 cm.",
+      "Une las piezas de 6 cm entre sí y remata con zigzag.",
+      "Reparte el volante por toda la parte superior y fíjalo con zigzag.",
+      "Coloca el círculo de 6 cm sobre el volante, haciendo coincidir las costuras, y cose todo el contorno."
+     ],
+     "cap": "Página 5 · exterior"
+    },
+    {
+     "t": "Montaje final",
+     "items": [
+      "Centra las asas: marca el centro y sitúa cada extremo a 6 cm del centro.",
+      "Coloca la tira de cierre junto al bolsillo.",
+      "Pon bolso exterior e interior derecho con derecho y cose todo el contorno superior.",
+      "Gira por el hueco, ciérralo con punto invisible, haz un pespunte superior y cose el botón."
+     ],
+     "cap": "Página 6 · montaje final"
+    }
+   ]
+  },
+  "en": {
+   "title": "Ruffle bag",
+   "materials": [
+    [
+     "Handles",
+     "2 strips · 65 × 8 cm + 2 strips of interfacing · 65 cm"
+    ],
+    [
+     "Closure",
+     "1 strip · approx. 12 × 4 cm + 1 button"
+    ],
+    [
+     "Ruffle",
+     "1.70 m of fabric · 10 cm wide"
+    ],
+    [
+     "Outer",
+     "2 × 30 × 42 cm · 2 × 6 × 42 cm · 1 × 108 × 17 cm · 2 × 6 × 17 cm"
+    ],
+    [
+     "Lining",
+     "1 × 17 × 108 cm · 2 × 36 × 42 cm"
+    ],
+    [
+     "Pocket",
+     "2 × 26 × 42 cm · zip 45 cm · waistband tape 45 cm"
+    ],
+    [
+     "Foam / stabiliser",
+     "2 × 36 × 42 cm · 1 × 17 × 100 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Handles and closure",
+     "items": [
+      "Iron the interfacing onto the 8 × 65 cm strips.",
+      "Fold the strips along the interfacing marks, hiding the allowances inside.",
+      "Topstitch each long side of the handle.",
+      "Prepare the closure strip like binding and topstitch the open side."
+     ],
+     "cap": "Page 1 · handles and closure strip"
+    },
+    {
+     "t": "Ruffle",
+     "items": [
+      "Join the strips into a ring, right sides together.",
+      "Fold the ring in half to get a band about 5 cm wide.",
+      "Sew along the open edge at about 1 cm.",
+      "Set tension to 0 with elastic thread in the bobbin so the ruffle gathers."
+     ],
+     "cap": "Page 2 · ruffle assembly"
+    },
+    {
+     "t": "Zip pocket",
+     "items": [
+      "Prepare the 26 × 42 cm pieces, the zip, the tape and one 36 × 42 cm lining piece.",
+      "Make the fabric-and-zip sandwich and sew with the zipper foot.",
+      "Topstitch very close to the zip.",
+      "Place the pocket on the lining piece and fix the tape along the top."
+     ],
+     "cap": "Page 3 · pocket"
+    },
+    {
+     "t": "Bag lining",
+     "items": [
+      "Fix the pieces to the foam with a zigzag along the sides.",
+      "Sew the outline of the 36 × 42 cm piece to the 17 × 108 cm piece.",
+      "Add the other side of the bag.",
+      "Leave an opening of about 10 cm in one side to turn the bag."
+     ],
+     "cap": "Page 4 · lining"
+    },
+    {
+     "t": "Outer and ruffle",
+     "items": [
+      "Assemble the outer like the lining, starting with the 17 cm piece.",
+      "Join the 6 cm pieces to each other and finish with a zigzag.",
+      "Spread the ruffle all along the top and fix it with a zigzag.",
+      "Place the 6 cm ring over the ruffle, matching the seams, and sew all around."
+     ],
+     "cap": "Page 5 · outer"
+    },
+    {
+     "t": "Final assembly",
+     "items": [
+      "Centre the handles: mark the centre and place each end 6 cm from it.",
+      "Place the closure strip next to the pocket.",
+      "Put outer and lining bags right sides together and sew all around the top.",
+      "Turn through the gap, close it with a slip stitch, topstitch the top and sew on the button."
+     ],
+     "cap": "Page 6 · final assembly"
+    }
+   ]
+  },
+  "de": {
+   "title": "Tasche mit Rüsche",
+   "materials": [
+    [
+     "Henkel",
+     "2 Streifen · 65 × 8 cm + 2 Streifen Einlage · 65 cm"
+    ],
+    [
+     "Verschluss",
+     "1 Streifen · ca. 12 × 4 cm + 1 Knopf"
+    ],
+    [
+     "Rüsche",
+     "1,70 m Stoff · 10 cm breit"
+    ],
+    [
+     "Aussenstoff",
+     "2 × 30 × 42 cm · 2 × 6 × 42 cm · 1 × 108 × 17 cm · 2 × 6 × 17 cm"
+    ],
+    [
+     "Futter",
+     "1 × 17 × 108 cm · 2 × 36 × 42 cm"
+    ],
+    [
+     "Tasche",
+     "2 × 26 × 42 cm · Reissverschluss 45 cm · Bundband 45 cm"
+    ],
+    [
+     "Foam / Stabilisator",
+     "2 × 36 × 42 cm · 1 × 17 × 100 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Henkel und Verschluss",
+     "items": [
+      "Die Einlage auf die Streifen 8 × 65 cm bügeln.",
+      "Die Streifen entlang der Einlagemarkierungen falten, die Zugaben nach innen.",
+      "Jede lange Seite des Henkels absteppen.",
+      "Den Verschlussstreifen wie ein Einfassband vorbereiten und die offene Seite absteppen."
+     ],
+     "cap": "Seite 1 · Henkel und Verschlussstreifen"
+    },
+    {
+     "t": "Rüsche",
+     "items": [
+      "Die Streifen rechts auf rechts zu einem Ring zusammennähen.",
+      "Den Ring zur Hälfte falten, sodass ein etwa 5 cm breites Band entsteht.",
+      "An der offenen Kante bei etwa 1 cm nähen.",
+      "Fadenspannung auf 0 und Gummifaden in die Spule, damit sich die Rüsche kräuselt."
+     ],
+     "cap": "Seite 2 · Rüsche"
+    },
+    {
+     "t": "Reissverschlusstasche",
+     "items": [
+      "Die Teile 26 × 42 cm, den Reissverschluss, das Band und ein Futterteil 36 × 42 cm bereitlegen.",
+      "Das Sandwich aus Stoffen und Reissverschluss bilden und mit dem Reissverschlussfuss nähen.",
+      "Ganz nah am Reissverschluss absteppen.",
+      "Die Tasche auf das Futterteil legen und das Band an der Oberkante fixieren."
+     ],
+     "cap": "Seite 3 · Tasche"
+    },
+    {
+     "t": "Innentasche",
+     "items": [
+      "Die Teile mit Zickzack an den Seiten auf dem Foam fixieren.",
+      "Den Umriss des Teils 36 × 42 cm mit dem Teil 17 × 108 cm zusammennähen.",
+      "Die andere Seite der Tasche ansetzen.",
+      "An einer Seite eine Wendeöffnung von etwa 10 cm lassen."
+     ],
+     "cap": "Seite 4 · Innen"
+    },
+    {
+     "t": "Aussen und Rüsche",
+     "items": [
+      "Das Aussenteil wie das Innenteil zusammensetzen, mit dem 17-cm-Teil beginnen.",
+      "Die 6-cm-Teile miteinander verbinden und mit Zickzack versäubern.",
+      "Die Rüsche über die ganze Oberkante verteilen und mit Zickzack fixieren.",
+      "Den 6-cm-Ring auf die Rüsche legen, Nähte aufeinander, und rundum nähen."
+     ],
+     "cap": "Seite 5 · Aussen"
+    },
+    {
+     "t": "Endmontage",
+     "items": [
+      "Henkel zentrieren: Mitte markieren und jedes Ende 6 cm davon entfernt setzen.",
+      "Den Verschlussstreifen neben der Tasche platzieren.",
+      "Aussen- und Innentasche rechts auf rechts legen und die Oberkante rundum nähen.",
+      "Durch die Öffnung wenden, mit Matratzenstich schliessen, Oberkante absteppen und den Knopf annähen."
+     ],
+     "cap": "Seite 6 · Endmontage"
+    }
+   ]
+  },
+  "fr": {
+   "title": "Sac à volant",
+   "materials": [
+    [
+     "Anses",
+     "2 bandes · 65 × 8 cm + 2 bandes d’entoilage · 65 cm"
+    ],
+    [
+     "Fermeture",
+     "1 bande · env. 12 × 4 cm + 1 bouton"
+    ],
+    [
+     "Volant",
+     "1,70 m de tissu · 10 cm de large"
+    ],
+    [
+     "Extérieur",
+     "2 × 30 × 42 cm · 2 × 6 × 42 cm · 1 × 108 × 17 cm · 2 × 6 × 17 cm"
+    ],
+    [
+     "Doublure",
+     "1 × 17 × 108 cm · 2 × 36 × 42 cm"
+    ],
+    [
+     "Poche",
+     "2 × 26 × 42 cm · fermeture 45 cm · ruban 45 cm"
+    ],
+    [
+     "Mousse / stabilisateur",
+     "2 × 36 × 42 cm · 1 × 17 × 100 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Anses et fermeture",
+     "items": [
+      "Thermocolle l’entoilage sur les bandes de 8 × 65 cm.",
+      "Plie les bandes en suivant les repères de l’entoilage, marges cachées à l’intérieur.",
+      "Surpique chaque grand côté de l’anse.",
+      "Prépare la bande de fermeture comme un biais et surpique le côté ouvert."
+     ],
+     "cap": "Page 1 · anses et bande de fermeture"
+    },
+    {
+     "t": "Volant",
+     "items": [
+      "Assemble les bandes en cercle, endroit contre endroit.",
+      "Plie le cercle en deux pour obtenir une bande d’environ 5 cm.",
+      "Couds le long du bord ouvert à environ 1 cm.",
+      "Tension à 0 et fil élastique dans la canette pour que le volant se fronce."
+     ],
+     "cap": "Page 2 · montage du volant"
+    },
+    {
+     "t": "Poche zippée",
+     "items": [
+      "Prépare les pièces de 26 × 42 cm, la fermeture, le ruban et une pièce de doublure de 36 × 42 cm.",
+      "Fais le sandwich tissus + fermeture et couds au pied fermeture.",
+      "Surpique très près de la fermeture.",
+      "Place la poche sur la pièce de doublure et fixe le ruban en haut."
+     ],
+     "cap": "Page 3 · poche"
+    },
+    {
+     "t": "Intérieur du sac",
+     "items": [
+      "Fixe les pièces sur la mousse au zigzag sur les côtés.",
+      "Couds le contour de la pièce de 36 × 42 cm avec la pièce de 17 × 108 cm.",
+      "Ajoute l’autre côté du sac.",
+      "Laisse une ouverture d’environ 10 cm sur un côté pour retourner le sac."
+     ],
+     "cap": "Page 4 · intérieur"
+    },
+    {
+     "t": "Extérieur et volant",
+     "items": [
+      "Monte l’extérieur comme l’intérieur, en commençant par la pièce de 17 cm.",
+      "Assemble les pièces de 6 cm entre elles et surfile au zigzag.",
+      "Répartis le volant sur tout le haut et fixe-le au zigzag.",
+      "Place le cercle de 6 cm sur le volant, coutures alignées, et couds tout le tour."
+     ],
+     "cap": "Page 5 · extérieur"
+    },
+    {
+     "t": "Montage final",
+     "items": [
+      "Centre les anses : marque le centre et place chaque extrémité à 6 cm.",
+      "Place la bande de fermeture à côté de la poche.",
+      "Mets sac extérieur et intérieur endroit contre endroit et couds tout le tour du haut.",
+      "Retourne par l’ouverture, referme au point invisible, surpique le haut et couds le bouton."
+     ],
+     "cap": "Page 6 · montage final"
+    }
+   ]
+  },
+  "it": {
+   "title": "Borsa con balza",
+   "materials": [
+    [
+     "Manici",
+     "2 strisce · 65 × 8 cm + 2 strisce di interfodera · 65 cm"
+    ],
+    [
+     "Chiusura",
+     "1 striscia · circa 12 × 4 cm + 1 bottone"
+    ],
+    [
+     "Balza",
+     "1,70 m di tessuto · 10 cm di altezza"
+    ],
+    [
+     "Esterno",
+     "2 × 30 × 42 cm · 2 × 6 × 42 cm · 1 × 108 × 17 cm · 2 × 6 × 17 cm"
+    ],
+    [
+     "Fodera",
+     "1 × 17 × 108 cm · 2 × 36 × 42 cm"
+    ],
+    [
+     "Tasca",
+     "2 × 26 × 42 cm · cerniera 45 cm · nastro 45 cm"
+    ],
+    [
+     "Foam / stabilizzatore",
+     "2 × 36 × 42 cm · 1 × 17 × 100 cm"
+    ]
+   ],
+   "steps": [
+    {
+     "t": "Manici e chiusura",
+     "items": [
+      "Stira l’interfodera sulle strisce da 8 × 65 cm.",
+      "Piega le strisce seguendo i segni dell’interfodera, nascondendo i margini all’interno.",
+      "Fai un’impuntura su ogni lato lungo del manico.",
+      "Prepara la striscia di chiusura come uno sbieco e impuntura il lato aperto."
+     ],
+     "cap": "Pagina 1 · manici e striscia di chiusura"
+    },
+    {
+     "t": "Balza",
+     "items": [
+      "Unisci le strisce fino a formare un anello, dritto contro dritto.",
+      "Piega l’anello a metà fino a ottenere una fascia di circa 5 cm.",
+      "Cuci lungo il lato aperto a circa 1 cm.",
+      "Metti la tensione a 0 e filo elastico nella spolina perché la balza si arricci."
+     ],
+     "cap": "Pagina 2 · montaggio della balza"
+    },
+    {
+     "t": "Tasca con cerniera",
+     "items": [
+      "Prepara i pezzi da 26 × 42 cm, la cerniera, il nastro e un pezzo di fodera da 36 × 42 cm.",
+      "Fai il sandwich di tessuti e cerniera e cuci con il piedino per cerniere.",
+      "Fai un’impuntura molto vicina alla cerniera.",
+      "Posiziona la tasca sul pezzo di fodera e fissa il nastro sul bordo superiore."
+     ],
+     "cap": "Pagina 3 · tasca"
+    },
+    {
+     "t": "Interno della borsa",
+     "items": [
+      "Fissa i pezzi al foam con zigzag sui lati.",
+      "Cuci il contorno del pezzo 36 × 42 cm con il pezzo 17 × 108 cm.",
+      "Aggiungi l’altro lato della borsa.",
+      "Lascia un’apertura di circa 10 cm su un lato per rivoltare la borsa."
+     ],
+     "cap": "Pagina 4 · interno"
+    },
+    {
+     "t": "Esterno e balza",
+     "items": [
+      "Monta l’esterno come l’interno, iniziando dal pezzo da 17 cm.",
+      "Unisci i pezzi da 6 cm tra loro e rifinisci con zigzag.",
+      "Distribuisci la balza su tutto il bordo superiore e fissala con zigzag.",
+      "Posiziona l’anello da 6 cm sopra la balza, facendo combaciare le cuciture, e cuci tutto il contorno."
+     ],
+     "cap": "Pagina 5 · esterno"
+    },
+    {
+     "t": "Montaggio finale",
+     "items": [
+      "Centra i manici: segna il centro e posiziona ogni estremità a 6 cm dal centro.",
+      "Posiziona la striscia di chiusura accanto alla tasca.",
+      "Metti borsa esterna e interna dritto contro dritto e cuci tutto il bordo superiore.",
+      "Rivolta dall’apertura, chiudila con punto invisibile, fai un’impuntura sul bordo e cuci il bottone."
+     ],
+     "cap": "Pagina 6 · montaggio finale"
+    }
+   ]
+  }
+ }
+}

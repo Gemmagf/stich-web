@@ -1,0 +1,457 @@
+{
+ "badge": "KIT 14",
+ "hours": 4,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Red Paw Packs",
+  "https://redpawpacks.com/product/packing-cube-myog-tutorial-and-pattern/"
+ ],
+ "L": {
+  "ca": {
+   "title": "Cubs de viatge (joc de 2)",
+   "materials": [
+    [
+     "Tela",
+     "aprox. mitja iarda per cub"
+    ],
+    [
+     "Cremallera",
+     "#5 · aprox. 76 cm"
+    ],
+    [
+     "Cursors",
+     "2 cursors reversibles"
+    ],
+    [
+     "Cinta de ribet",
+     "Grosgrain 19 mm"
+    ],
+    [
+     "Nansa",
+     "aprox. 33 cm de cinta"
+    ],
+    [
+     "Joc STICH",
+     "Fer 2 mides"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla",
+     "items": [
+      "Descarrega el patró gratuït i talla els panells. Per al joc STICH, fes un cub a mida original i un segon escalat més petit."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Cremallera",
+     "items": [
+      "Munta la cremallera de doble cursor al panell de tapa, mantenint els dos cursors orientats correctament."
+     ]
+    },
+    {
+     "e": "Nansa",
+     "t": "Nansa",
+     "items": [
+      "Fixa la cinta de nansa al panell corresponent reforçant els extrems amb diverses passades."
+     ]
+    },
+    {
+     "e": "Cos",
+     "t": "Forma el cos",
+     "items": [
+      "Uneix tapa, laterals i base seguint el patró, treballant sempre amb els marges cap a l’interior."
+     ]
+    },
+    {
+     "e": "Ribet",
+     "t": "Ribeta",
+     "items": [
+      "Cobreix els marges interiors amb grosgrain perquè l’acabat sigui net i resistent."
+     ]
+    },
+    {
+     "e": "Repetir",
+     "t": "Segon cub",
+     "items": [
+      "Repeteix la mateixa seqüència amb la mida petita, comprovant que tots dos cubs obrin i tanquin sense tensió."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Cubos de viaje (juego de 2)",
+   "materials": [
+    [
+     "Tela",
+     "aprox. media yarda por cubo"
+    ],
+    [
+     "Cremallera",
+     "#5 · aprox. 76 cm"
+    ],
+    [
+     "Cursores",
+     "2 cursores reversibles"
+    ],
+    [
+     "Cinta ribete",
+     "Grosgrain 19 mm"
+    ],
+    [
+     "Asa",
+     "aprox. 33 cm de cinta"
+    ],
+    [
+     "Juego STICH",
+     "Hacer 2 tamaños"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta",
+     "items": [
+      "Descarga el patrón gratuito y corta los paneles. Para el juego STICH, haz un cubo a tamaño original y otro escalado más pequeño."
+     ]
+    },
+    {
+     "e": "Cremallera",
+     "t": "Cremallera",
+     "items": [
+      "Monta la cremallera de doble cursor en el panel de tapa, manteniendo los dos cursores bien orientados."
+     ]
+    },
+    {
+     "e": "Asa",
+     "t": "Asa",
+     "items": [
+      "Fija la cinta del asa al panel correspondiente reforzando los extremos con varias pasadas."
+     ]
+    },
+    {
+     "e": "Cuerpo",
+     "t": "Forma el cuerpo",
+     "items": [
+      "Une tapa, laterales y base siguiendo el patrón, trabajando siempre con los márgenes hacia dentro."
+     ]
+    },
+    {
+     "e": "Ribete",
+     "t": "Ribetea",
+     "items": [
+      "Cubre los márgenes interiores con grosgrain para un acabado limpio y resistente."
+     ]
+    },
+    {
+     "e": "Repetir",
+     "t": "Segundo cubo",
+     "items": [
+      "Repite la misma secuencia con el tamaño pequeño, comprobando que ambos cubos abran y cierren sin tensión."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Packing cube set (2)",
+   "materials": [
+    [
+     "Fabric",
+     "approx. half a yard per cube"
+    ],
+    [
+     "Zip",
+     "#5 · approx. 76 cm"
+    ],
+    [
+     "Sliders",
+     "2 reverse zip pulls"
+    ],
+    [
+     "Binding tape",
+     "Grosgrain 19 mm"
+    ],
+    [
+     "Handle",
+     "approx. 33 cm of webbing"
+    ],
+    [
+     "STICH set",
+     "Make 2 sizes"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut",
+     "items": [
+      "Download the free pattern and cut the panels. For the STICH set, make one cube at original size and a second scaled down."
+     ]
+    },
+    {
+     "e": "Zip",
+     "t": "Zip",
+     "items": [
+      "Fit the double-slider zip to the lid panel, keeping both sliders facing the right way."
+     ]
+    },
+    {
+     "e": "Handle",
+     "t": "Handle",
+     "items": [
+      "Fix the handle webbing to its panel, reinforcing the ends with several passes."
+     ]
+    },
+    {
+     "e": "Body",
+     "t": "Form the body",
+     "items": [
+      "Join lid, sides and base following the pattern, always with allowances to the inside."
+     ]
+    },
+    {
+     "e": "Bind",
+     "t": "Bind",
+     "items": [
+      "Cover the inner allowances with grosgrain for a clean, sturdy finish."
+     ]
+    },
+    {
+     "e": "Repeat",
+     "t": "Second cube",
+     "items": [
+      "Repeat the sequence with the small size, checking that both cubes open and close without strain."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Packwürfel-Set (2)",
+   "materials": [
+    [
+     "Stoff",
+     "ca. ein halber Yard pro Würfel"
+    ],
+    [
+     "Reissverschluss",
+     "#5 · ca. 76 cm"
+    ],
+    [
+     "Schieber",
+     "2 Wendeschieber"
+    ],
+    [
+     "Einfassband",
+     "Ripsband 19 mm"
+    ],
+    [
+     "Griff",
+     "ca. 33 cm Gurtband"
+    ],
+    [
+     "STICH-Set",
+     "2 Grössen nähen"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Zuschneiden",
+     "items": [
+      "Gratis-Schnitt laden und die Teile zuschneiden. Für das STICH-Set einen Würfel in Originalgrösse und einen kleiner skalierten nähen."
+     ]
+    },
+    {
+     "e": "Reissverschluss",
+     "t": "Reissverschluss",
+     "items": [
+      "Den Reissverschluss mit zwei Schiebern in das Deckelteil einsetzen, beide Schieber richtig herum."
+     ]
+    },
+    {
+     "e": "Griff",
+     "t": "Griff",
+     "items": [
+      "Das Gurtband am passenden Teil fixieren und die Enden mehrfach übernähen."
+     ]
+    },
+    {
+     "e": "Körper",
+     "t": "Körper formen",
+     "items": [
+      "Deckel, Seiten und Boden nach Schnitt verbinden, die Zugaben immer nach innen."
+     ]
+    },
+    {
+     "e": "Einfassen",
+     "t": "Einfassen",
+     "items": [
+      "Die inneren Zugaben mit Ripsband einfassen, für einen sauberen, stabilen Abschluss."
+     ]
+    },
+    {
+     "e": "Wiederholen",
+     "t": "Zweiter Würfel",
+     "items": [
+      "Dieselbe Abfolge in der kleinen Grösse wiederholen und prüfen, dass sich beide Würfel ohne Spannung öffnen und schliessen."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Cubes de rangement (lot de 2)",
+   "materials": [
+    [
+     "Tissu",
+     "env. un demi-yard par cube"
+    ],
+    [
+     "Fermeture",
+     "#5 · env. 76 cm"
+    ],
+    [
+     "Curseurs",
+     "2 curseurs réversibles"
+    ],
+    [
+     "Ruban de finition",
+     "Gros-grain 19 mm"
+    ],
+    [
+     "Poignée",
+     "env. 33 cm de sangle"
+    ],
+    [
+     "Lot STICH",
+     "Faire 2 tailles"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe",
+     "items": [
+      "Télécharge le patron gratuit et coupe les panneaux. Pour le lot STICH, fais un cube à la taille d’origine et un second réduit."
+     ]
+    },
+    {
+     "e": "Fermeture",
+     "t": "Fermeture",
+     "items": [
+      "Monte la fermeture à double curseur sur le panneau du couvercle, curseurs bien orientés."
+     ]
+    },
+    {
+     "e": "Poignée",
+     "t": "Poignée",
+     "items": [
+      "Fixe la sangle de poignée sur son panneau en renforçant les extrémités par plusieurs passages."
+     ]
+    },
+    {
+     "e": "Corps",
+     "t": "Forme le corps",
+     "items": [
+      "Assemble couvercle, côtés et fond selon le patron, marges toujours vers l’intérieur."
+     ]
+    },
+    {
+     "e": "Finir",
+     "t": "Ganse",
+     "items": [
+      "Recouvre les marges intérieures de gros-grain pour une finition nette et solide."
+     ]
+    },
+    {
+     "e": "Répéter",
+     "t": "Second cube",
+     "items": [
+      "Répète la séquence en petite taille et vérifie que les deux cubes s’ouvrent et se ferment sans tension."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Organizer da viaggio (set di 2)",
+   "materials": [
+    [
+     "Tessuto",
+     "circa mezza yard per cubo"
+    ],
+    [
+     "Cerniera",
+     "#5 · circa 76 cm"
+    ],
+    [
+     "Cursori",
+     "2 cursori reversibili"
+    ],
+    [
+     "Nastro di rifinitura",
+     "Grosgrain 19 mm"
+    ],
+    [
+     "Maniglia",
+     "circa 33 cm di fettuccia"
+    ],
+    [
+     "Set STICH",
+     "Fare 2 misure"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia",
+     "items": [
+      "Scarica il cartamodello gratuito e taglia i pannelli. Per il set STICH, fai un cubo a misura originale e un secondo ridotto."
+     ]
+    },
+    {
+     "e": "Cerniera",
+     "t": "Cerniera",
+     "items": [
+      "Monta la cerniera a doppio cursore sul pannello del coperchio, con entrambi i cursori orientati bene."
+     ]
+    },
+    {
+     "e": "Maniglia",
+     "t": "Maniglia",
+     "items": [
+      "Fissa la fettuccia della maniglia sul pannello giusto rinforzando le estremità con più passaggi."
+     ]
+    },
+    {
+     "e": "Corpo",
+     "t": "Forma il corpo",
+     "items": [
+      "Unisci coperchio, lati e base seguendo il cartamodello, sempre con i margini verso l’interno."
+     ]
+    },
+    {
+     "e": "Rifinire",
+     "t": "Rifinisci",
+     "items": [
+      "Copri i margini interni con il grosgrain per una finitura pulita e resistente."
+     ]
+    },
+    {
+     "e": "Ripetere",
+     "t": "Secondo cubo",
+     "items": [
+      "Ripeti la sequenza con la misura piccola e controlla che entrambi i cubi si aprano e chiudano senza tensione."
+     ]
+    }
+   ]
+  }
+ }
+}

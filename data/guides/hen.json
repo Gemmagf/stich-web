@@ -1,0 +1,457 @@
+{
+ "badge": "KIT 03",
+ "hours": 2.5,
+ "imgs": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "defaults": "ws2",
+ "src": [
+  "Decorika",
+  "https://www.youtube.com/watch?v=GEL8NIASFpk"
+ ],
+ "L": {
+  "ca": {
+   "title": "Gallina decorativa",
+   "materials": [
+    [
+     "Cos",
+     "Cotó aprox. 34 × 15 cm"
+    ],
+    [
+     "Panxa i ales",
+     "Cotó aprox. 20 × 20 cm"
+    ],
+    [
+     "Cresta i barballera",
+     "Cotó aprox. 10 × 10 cm"
+    ],
+    [
+     "Bec",
+     "Retall petit"
+    ],
+    [
+     "Farciment",
+     "Fibra de farciment"
+    ],
+    [
+     "Ulls",
+     "Brodat o ulls de seguretat"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tallar",
+     "t": "Talla el patró",
+     "items": [
+      "Talla cos, panxa, ales, cresta, barballera i bec. Marca tots els piquets."
+     ]
+    },
+    {
+     "e": "Petites",
+     "t": "Prepara les peces petites",
+     "items": [
+      "Cus ales, cresta, barballera i bec cara bonica amb cara bonica; gira les peces que calgui."
+     ]
+    },
+    {
+     "e": "Col·locar",
+     "t": "Col·loca els detalls",
+     "items": [
+      "Fixa ales, bec, cresta i barballera sobre el cos, tots orientats cap a l’interior de la futura costura."
+     ]
+    },
+    {
+     "e": "Panxa",
+     "t": "Afegeix la panxa",
+     "items": [
+      "Uneix la peça de panxa al cos fent coincidir marques i corbes, sense estirar la tela."
+     ]
+    },
+    {
+     "e": "Cos",
+     "t": "Tanca el cos",
+     "items": [
+      "Cus la resta del cos deixant una obertura suficient per girar i farcir."
+     ]
+    },
+    {
+     "e": "Farcir",
+     "t": "Gira i farceix",
+     "items": [
+      "Gira amb cura, farceix de manera uniforme i tanca l’obertura amb punt invisible. Afegeix els ulls."
+     ]
+    }
+   ]
+  },
+  "es": {
+   "title": "Gallina decorativa",
+   "materials": [
+    [
+     "Cuerpo",
+     "Algodón aprox. 34 × 15 cm"
+    ],
+    [
+     "Barriga y alas",
+     "Algodón aprox. 20 × 20 cm"
+    ],
+    [
+     "Cresta y barba",
+     "Algodón aprox. 10 × 10 cm"
+    ],
+    [
+     "Pico",
+     "Retal pequeño"
+    ],
+    [
+     "Relleno",
+     "Fibra de relleno"
+    ],
+    [
+     "Ojos",
+     "Bordado u ojos de seguridad"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cortar",
+     "t": "Corta el patrón",
+     "items": [
+      "Corta cuerpo, barriga, alas, cresta, barba y pico. Marca todos los piquetes."
+     ]
+    },
+    {
+     "e": "Pequeñas",
+     "t": "Prepara las piezas pequeñas",
+     "items": [
+      "Cose alas, cresta, barba y pico derecho con derecho; gira las piezas que haga falta."
+     ]
+    },
+    {
+     "e": "Colocar",
+     "t": "Coloca los detalles",
+     "items": [
+      "Fija alas, pico, cresta y barba sobre el cuerpo, todos orientados hacia el interior de la futura costura."
+     ]
+    },
+    {
+     "e": "Barriga",
+     "t": "Añade la barriga",
+     "items": [
+      "Une la pieza de barriga al cuerpo haciendo coincidir marcas y curvas, sin estirar la tela."
+     ]
+    },
+    {
+     "e": "Cuerpo",
+     "t": "Cierra el cuerpo",
+     "items": [
+      "Cose el resto del cuerpo dejando una abertura suficiente para girar y rellenar."
+     ]
+    },
+    {
+     "e": "Rellenar",
+     "t": "Gira y rellena",
+     "items": [
+      "Gira con cuidado, rellena de forma uniforme y cierra la abertura con punto invisible. Añade los ojos."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "title": "Decorative hen",
+   "materials": [
+    [
+     "Body",
+     "Cotton approx. 34 × 15 cm"
+    ],
+    [
+     "Belly and wings",
+     "Cotton approx. 20 × 20 cm"
+    ],
+    [
+     "Comb and wattle",
+     "Cotton approx. 10 × 10 cm"
+    ],
+    [
+     "Beak",
+     "Small scrap"
+    ],
+    [
+     "Stuffing",
+     "Fibre filling"
+    ],
+    [
+     "Eyes",
+     "Embroidered or safety eyes"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Cut",
+     "t": "Cut the pattern",
+     "items": [
+      "Cut body, belly, wings, comb, wattle and beak. Mark all the notches."
+     ]
+    },
+    {
+     "e": "Small parts",
+     "t": "Prepare the small pieces",
+     "items": [
+      "Sew wings, comb, wattle and beak right sides together; turn the pieces that need it."
+     ]
+    },
+    {
+     "e": "Place",
+     "t": "Place the details",
+     "items": [
+      "Fix wings, beak, comb and wattle on the body, all pointing inwards from the future seam."
+     ]
+    },
+    {
+     "e": "Belly",
+     "t": "Add the belly",
+     "items": [
+      "Join the belly piece to the body matching marks and curves, without stretching the fabric."
+     ]
+    },
+    {
+     "e": "Body",
+     "t": "Close the body",
+     "items": [
+      "Sew the rest of the body leaving a gap big enough to turn and stuff."
+     ]
+    },
+    {
+     "e": "Stuff",
+     "t": "Turn and stuff",
+     "items": [
+      "Turn carefully, stuff evenly and close the gap with an invisible stitch. Add the eyes."
+     ]
+    }
+   ]
+  },
+  "de": {
+   "title": "Deko-Huhn",
+   "materials": [
+    [
+     "Körper",
+     "Baumwolle ca. 34 × 15 cm"
+    ],
+    [
+     "Bauch und Flügel",
+     "Baumwolle ca. 20 × 20 cm"
+    ],
+    [
+     "Kamm und Kehllappen",
+     "Baumwolle ca. 10 × 10 cm"
+    ],
+    [
+     "Schnabel",
+     "Kleiner Rest"
+    ],
+    [
+     "Füllung",
+     "Füllwatte"
+    ],
+    [
+     "Augen",
+     "Gestickt oder Sicherheitsaugen"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Zuschneiden",
+     "t": "Schnitt zuschneiden",
+     "items": [
+      "Körper, Bauch, Flügel, Kamm, Kehllappen und Schnabel zuschneiden. Alle Knipse markieren."
+     ]
+    },
+    {
+     "e": "Kleinteile",
+     "t": "Kleinteile vorbereiten",
+     "items": [
+      "Flügel, Kamm, Kehllappen und Schnabel rechts auf rechts nähen; wenden, wo nötig."
+     ]
+    },
+    {
+     "e": "Platzieren",
+     "t": "Details platzieren",
+     "items": [
+      "Flügel, Schnabel, Kamm und Kehllappen auf dem Körper fixieren, alle nach innen von der späteren Naht weg zeigend."
+     ]
+    },
+    {
+     "e": "Bauch",
+     "t": "Bauch ansetzen",
+     "items": [
+      "Das Bauchteil an den Körper nähen, Markierungen und Rundungen aufeinander, ohne den Stoff zu dehnen."
+     ]
+    },
+    {
+     "e": "Körper",
+     "t": "Körper schliessen",
+     "items": [
+      "Den Rest des Körpers nähen und eine Öffnung zum Wenden und Füllen lassen."
+     ]
+    },
+    {
+     "e": "Füllen",
+     "t": "Wenden und füllen",
+     "items": [
+      "Vorsichtig wenden, gleichmässig füllen und die Öffnung mit Matratzenstich schliessen. Augen anbringen."
+     ]
+    }
+   ]
+  },
+  "fr": {
+   "title": "Poule décorative",
+   "materials": [
+    [
+     "Corps",
+     "Coton env. 34 × 15 cm"
+    ],
+    [
+     "Ventre et ailes",
+     "Coton env. 20 × 20 cm"
+    ],
+    [
+     "Crête et barbillon",
+     "Coton env. 10 × 10 cm"
+    ],
+    [
+     "Bec",
+     "Petite chute"
+    ],
+    [
+     "Rembourrage",
+     "Fibre de rembourrage"
+    ],
+    [
+     "Yeux",
+     "Brodés ou yeux de sécurité"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Couper",
+     "t": "Coupe le patron",
+     "items": [
+      "Coupe corps, ventre, ailes, crête, barbillon et bec. Marque tous les crans."
+     ]
+    },
+    {
+     "e": "Petites pièces",
+     "t": "Prépare les petites pièces",
+     "items": [
+      "Couds ailes, crête, barbillon et bec endroit contre endroit ; retourne les pièces qui le demandent."
+     ]
+    },
+    {
+     "e": "Placer",
+     "t": "Place les détails",
+     "items": [
+      "Fixe ailes, bec, crête et barbillon sur le corps, tous orientés vers l’intérieur de la future couture."
+     ]
+    },
+    {
+     "e": "Ventre",
+     "t": "Ajoute le ventre",
+     "items": [
+      "Assemble le ventre au corps en faisant coïncider repères et courbes, sans étirer le tissu."
+     ]
+    },
+    {
+     "e": "Corps",
+     "t": "Ferme le corps",
+     "items": [
+      "Couds le reste du corps en laissant une ouverture suffisante pour retourner et rembourrer."
+     ]
+    },
+    {
+     "e": "Rembourrer",
+     "t": "Retourne et rembourre",
+     "items": [
+      "Retourne avec soin, rembourre uniformément et ferme l’ouverture au point invisible. Ajoute les yeux."
+     ]
+    }
+   ]
+  },
+  "it": {
+   "title": "Gallina decorativa",
+   "materials": [
+    [
+     "Corpo",
+     "Cotone circa 34 × 15 cm"
+    ],
+    [
+     "Pancia e ali",
+     "Cotone circa 20 × 20 cm"
+    ],
+    [
+     "Cresta e bargigli",
+     "Cotone circa 10 × 10 cm"
+    ],
+    [
+     "Becco",
+     "Piccolo ritaglio"
+    ],
+    [
+     "Imbottitura",
+     "Fibra per imbottitura"
+    ],
+    [
+     "Occhi",
+     "Ricamati o occhi di sicurezza"
+    ]
+   ],
+   "steps": [
+    {
+     "e": "Tagliare",
+     "t": "Taglia il cartamodello",
+     "items": [
+      "Taglia corpo, pancia, ali, cresta, bargigli e becco. Segna tutte le tacche."
+     ]
+    },
+    {
+     "e": "Piccoli",
+     "t": "Prepara i pezzi piccoli",
+     "items": [
+      "Cuci ali, cresta, bargigli e becco dritto contro dritto; rivolta i pezzi che lo richiedono."
+     ]
+    },
+    {
+     "e": "Posizionare",
+     "t": "Posiziona i dettagli",
+     "items": [
+      "Fissa ali, becco, cresta e bargigli sul corpo, tutti rivolti verso l’interno della futura cucitura."
+     ]
+    },
+    {
+     "e": "Pancia",
+     "t": "Aggiungi la pancia",
+     "items": [
+      "Unisci il pezzo della pancia al corpo facendo combaciare segni e curve, senza tirare il tessuto."
+     ]
+    },
+    {
+     "e": "Corpo",
+     "t": "Chiudi il corpo",
+     "items": [
+      "Cuci il resto del corpo lasciando un’apertura sufficiente per rivoltare e imbottire."
+     ]
+    },
+    {
+     "e": "Imbottire",
+     "t": "Rivolta e imbottisci",
+     "items": [
+      "Rivolta con cura, imbottisci in modo uniforme e chiudi l’apertura con punto invisibile. Aggiungi gli occhi."
+     ]
+    }
+   ]
+  }
+ }
+}
